@@ -62,12 +62,15 @@ for r in sample:
             if not c:
                 out.update(field="listing present", old="present", new="absent (list rotated)", match=False)
             else:
-                nums = re.findall(r"</svg>\s*([0-9,.]+[KkM]?)\s*</span>", c.group(1))
-                price = re.search(r"([$£€][0-9.,]+)", c.group(1)).group(1)
+                cc = html.unescape(c.group(1))
+                nums = re.findall(r"</svg>\s*([0-9,.]+[KkM]?)\s*</span>", cc)
+                pm = re.search(r"([$£€][0-9.,]+|\b[A-Z]{3} [0-9.,]+)", cc)
+                price = re.sub(r"[^0-9.,]", "", pm.group(1)) if pm else ""
                 out.update(field="price|favorites", old=f"{r['price']}|{r['favorites']}", new=f"{price}|{nums[0] if nums else ''}",
-                           match=cmp("p", r["price"], price.strip("$£€")) and cmp("f", r["favorites"], nums[0] if nums else None))
+                           match=cmp("p", r["price"], price) and cmp("f", r["favorites"], nums[0] if nums else None))
         elif m == "teacherspayteachers":
-            b = get("teacherspayteachers.com", "https://www.teacherspayteachers.com/browse?search=" + r["query"].replace(" ", "+"))
+            pg = 2 if int(r["rank_on_page"] or 1) > 24 else 1
+            b = get("teacherspayteachers.com", "https://www.teacherspayteachers.com/browse?search=" + r["query"].replace(" ", "+") + ("&page=2" if pg == 2 else ""))
             path = r["source_url"].replace("https://www.teacherspayteachers.com", "")
             card = next((c for c in re.split(r'data-testid="ProductRow"', b)[1:] if path in c), None)
             if card is None:
@@ -77,7 +80,7 @@ for r in sample:
                 rv = re.search(r"based on ([0-9,]+) reviews?", seg); pr = re.search(r"(\$[0-9.]+) Original Price", seg)
                 out.update(field="price|reviews", old=f"{r['price']}|{r['review_count']}",
                            new=f"{pr.group(1) if pr else ''}|{rv.group(1) if rv else ''}",
-                           match=cmp("p", r["price"], pr.group(1) if pr else None) and cmp("r", r["review_count"], rv.group(1) if rv else None))
+                           match=cmp("p", r["price"], pr.group(1) if pr else None) and (cmp("r", r["review_count"], rv.group(1) if rv else None) or (r["review_count"] in ("", "NOT SHOWN") and not rv)))
         elif m == "amazon":
             src = re.search(r"via (\S+)", r["notes"]).group(1)
             b = get("asinsight.com", src)

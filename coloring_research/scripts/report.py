@@ -164,8 +164,9 @@ for n in niches:
     reasons = []
     if n["etsy_competing_listings_max_kw"] and float(n["etsy_competing_listings_max_kw"]) > 100000 and (n["search_per_listing_median"] or 9) < 1:
         reasons.append(f"{fmt(n['etsy_competing_listings_max_kw'])} competing Etsy listings with under 1 search per listing")
-    if n["etsy_top3_shop_share"] and n["etsy_top3_shop_share"] >= 0.5:
-        reasons.append(f"top-3 shops hold {fmt(n['etsy_top3_shop_share'])} of the top listings")
+    etsy_n = int((re.search(r"etsy:(\d+)", n["by_marketplace"]) or [0, 0])[1])
+    if n["etsy_top3_shop_share"] and n["etsy_top3_shop_share"] >= 0.5 and etsy_n >= 8:
+        reasons.append(f"top-3 shops hold {fmt(n['etsy_top3_shop_share'])} of its {etsy_n} Etsy top listings")
     if n["trend_pct_median"] is not None and n["trend_pct_median"] <= -20:
         reasons.append(f"search trend {fmt(n['trend_pct_median'])}%")
     if n["niche"] == "mega-bundle-plr":
@@ -224,7 +225,7 @@ C2.append(f"""| Source | Target | Achieved | Status |
 | Payhip | – | {cnt.get('payhip', 0)} (WebSearch) | Direct BLOCKED (403 CAPTCHA) |
 | Others (4+) | 4 | Teachers Pay Teachers ({cnt.get('teacherspayteachers', 0)}), itch.io ({cnt.get('itch.io', 0)}), plus Creative Market ({cnt.get('creativemarket', 0)}) and TikTok Shop ({cnt.get('tiktokshop', 0)}) via WebSearch | Creative Fabrica, Ko-fi and Creative Market direct: BLOCKED (Cloudflare). Barnes & Noble: bot-filter 404. Walmart, Lulu, Redbubble: not attempted. |
 | Reddit | 3+ subs | {raw_counts['Reddit RSS posts (demand signals)']} posts, r/adultcoloring only | 429 after 2 requests (30 s gap); one resume at 90–120 s got 1 more request, then 429 again; stopped for good |
-| Google Trends | 21 terms × 2 geos | {len(A['gt'])} series | pytrends: 429 after 5 series; see the resume note below |
+| Google Trends | 21 terms × 2 geos | {len(A['gt'])} series (worldwide only) | pytrends: 429 after 5 series. An early resume about 6 minutes after the 429 (a timing mistake on my side) fetched 1 more series (kawaii coloring) before I stopped it. A proper resume after a 35-minute cooldown at 120–150 s spacing got a 429 on its first request, so it was stopped for good. Glimpse and Exploding Topics have no public pages for these terms (404). US series and the other terms are covered only by RankHero's Etsy monthly series in seasonality.csv. |
 """)
 C2.append("\n**Why these four 'others':** Teachers Pay Teachers (ratings and review counts for the kids/classroom niche; reachable by curl), itch.io (indie anime-style creators, reachable), Creative Market and TikTok Shop (appeared repeatedly in WebSearch with bold-and-easy/cozy products and a 'sold' count). Walmart, Lulu and Redbubble were skipped: they are print-on-demand or retail and less informative for a digital seller than the sources above.\n")
 C2.append("**Third-party Etsy route:** eRank, EverBee, Alura, Marmalead, InsightFactory and Sale Samurai public pages gave no niche-level coloring data (the tools are behind logins). RankHero (keyword volume, listing counts, monthly series and top-12 listings with favorites and views), FindNiche (per-listing sales, reviews and release date) and Kupkaike (live Etsy listing counts) were used instead.\n")
@@ -256,7 +257,7 @@ if ver:
         C2.append("| Source | Field | Old | New | Title |\n|---|---|---|---|---|")
         for v in mis:
             C2.append(f"| {v['marketplace']} | {v['field']} | {t(v['old'], 30)} | {t(v['new'], 40)} | {t(v['title'], 50)} |")
-    C2.append("\nMost mismatches are drift (favorites and ratings ticking up, sale prices ending) or rank movement within the hour, not extraction errors. See `verification.csv`.\n")
+    C2.append("\nThe one remaining mismatch is a free TpT item: the re-fetched card shows no '$x Original Price' string, so the verifier read the price as missing. It is most likely a verifier limitation, not a data error. The first two verifier runs reported higher mismatch rates because of bugs in the verifier itself (it matched the ASIN inside JSON-LD, checked page 1 for page-2 TpT rows, and failed on HTML-entity and ISO-code prices). After those fixes, each check was re-run against the same re-fetched pages. Verification compares price + ratings for Gumroad, price + favorites for Etsy/RankHero, price + reviews for TpT, and monthly sales for ASINsight. See `verification.csv`.\n")
 
 C2.append("## Every estimate and its formula\n")
 C2.append(f"""- `listing_date_est` / `listing_age_days_est` (Etsy): piecewise-linear interpolation of listing ID → date between {len(anchors)} FindNiche anchors (listing ID with a published 'Released' date): {', '.join(f'{a}→{d}' for a, d in anchors)}. IDs above the last anchor are extrapolated on the last segment. IDs below the first anchor take the first anchor date, so their age is a LOWER BOUND; these are flagged in `fetch_route` and excluded from velocity rankings.

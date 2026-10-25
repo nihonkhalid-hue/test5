@@ -1,0 +1,80 @@
+term,geo,route,weeks,peak_month,second_peak,trough_month,yoy_pct_last52_vs_prev52,change_5y_pct,list_by,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+adult coloring,WW,"pytrends (Google Trends widget API), weekly 5y",262,Dec,Nov,Jun,22.1,68.6,2026-10-20,43.7,46.0,42.7,43.1,42.8,37.1,37.2,41.3,41.4,39.2,48.0,57.2
+bold and easy coloring,WW,"pytrends (Google Trends widget API), weekly 5y",262,Dec,Feb,Jul,0.4,,2026-10-20,17.8,25.4,20.3,15.9,17.6,14.1,13.1,15.6,21.3,16.4,21.0,26.1
+coloring book,WW,"pytrends (Google Trends widget API), weekly 5y",262,Dec,Nov,Jun,14.3,97.2,2026-10-20,42.1,44.1,39.9,38.8,39.2,37.0,37.9,42.2,43.4,40.8,46.5,52.3
+coloring pages,WW,"pytrends (Google Trends widget API), weekly 5y",262,Nov,Dec,Jul,-15.5,9.3,2026-09-20,63.7,66.7,66.9,66.1,63.7,57.0,52.0,55.2,61.3,66.5,72.5,68.9
+cozy coloring,WW,"pytrends (Google Trends widget API), weekly 5y",262,Dec,Oct,Jul,44.6,,2026-10-20,24.3,25.4,25.3,20.9,20.5,19.0,19.0,25.1,27.8,28.4,26.2,31.3
+kawaii coloring,WW,"pytrends (Google Trends widget API), weekly 5y",262,May,Mar,Oct,12.7,116.3,2027-03-20,40.1,42.0,43.3,42.7,48.1,42.6,37.7,38.8,41.4,35.9,38.0,40.3
+coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May/Sep/Oct/Nov,,Jun/Jul,-18,,evergreen,1000000,823000,1000000,1000000,1000000,673000,673000,823000,1000000,1000000,1000000,823000
+coloring pages printable,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May/Jun/Nov,,Oct,,,evergreen,135000,110000,135000,135000,135000,135000,110000,110000,110000,90500,135000,110000
+adult coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Feb/Jun/Jul/Aug/Sep/Dec,,,2026-11-20,165000,110000,135000,135000,135000,110000,110000,110000,110000,135000,135000,110000
+coloring book pdf,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,May/Jun/Jul/Aug/Sep,-19,,2026-11-20,9900,8100,8100,8100,6600,6600,6600,6600,6600,8100,8100,8100
+bold and easy coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Dec,,Jun,,,2026-10-20,210,170,140,170,140,110,140,140,170,170,210,260
+cozy coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Jun,,,2026-11-20,27100,18100,22200,18100,18100,14800,18100,18100,22200,18100,18100,22200
+kawaii coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Mar,,Oct,,,2027-01-18,27100,22200,33100,27100,22200,18100,18100,18100,9900,8100,9900,18100
+anime coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May,,Jul/Nov,,,2026-11-20,33100,27100,33100,33100,33100,27100,22200,27100,27100,27100,22200,27100
+manga coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Mar,,Jul/Sep,-19,,2027-01-18,3600,3600,4400,3600,3600,3600,2900,3600,2900,3600,3600,3600
+cute coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar,,Jul,,,2026-11-20,135000,110000,135000,110000,110000,90500,74000,90500,90500,90500,90500,90500
+mandala coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Oct,,Jul/Aug,-18,,2027-08-20,14800,14800,14800,14800,14800,14800,12100,12100,14800,18100,14800,14800
+kids coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,flat,,flat,,,evergreen,0,0,0,0,0,0,0,0,0,0,0,0
+christmas coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Dec,,Apr/May/Jun,,,2026-10-20,33100,9900,9900,6600,6600,6600,8100,9900,22200,49500,550000,1500000
+halloween coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Oct,,Feb/Apr,,,2027-08-20,6600,5400,6600,5400,6600,6600,12100,40500,201000,823000,22200,6600
+spooky cute coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Oct,,Apr/May/Jun,,,2027-08-20,30,30,20,10,10,10,30,50,90,170,50,20
+fantasy coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Mar/Oct,,Jun/Sep,-33,,2027-01-18,2900,2900,3600,2900,2900,2400,2900,2900,2400,3600,2900,2900
+cottagecore coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/May,,Jul/Sep,-18,,2026-11-20,480,390,480,390,480,390,320,390,320,390,390,390
+grayscale coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Sep,,May/Jul,,,2027-07-21,2900,2400,2900,2400,1900,2400,1900,2400,3600,2900,2900,2400
+coloring bundle,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Sep,,Feb/May/Jun,,,2027-07-21,1000,880,1000,1000,880,880,1000,1000,1300,1000,1000,1000
+procreate coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Apr/May/Jun/Jul,,,2026-11-20,3600,1900,1900,1600,1600,1600,1600,2400,2400,2400,2400,2900
+goodnotes coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Nov,,Jan/Feb/Mar/Apr/May/Jun/Jul/Aug/Sep/Oct/Dec,,,2026-09-20,10,10,10,10,10,10,10,10,10,10,20,10
+coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Feb/Mar/Nov,,Apr/May/Jun/Jul,,,2026-12-21,368000,450000,450000,165000,165000,165000,165000,201000,201000,368000,450000,368000
+adult coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Dec,,Apr/May/Jun,,,2026-10-20,135000,110000,110000,90500,90500,90500,110000,110000,110000,110000,135000,165000
+coloring page,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May/Oct/Nov,,Jun/Jul,-18,,evergreen,1000000,823000,1000000,1000000,1000000,673000,673000,823000,823000,1000000,1000000,823000
+coloring sheets,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May,,Jun/Jul/Aug,,,2026-11-20,246000,201000,246000,246000,246000,165000,165000,165000,201000,201000,201000,201000
+printable coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May/Jun/Nov,,Oct,,,evergreen,135000,110000,135000,135000,135000,135000,110000,110000,110000,90500,135000,110000
+anime coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Dec,,Feb/Apr/May/Jun,,,2026-10-20,4400,3600,4400,3600,3600,3600,4400,4400,4400,4400,4400,6600
+kawaii coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Dec,,Oct,,,2026-10-20,2400,1900,2400,1900,1900,1900,1900,1900,1900,1600,2900,3600
+cozy coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Nov/Dec,,Jun/Oct,,,2026-11-20,49500,33100,33100,33100,33100,27100,33100,33100,40500,27100,49500,49500
+bold and easy coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Feb,,Apr/May/Jun,,,2026-12-21,2900,5400,1900,1600,1600,1600,1900,1900,1900,2400,2900,3600
+cute coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Nov/Dec,,Apr/May/Jun/Jul/Aug/Sep,,,2026-09-20,9900,8100,8100,6600,6600,6600,6600,6600,6600,9900,14800,14800
+christmas coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Nov/Dec,,Apr/Jun,,,2026-09-20,1000,590,590,480,590,480,720,1300,2400,6600,18100,18100
+halloween coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Oct,,Jan/Feb,,,2027-08-20,480,480,590,590,590,720,1900,5400,12100,49500,2900,590
+mandala coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May/Sep/Oct/Nov,,Jul,-18,,evergreen,40500,33100,40500,40500,40500,33100,27100,33100,40500,40500,40500,33100
+grayscale coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Nov/Dec,,Jun/Aug/Sep,,,2026-09-20,390,320,390,390,320,260,320,260,260,390,480,480
+fairy coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Feb/Mar/Apr/May/Jun/Jul/Aug/Sep/Oct/Nov,,Dec,,,evergreen,14800,14800,14800,14800,14800,14800,14800,14800,14800,14800,14800,9900
+mermaid coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,May/Jun/Jul/Aug,,Oct,22,,2027-03-20,27100,27100,27100,27100,33100,33100,33100,33100,27100,18100,27100,22200
+cat coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Jul/Aug/Dec,-18,,2026-11-20,90500,74000,74000,74000,74000,74000,60500,60500,74000,74000,74000,60500
+dragon coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Feb/Mar/Apr/May/Sep/Oct/Nov,,Jun/Jul/Aug/Dec,-18,,evergreen,49500,49500,49500,49500,49500,40500,40500,40500,49500,49500,49500,40500
+mushroom coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/Sep/Oct,,Jun/Jul/Aug/Dec,-33,,evergreen,9900,8100,9900,9900,8100,6600,6600,6600,9900,9900,8100,6600
+gothic coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Aug/Sep/Oct/Nov,,Feb/Apr/May/Jun/Jul/Dec,,,evergreen,1900,1600,1900,1600,1600,1600,1600,1900,1900,1900,1900,1600
+floral coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Apr/May,,Oct/Dec,,,2027-02-18,74000,74000,90500,110000,110000,60500,74000,74000,74000,49500,60500,49500
+botanical coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Oct/Nov/Dec,,,2026-11-20,320,210,210,260,260,210,260,210,210,170,170,170
+animal coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Feb/Mar/Apr/May/Sep/Nov,,Dec,-18,,evergreen,60500,60500,60500,60500,60500,49500,49500,49500,60500,49500,60500,40500
+color by number,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Jun/Jul/Aug,,,2026-11-20,165000,135000,135000,135000,135000,110000,110000,110000,135000,135000,135000,135000
+coloring book for adults,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Dec,,Apr/May/Jun,,,2026-10-20,135000,110000,110000,90500,90500,90500,110000,110000,110000,110000,135000,165000
+retro coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Jul/Sep,,Feb/Apr/May/Jun/Aug/Oct/Nov/Dec,,,2026-11-20,1000,880,1000,880,880,880,1000,880,1000,880,880,880
+y2k coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Feb/Mar/Apr/May/Sep/Oct/Dec,,Jul,,,evergreen,1300,1300,1300,1300,1300,1000,880,1000,1300,1300,1000,1300
+chibi coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/May/Sep/Oct/Nov,,Feb/Apr/Jun/Jul/Aug/Dec,,,evergreen,1600,1300,1600,1300,1600,1300,1300,1300,1600,1600,1600,1300
+japan coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Aug/Sep,,Oct,,,2027-06-20,480,480,590,590,480,590,590,720,720,390,480,590
+fall coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Sep,,Feb/Jun,,,2027-07-21,2400,1900,2900,2400,2400,1900,5400,40500,246000,201000,90500,2900
+thanksgiving coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Nov,,May,,,2026-09-20,1000,880,880,720,590,720,880,1600,5400,33100,450000,2900
+valentines coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Mar,,Jul,,,2027-01-18,4400,110000,201000,2900,1000,1000,590,720,880,1000,1300,1600
+easter coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Mar,,Jul/Aug/Sep,,,2027-01-18,8100,33100,301000,201000,2900,1900,1300,1300,1300,1900,1900,2400
+summer coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,May/Jun,,Nov/Dec,,,2027-03-20,9900,9900,22200,60500,201000,201000,135000,40500,9900,5400,4400,4400
+kawaii coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Nov,,Aug,,,2026-09-20,1000,1000,1000,1000,1000,1000,1000,880,1000,1000,1300,1000
+coloring pages for adults,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Feb/Jun/Jul/Aug/Dec,-19,,2026-11-20,165000,110000,135000,135000,135000,110000,110000,110000,135000,135000,135000,110000
+stress relief coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Apr,,Jun/Jul/Aug,,,2026-11-20,590,390,480,590,480,320,320,320,480,480,480,480
+witch coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Oct,,Jun/Dec,,,2027-08-20,1900,1600,1600,1600,1600,1300,1600,1900,5400,18100,3600,1300
+spooky coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Oct,,Dec,,,2027-08-20,720,720,720,720,720,720,880,1600,4400,9900,1300,590
+christmas coloring sheets,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Dec,,Apr/May/Jun,,,2026-10-20,3600,1000,1300,880,880,880,1000,1300,2900,12100,165000,301000
+mandala coloring book,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Feb/Jul/Dec,,Mar/Apr/May/Jun/Aug/Sep/Oct/Nov,,,2026-11-20,5400,5400,4400,4400,4400,4400,5400,4400,4400,4400,4400,5400
+bible coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Sep,,Dec,,,2027-07-21,9900,8100,8100,6600,8100,6600,6600,8100,12100,9900,8100,4400
+quote coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/Sep/Oct/Nov,,Jun/Jul/Dec,,,evergreen,1000,880,1000,1000,880,720,720,880,1000,1000,1000,720
+procreate coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Dec,,Jul/Aug,,,2026-11-20,480,390,390,320,320,320,260,260,320,390,390,480
+digital coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Oct,,Jun/Jul/Aug,,,2026-11-20,1600,1300,1300,1000,1000,880,880,880,1000,1600,1300,1300
+coloring bookmarks,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan,,Jul/Dec,,,2026-11-20,3600,2900,2900,2900,2900,2400,1900,2900,2900,2400,2900,1900
+ocean coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,May,,Nov/Dec,,,2027-03-20,5400,5400,6600,6600,9900,8100,6600,5400,4400,4400,3600,3600
+princess coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Feb/Mar/Apr/May/Jun/Jul/Aug/Sep,,Oct/Nov/Dec,,,evergreen,60500,60500,60500,60500,60500,60500,60500,60500,60500,49500,49500,49500
+unicorn coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May/Sep,,Oct,-18,,evergreen,110000,90500,110000,110000,110000,90500,90500,90500,110000,74000,90500,90500
+dinosaur coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Feb/Mar/Apr/May/Jun/Sep/Oct/Nov,,Jul/Aug/Dec,-18,,evergreen,74000,74000,74000,74000,74000,74000,60500,60500,74000,74000,74000,60500
+food coloring pages,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Jan/Mar/Apr/May/Nov,,Dec,,,evergreen,18100,14800,18100,18100,18100,14800,14800,14800,14800,14800,18100,12100
+kawaii food coloring,Etsy (all countries),third_party:rankhero monthly Etsy searches (bucketed),,Sep/Oct,,Aug,,,2027-07-21,260,210,210,260,210,260,170,140,320,320,210,170
