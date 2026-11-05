@@ -1,0 +1,197 @@
+node_id,insight,http,name,tree,parent_id,level,full_path,books_in_view_total,rows,fetched_at,source_url
+ROOT,,200,ROOT,,,,,547892,25,2026-11-05T02:54:30Z,https://profitable.app/kdp
+ROOT,new-trending,200,ROOT,,,,,25408,25,2026-11-05T02:54:41Z,https://profitable.app/kdp?insight=new-trending
+ROOT,top-kdp,200,ROOT,,,,,157752,25,2026-11-05T02:54:51Z,https://profitable.app/kdp?insight=top-kdp
+ROOT,hidden-gems,200,ROOT,,,,,71161,25,2026-11-05T02:55:02Z,https://profitable.app/kdp?insight=hidden-gems
+ROOT,ku-goldmines,200,ROOT,,,,,9203,25,2026-11-05T02:55:15Z,https://profitable.app/kdp?insight=ku-goldmines
+48,,200,"Crafts, Hobbies & Home",print,,1,"[""Crafts, Hobbies \u0026 Home""]",2384,25,2026-11-05T02:55:25Z,https://profitable.app/kdp?category=48
+48,new-trending,200,"Crafts, Hobbies & Home",print,,1,"[""Crafts, Hobbies \u0026 Home""]",170,25,2026-11-05T02:55:34Z,https://profitable.app/kdp?category=48&insight=new-trending
+48,top-kdp,200,"Crafts, Hobbies & Home",print,,1,"[""Crafts, Hobbies \u0026 Home""]",928,25,2026-11-05T02:55:45Z,https://profitable.app/kdp?category=48&insight=top-kdp
+48,hidden-gems,200,"Crafts, Hobbies & Home",print,,1,"[""Crafts, Hobbies \u0026 Home""]",314,25,2026-11-05T02:55:57Z,https://profitable.app/kdp?category=48&insight=hidden-gems
+11357541011,,200,Coloring Books for Grown-Ups,print,48,2,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups""]",3010,25,2026-11-05T02:56:07Z,https://profitable.app/kdp?category=11357541011
+11357541011,new-trending,200,Coloring Books for Grown-Ups,print,48,2,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups""]",183,25,2026-11-05T02:56:18Z,https://profitable.app/kdp?category=11357541011&insight=new-trending
+11357541011,top-kdp,200,Coloring Books for Grown-Ups,print,48,2,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups""]",2168,25,2026-11-05T02:56:29Z,https://profitable.app/kdp?category=11357541011&insight=top-kdp
+11357541011,hidden-gems,200,Coloring Books for Grown-Ups,print,48,2,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups""]",503,25,2026-11-05T02:56:39Z,https://profitable.app/kdp?category=11357541011&insight=hidden-gems
+86,,200,Humor & Entertainment,print,,1,"[""Humor \u0026 Entertainment""]",1872,25,2026-11-05T02:56:50Z,https://profitable.app/kdp?category=86
+86,new-trending,200,Humor & Entertainment,print,,1,"[""Humor \u0026 Entertainment""]",140,25,2026-11-05T02:57:02Z,https://profitable.app/kdp?category=86&insight=new-trending
+86,top-kdp,200,Humor & Entertainment,print,,1,"[""Humor \u0026 Entertainment""]",412,25,2026-11-05T02:57:13Z,https://profitable.app/kdp?category=86&insight=top-kdp
+86,hidden-gems,200,Humor & Entertainment,print,,1,"[""Humor \u0026 Entertainment""]",197,25,2026-11-05T02:57:25Z,https://profitable.app/kdp?category=86&insight=hidden-gems
+4,,200,Children's Books,print,,1,"[""Children's Books""]",6873,25,2026-11-05T02:57:35Z,https://profitable.app/kdp?category=4
+4,new-trending,200,Children's Books,print,,1,"[""Children's Books""]",219,25,2026-11-05T02:57:46Z,https://profitable.app/kdp?category=4&insight=new-trending
+4,top-kdp,200,Children's Books,print,,1,"[""Children's Books""]",970,25,2026-11-05T02:57:57Z,https://profitable.app/kdp?category=4&insight=top-kdp
+4,hidden-gems,200,Children's Books,print,,1,"[""Children's Books""]",632,25,2026-11-05T02:58:06Z,https://profitable.app/kdp?category=4&insight=hidden-gems
+4736,,200,Self-Help,print,,1,"[""Self-Help""]",8506,25,2026-11-05T02:58:18Z,https://profitable.app/kdp?category=4736
+4736,new-trending,200,Self-Help,print,,1,"[""Self-Help""]",513,25,2026-11-05T02:58:29Z,https://profitable.app/kdp?category=4736&insight=new-trending
+4736,top-kdp,200,Self-Help,print,,1,"[""Self-Help""]",2342,25,2026-11-05T02:58:40Z,https://profitable.app/kdp?category=4736&insight=top-kdp
+4736,hidden-gems,200,Self-Help,print,,1,"[""Self-Help""]",1091,25,2026-11-05T02:58:52Z,https://profitable.app/kdp?category=4736&insight=hidden-gems
+23,,200,Romance,print,,1,"[""Romance""]",7592,25,2026-11-05T02:59:01Z,https://profitable.app/kdp?category=23
+23,new-trending,200,Romance,print,,1,"[""Romance""]",1896,25,2026-11-05T02:59:11Z,https://profitable.app/kdp?category=23&insight=new-trending
+23,top-kdp,200,Romance,print,,1,"[""Romance""]",3448,25,2026-11-05T02:59:22Z,https://profitable.app/kdp?category=23&insight=top-kdp
+23,hidden-gems,200,Romance,print,,1,"[""Romance""]",224,25,2026-11-05T02:59:33Z,https://profitable.app/kdp?category=23&insight=hidden-gems
+6,,200,"Cookbooks, Food & Wine",print,,1,"[""Cookbooks, Food \u0026 Wine""]",3779,25,2026-11-05T02:59:43Z,https://profitable.app/kdp?category=6
+6,new-trending,200,"Cookbooks, Food & Wine",print,,1,"[""Cookbooks, Food \u0026 Wine""]",308,25,2026-11-05T02:59:51Z,https://profitable.app/kdp?category=6&insight=new-trending
+6,top-kdp,200,"Cookbooks, Food & Wine",print,,1,"[""Cookbooks, Food \u0026 Wine""]",748,25,2026-11-05T03:00:03Z,https://profitable.app/kdp?category=6&insight=top-kdp
+6,hidden-gems,200,"Cookbooks, Food & Wine",print,,1,"[""Cookbooks, Food \u0026 Wine""]",372,25,2026-11-05T03:00:13Z,https://profitable.app/kdp?category=6&insight=hidden-gems
+28,,200,Teens,print,,1,"[""Teens""]",2022,25,2026-11-05T03:00:24Z,https://profitable.app/kdp?category=28
+28,new-trending,200,Teens,print,,1,"[""Teens""]",135,25,2026-11-05T03:00:34Z,https://profitable.app/kdp?category=28&insight=new-trending
+28,top-kdp,200,Teens,print,,1,"[""Teens""]",579,25,2026-11-05T03:00:44Z,https://profitable.app/kdp?category=28&insight=top-kdp
+28,hidden-gems,200,Teens,print,,1,"[""Teens""]",192,25,2026-11-05T03:00:56Z,https://profitable.app/kdp?category=28&insight=hidden-gems
+12290,,200,Christian Books & Bibles,print,,1,"[""Christian Books \u0026 Bibles""]",3223,25,2026-11-05T03:01:08Z,https://profitable.app/kdp?category=12290
+12290,new-trending,200,Christian Books & Bibles,print,,1,"[""Christian Books \u0026 Bibles""]",178,25,2026-11-05T03:01:18Z,https://profitable.app/kdp?category=12290&insight=new-trending
+12290,top-kdp,200,Christian Books & Bibles,print,,1,"[""Christian Books \u0026 Bibles""]",557,25,2026-11-05T03:01:29Z,https://profitable.app/kdp?category=12290&insight=top-kdp
+12290,hidden-gems,200,Christian Books & Bibles,print,,1,"[""Christian Books \u0026 Bibles""]",321,25,2026-11-05T03:01:41Z,https://profitable.app/kdp?category=12290&insight=hidden-gems
+21,,200,Reference,print,,1,"[""Reference""]",4566,25,2026-11-05T03:01:52Z,https://profitable.app/kdp?category=21
+21,new-trending,200,Reference,print,,1,"[""Reference""]",142,25,2026-11-05T03:02:02Z,https://profitable.app/kdp?category=21&insight=new-trending
+21,top-kdp,200,Reference,print,,1,"[""Reference""]",1265,25,2026-11-05T03:02:13Z,https://profitable.app/kdp?category=21&insight=top-kdp
+21,hidden-gems,200,Reference,print,,1,"[""Reference""]",544,25,2026-11-05T03:02:23Z,https://profitable.app/kdp?category=21&insight=hidden-gems
+1,,200,Arts & Photography,print,,1,"[""Arts \u0026 Photography""]",4871,25,2026-11-05T03:02:34Z,https://profitable.app/kdp?category=1
+1,new-trending,200,Arts & Photography,print,,1,"[""Arts \u0026 Photography""]",217,25,2026-11-05T03:02:45Z,https://profitable.app/kdp?category=1&insight=new-trending
+1,top-kdp,200,Arts & Photography,print,,1,"[""Arts \u0026 Photography""]",1034,25,2026-11-05T03:02:56Z,https://profitable.app/kdp?category=1&insight=top-kdp
+1,hidden-gems,200,Arts & Photography,print,,1,"[""Arts \u0026 Photography""]",628,25,2026-11-05T03:03:09Z,https://profitable.app/kdp?category=1&insight=hidden-gems
+4366,,200,Comics & Graphic Novels,print,,1,"[""Comics \u0026 Graphic Novels""]",4695,25,2026-11-05T03:03:21Z,https://profitable.app/kdp?category=4366
+4366,new-trending,200,Comics & Graphic Novels,print,,1,"[""Comics \u0026 Graphic Novels""]",556,25,2026-11-05T03:03:33Z,https://profitable.app/kdp?category=4366&insight=new-trending
+4366,top-kdp,200,Comics & Graphic Novels,print,,1,"[""Comics \u0026 Graphic Novels""]",190,25,2026-11-05T03:03:44Z,https://profitable.app/kdp?category=4366&insight=top-kdp
+4366,hidden-gems,200,Comics & Graphic Novels,print,,1,"[""Comics \u0026 Graphic Novels""]",690,25,2026-11-05T03:03:55Z,https://profitable.app/kdp?category=4366&insight=hidden-gems
+8975347011,,200,Education & Teaching,print,,1,"[""Education \u0026 Teaching""]",965,25,2026-11-05T03:04:05Z,https://profitable.app/kdp?category=8975347011
+8975347011,new-trending,200,Education & Teaching,print,,1,"[""Education \u0026 Teaching""]",32,25,2026-11-05T03:04:16Z,https://profitable.app/kdp?category=8975347011&insight=new-trending
+8975347011,top-kdp,200,Education & Teaching,print,,1,"[""Education \u0026 Teaching""]",317,25,2026-11-05T03:04:26Z,https://profitable.app/kdp?category=8975347011&insight=top-kdp
+8975347011,hidden-gems,200,Education & Teaching,print,,1,"[""Education \u0026 Teaching""]",129,25,2026-11-05T03:04:37Z,https://profitable.app/kdp?category=8975347011&insight=hidden-gems
+25,,200,Science Fiction & Fantasy,print,,1,"[""Science Fiction \u0026 Fantasy""]",645,25,2026-11-05T03:04:48Z,https://profitable.app/kdp?category=25
+25,new-trending,200,Science Fiction & Fantasy,print,,1,"[""Science Fiction \u0026 Fantasy""]",104,25,2026-11-05T03:05:00Z,https://profitable.app/kdp?category=25&insight=new-trending
+25,top-kdp,200,Science Fiction & Fantasy,print,,1,"[""Science Fiction \u0026 Fantasy""]",119,25,2026-11-05T03:05:09Z,https://profitable.app/kdp?category=25&insight=top-kdp
+25,hidden-gems,200,Science Fiction & Fantasy,print,,1,"[""Science Fiction \u0026 Fantasy""]",69,25,2026-11-05T03:05:20Z,https://profitable.app/kdp?category=25&insight=hidden-gems
+18,,200,"Mystery, Thriller & Suspense",print,,1,"[""Mystery, Thriller \u0026 Suspense""]",440,25,2026-11-05T03:05:31Z,https://profitable.app/kdp?category=18
+18,new-trending,200,"Mystery, Thriller & Suspense",print,,1,"[""Mystery, Thriller \u0026 Suspense""]",76,25,2026-11-05T03:05:43Z,https://profitable.app/kdp?category=18&insight=new-trending
+18,top-kdp,200,"Mystery, Thriller & Suspense",print,,1,"[""Mystery, Thriller \u0026 Suspense""]",67,25,2026-11-05T03:05:54Z,https://profitable.app/kdp?category=18&insight=top-kdp
+18,hidden-gems,200,"Mystery, Thriller & Suspense",print,,1,"[""Mystery, Thriller \u0026 Suspense""]",20,20,2026-11-05T03:06:05Z,https://profitable.app/kdp?category=18&insight=hidden-gems
+3248857011,,200,Calendars,print,,1,"[""Calendars""]",1525,25,2026-11-05T03:06:17Z,https://profitable.app/kdp?category=3248857011
+3248857011,new-trending,200,Calendars,print,,1,"[""Calendars""]",276,25,2026-11-05T03:06:27Z,https://profitable.app/kdp?category=3248857011&insight=new-trending
+3248857011,top-kdp,200,Calendars,print,,1,"[""Calendars""]",28,25,2026-11-05T03:06:38Z,https://profitable.app/kdp?category=3248857011&insight=top-kdp
+3248857011,hidden-gems,200,Calendars,print,,1,"[""Calendars""]",290,25,2026-11-05T03:06:49Z,https://profitable.app/kdp?category=3248857011&insight=hidden-gems
+20,,200,Parenting & Relationships,print,,1,"[""Parenting \u0026 Relationships""]",3353,25,2026-11-05T03:06:59Z,https://profitable.app/kdp?category=20
+20,new-trending,200,Parenting & Relationships,print,,1,"[""Parenting \u0026 Relationships""]",257,25,2026-11-05T03:07:11Z,https://profitable.app/kdp?category=20&insight=new-trending
+20,top-kdp,200,Parenting & Relationships,print,,1,"[""Parenting \u0026 Relationships""]",899,25,2026-11-05T03:07:21Z,https://profitable.app/kdp?category=20&insight=top-kdp
+20,hidden-gems,200,Parenting & Relationships,print,,1,"[""Parenting \u0026 Relationships""]",499,25,2026-11-05T03:07:33Z,https://profitable.app/kdp?category=20&insight=hidden-gems
+158566011,,200,Romance,kindle,,1,"[""Romance""]",7176,25,2026-11-05T03:07:43Z,https://profitable.app/kdp?category=158566011
+158566011,new-trending,200,Romance,kindle,,1,"[""Romance""]",1908,25,2026-11-05T03:07:52Z,https://profitable.app/kdp?category=158566011&insight=new-trending
+158566011,top-kdp,200,Romance,kindle,,1,"[""Romance""]",3641,25,2026-11-05T03:08:03Z,https://profitable.app/kdp?category=158566011&insight=top-kdp
+158566011,hidden-gems,200,Romance,kindle,,1,"[""Romance""]",214,25,2026-11-05T03:08:13Z,https://profitable.app/kdp?category=158566011&insight=hidden-gems
+158569011,,200,Romantasy,kindle,158566011,2,"[""Romance"",""Romantasy""]",242,25,2026-11-05T03:08:23Z,https://profitable.app/kdp?category=158569011
+158569011,new-trending,200,Romantasy,kindle,158566011,2,"[""Romance"",""Romantasy""]",35,25,2026-11-05T03:08:33Z,https://profitable.app/kdp?category=158569011&insight=new-trending
+158569011,top-kdp,200,Romantasy,kindle,158566011,2,"[""Romance"",""Romantasy""]",89,25,2026-11-05T03:08:45Z,https://profitable.app/kdp?category=158569011&insight=top-kdp
+158569011,hidden-gems,200,Romantasy,kindle,158566011,2,"[""Romance"",""Romantasy""]",3,3,2026-11-05T03:08:56Z,https://profitable.app/kdp?category=158569011&insight=hidden-gems
+22,,200,Religion & Spirituality,print,,1,"[""Religion \u0026 Spirituality""]",2640,25,2026-11-05T03:09:07Z,https://profitable.app/kdp?category=22
+22,new-trending,200,Religion & Spirituality,print,,1,"[""Religion \u0026 Spirituality""]",190,25,2026-11-05T03:09:19Z,https://profitable.app/kdp?category=22&insight=new-trending
+10,,200,"Health, Fitness & Dieting",print,,1,"[""Health, Fitness \u0026 Dieting""]",4140,25,2026-11-05T03:09:30Z,https://profitable.app/kdp?category=10
+10,new-trending,200,"Health, Fitness & Dieting",print,,1,"[""Health, Fitness \u0026 Dieting""]",215,25,2026-11-05T03:09:42Z,https://profitable.app/kdp?category=10&insight=new-trending
+17,,200,Literature & Fiction,print,,1,"[""Literature \u0026 Fiction""]",5289,25,2026-11-05T03:09:53Z,https://profitable.app/kdp?category=17
+17,new-trending,200,Literature & Fiction,print,,1,"[""Literature \u0026 Fiction""]",448,25,2026-11-05T03:10:03Z,https://profitable.app/kdp?category=17&insight=new-trending
+668010011,,200,Science Fiction & Fantasy,kindle,,1,"[""Science Fiction \u0026 Fantasy""]",459,25,2026-11-05T03:10:13Z,https://profitable.app/kdp?category=668010011
+668010011,new-trending,200,Science Fiction & Fantasy,kindle,,1,"[""Science Fiction \u0026 Fantasy""]",81,25,2026-11-05T03:10:25Z,https://profitable.app/kdp?category=668010011&insight=new-trending
+157028011,,200,Literature & Fiction,kindle,,1,"[""Literature \u0026 Fiction""]",5274,25,2026-11-05T03:10:35Z,https://profitable.app/kdp?category=157028011
+157028011,new-trending,200,Literature & Fiction,kindle,,1,"[""Literature \u0026 Fiction""]",782,25,2026-11-05T03:10:46Z,https://profitable.app/kdp?category=157028011&insight=new-trending
+3187,,200,Vocabulary & Spelling,print,3182,4,"[""Children's Books"",""Education \u0026 Reference"",""Reading \u0026 Writing"",""Vocabulary \u0026 Spelling""]",295,25,2026-11-05T03:10:58Z,https://profitable.app/kdp?category=3187
+3187,new-trending,200,Vocabulary & Spelling,print,3182,4,"[""Children's Books"",""Education \u0026 Reference"",""Reading \u0026 Writing"",""Vocabulary \u0026 Spelling""]",9,9,2026-11-05T03:11:08Z,https://profitable.app/kdp?category=3187&insight=new-trending
+3187,top-kdp,200,Vocabulary & Spelling,print,3182,4,"[""Children's Books"",""Education \u0026 Reference"",""Reading \u0026 Writing"",""Vocabulary \u0026 Spelling""]",83,25,2026-11-05T03:11:17Z,https://profitable.app/kdp?category=3187&insight=top-kdp
+3187,hidden-gems,200,Vocabulary & Spelling,print,3182,4,"[""Children's Books"",""Education \u0026 Reference"",""Reading \u0026 Writing"",""Vocabulary \u0026 Spelling""]",29,25,2026-11-05T03:11:29Z,https://profitable.app/kdp?category=3187&insight=hidden-gems
+4742,,200,Journal Writing,print,4736,2,"[""Self-Help"",""Journal Writing""]",450,25,2026-11-05T03:11:39Z,https://profitable.app/kdp?category=4742
+4742,new-trending,200,Journal Writing,print,4736,2,"[""Self-Help"",""Journal Writing""]",15,15,2026-11-05T03:11:49Z,https://profitable.app/kdp?category=4742&insight=new-trending
+4742,top-kdp,200,Journal Writing,print,4736,2,"[""Self-Help"",""Journal Writing""]",201,25,2026-11-05T03:12:00Z,https://profitable.app/kdp?category=4742&insight=top-kdp
+4742,hidden-gems,200,Journal Writing,print,4736,2,"[""Self-Help"",""Journal Writing""]",40,25,2026-11-05T03:12:13Z,https://profitable.app/kdp?category=4742&insight=hidden-gems
+4459,,200,"Cats, Dogs & Animals",print,761128,3,"[""Parenting \u0026 Relationships"",""Parenting \u0026 Families"",""Cats, Dogs \u0026 Animals""]",277,25,2026-11-05T03:12:25Z,https://profitable.app/kdp?category=4459
+4459,new-trending,200,"Cats, Dogs & Animals",print,761128,3,"[""Parenting \u0026 Relationships"",""Parenting \u0026 Families"",""Cats, Dogs \u0026 Animals""]",24,24,2026-11-05T03:12:34Z,https://profitable.app/kdp?category=4459&insight=new-trending
+4459,top-kdp,200,"Cats, Dogs & Animals",print,761128,3,"[""Parenting \u0026 Relationships"",""Parenting \u0026 Families"",""Cats, Dogs \u0026 Animals""]",33,25,2026-11-05T03:12:45Z,https://profitable.app/kdp?category=4459&insight=top-kdp
+4459,hidden-gems,200,"Cats, Dogs & Animals",print,761128,3,"[""Parenting \u0026 Relationships"",""Parenting \u0026 Families"",""Cats, Dogs \u0026 Animals""]",36,25,2026-11-05T03:12:56Z,https://profitable.app/kdp?category=4459&insight=hidden-gems
+14279733011,,200,Science & Anatomy,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Science \u0026 Anatomy""]",249,25,2026-11-05T03:13:09Z,https://profitable.app/kdp?category=14279733011
+14279733011,new-trending,200,Science & Anatomy,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Science \u0026 Anatomy""]",27,25,2026-11-05T03:13:19Z,https://profitable.app/kdp?category=14279733011&insight=new-trending
+14279733011,top-kdp,200,Science & Anatomy,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Science \u0026 Anatomy""]",185,25,2026-11-05T03:13:31Z,https://profitable.app/kdp?category=14279733011&insight=top-kdp
+14279733011,hidden-gems,200,Science & Anatomy,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Science \u0026 Anatomy""]",55,25,2026-11-05T03:13:41Z,https://profitable.app/kdp?category=14279733011&insight=hidden-gems
+10367653011,,200,"Art, Music & Photography",print,28,2,"[""Teens"",""Art, Music \u0026 Photography""]",575,25,2026-11-05T03:13:52Z,https://profitable.app/kdp?category=10367653011
+10367653011,new-trending,200,"Art, Music & Photography",print,28,2,"[""Teens"",""Art, Music \u0026 Photography""]",30,25,2026-11-05T03:14:02Z,https://profitable.app/kdp?category=10367653011&insight=new-trending
+10367653011,top-kdp,200,"Art, Music & Photography",print,28,2,"[""Teens"",""Art, Music \u0026 Photography""]",318,25,2026-11-05T03:14:13Z,https://profitable.app/kdp?category=10367653011&insight=top-kdp
+10367653011,hidden-gems,200,"Art, Music & Photography",print,28,2,"[""Teens"",""Art, Music \u0026 Photography""]",79,25,2026-11-05T03:14:24Z,https://profitable.app/kdp?category=10367653011&insight=hidden-gems
+876684,,200,Performing Arts,print,5066,3,"[""Crafts, Hobbies \u0026 Home"",""Antiques \u0026 Collectibles"",""Performing Arts""]",132,25,2026-11-05T03:14:34Z,https://profitable.app/kdp?category=876684
+876684,new-trending,200,Performing Arts,print,5066,3,"[""Crafts, Hobbies \u0026 Home"",""Antiques \u0026 Collectibles"",""Performing Arts""]",3,3,2026-11-05T03:14:46Z,https://profitable.app/kdp?category=876684&insight=new-trending
+876684,top-kdp,200,Performing Arts,print,5066,3,"[""Crafts, Hobbies \u0026 Home"",""Antiques \u0026 Collectibles"",""Performing Arts""]",33,25,2026-11-05T03:14:58Z,https://profitable.app/kdp?category=876684&insight=top-kdp
+876684,hidden-gems,200,Performing Arts,print,5066,3,"[""Crafts, Hobbies \u0026 Home"",""Antiques \u0026 Collectibles"",""Performing Arts""]",23,23,2026-11-05T03:15:11Z,https://profitable.app/kdp?category=876684&insight=hidden-gems
+14279726011,,200,Humorous,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Humorous""]",346,25,2026-11-05T03:15:21Z,https://profitable.app/kdp?category=14279726011
+14279726011,new-trending,200,Humorous,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Humorous""]",23,23,2026-11-05T03:15:32Z,https://profitable.app/kdp?category=14279726011&insight=new-trending
+14279726011,top-kdp,200,Humorous,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Humorous""]",248,25,2026-11-05T03:15:43Z,https://profitable.app/kdp?category=14279726011&insight=top-kdp
+14279726011,hidden-gems,200,Humorous,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Humorous""]",80,25,2026-11-05T03:15:54Z,https://profitable.app/kdp?category=14279726011&insight=hidden-gems
+8298104011,,200,Art,print,10367653011,3,"[""Teens"",""Art, Music \u0026 Photography"",""Art""]",730,25,2026-11-05T03:16:06Z,https://profitable.app/kdp?category=8298104011
+8298104011,new-trending,200,Art,print,10367653011,3,"[""Teens"",""Art, Music \u0026 Photography"",""Art""]",36,25,2026-11-05T03:16:17Z,https://profitable.app/kdp?category=8298104011&insight=new-trending
+8298104011,top-kdp,200,Art,print,10367653011,3,"[""Teens"",""Art, Music \u0026 Photography"",""Art""]",507,25,2026-11-05T03:16:28Z,https://profitable.app/kdp?category=8298104011&insight=top-kdp
+8298104011,hidden-gems,200,Art,print,10367653011,3,"[""Teens"",""Art, Music \u0026 Photography"",""Art""]",139,25,2026-11-05T03:16:41Z,https://profitable.app/kdp?category=8298104011&insight=hidden-gems
+14279732011,,200,Religious & Inspirational,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Religious \u0026 Inspirational""]",223,25,2026-11-05T03:16:53Z,https://profitable.app/kdp?category=14279732011
+14279732011,new-trending,200,Religious & Inspirational,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Religious \u0026 Inspirational""]",13,13,2026-11-05T03:17:04Z,https://profitable.app/kdp?category=14279732011&insight=new-trending
+14279732011,top-kdp,200,Religious & Inspirational,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Religious \u0026 Inspirational""]",113,25,2026-11-05T03:17:16Z,https://profitable.app/kdp?category=14279732011&insight=top-kdp
+14279732011,hidden-gems,200,Religious & Inspirational,print,11357541011,3,"[""Crafts, Hobbies \u0026 Home"",""Coloring Books for Grown-Ups"",""Religious \u0026 Inspirational""]",35,25,2026-11-05T03:17:28Z,https://profitable.app/kdp?category=14279732011&insight=hidden-gems
+11365,,200,Family Activities,print,20,2,"[""Parenting \u0026 Relationships"",""Family Activities""]",306,25,2026-11-05T03:17:38Z,https://profitable.app/kdp?category=11365
+11365,new-trending,200,Family Activities,print,20,2,"[""Parenting \u0026 Relationships"",""Family Activities""]",17,17,2026-11-05T03:17:50Z,https://profitable.app/kdp?category=11365&insight=new-trending
+11365,top-kdp,200,Family Activities,print,20,2,"[""Parenting \u0026 Relationships"",""Family Activities""]",82,25,2026-11-05T03:17:59Z,https://profitable.app/kdp?category=11365&insight=top-kdp
+11365,hidden-gems,200,Family Activities,print,20,2,"[""Parenting \u0026 Relationships"",""Family Activities""]",62,25,2026-11-05T03:18:11Z,https://profitable.app/kdp?category=11365&insight=hidden-gems
+4451,,200,Travel Games,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Travel Games""]",281,25,2026-11-05T03:18:21Z,https://profitable.app/kdp?category=4451
+4451,new-trending,200,Travel Games,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Travel Games""]",12,12,2026-11-05T03:18:32Z,https://profitable.app/kdp?category=4451&insight=new-trending
+4451,top-kdp,200,Travel Games,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Travel Games""]",139,25,2026-11-05T03:18:42Z,https://profitable.app/kdp?category=4451&insight=top-kdp
+4451,hidden-gems,200,Travel Games,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Travel Games""]",31,25,2026-11-05T03:18:53Z,https://profitable.app/kdp?category=4451&insight=hidden-gems
+1859,,200,Pen & Ink,print,1855,3,"[""Arts \u0026 Photography"",""Drawing"",""Pen \u0026 Ink""]",305,25,2026-11-05T03:19:04Z,https://profitable.app/kdp?category=1859
+1859,new-trending,200,Pen & Ink,print,1855,3,"[""Arts \u0026 Photography"",""Drawing"",""Pen \u0026 Ink""]",27,25,2026-11-05T03:19:15Z,https://profitable.app/kdp?category=1859&insight=new-trending
+1859,top-kdp,200,Pen & Ink,print,1855,3,"[""Arts \u0026 Photography"",""Drawing"",""Pen \u0026 Ink""]",152,25,2026-11-05T03:19:27Z,https://profitable.app/kdp?category=1859&insight=top-kdp
+1859,hidden-gems,200,Pen & Ink,print,1855,3,"[""Arts \u0026 Photography"",""Drawing"",""Pen \u0026 Ink""]",35,25,2026-11-05T03:19:36Z,https://profitable.app/kdp?category=1859&insight=hidden-gems
+227670,,200,Reference,print,265542,3,"[""Medical Books"",""Medicine"",""Reference""]",210,25,2026-11-05T03:19:46Z,https://profitable.app/kdp?category=227670
+227670,new-trending,200,Reference,print,265542,3,"[""Medical Books"",""Medicine"",""Reference""]",9,9,2026-11-05T03:19:57Z,https://profitable.app/kdp?category=227670&insight=new-trending
+227670,top-kdp,200,Reference,print,265542,3,"[""Medical Books"",""Medicine"",""Reference""]",60,25,2026-11-05T03:20:09Z,https://profitable.app/kdp?category=227670&insight=top-kdp
+227670,hidden-gems,200,Reference,print,265542,3,"[""Medical Books"",""Medicine"",""Reference""]",30,25,2026-11-05T03:20:21Z,https://profitable.app/kdp?category=227670&insight=hidden-gems
+8622819011,,200,Film & Video Art,print,520982,3,"[""Arts \u0026 Photography"",""Other Media"",""Film \u0026 Video Art""]",312,25,2026-11-05T03:20:31Z,https://profitable.app/kdp?category=8622819011
+8622819011,new-trending,200,Film & Video Art,print,520982,3,"[""Arts \u0026 Photography"",""Other Media"",""Film \u0026 Video Art""]",14,14,2026-11-05T03:20:42Z,https://profitable.app/kdp?category=8622819011&insight=new-trending
+8622819011,top-kdp,200,Film & Video Art,print,520982,3,"[""Arts \u0026 Photography"",""Other Media"",""Film \u0026 Video Art""]",31,25,2026-11-05T03:20:54Z,https://profitable.app/kdp?category=8622819011&insight=top-kdp
+8622819011,hidden-gems,200,Film & Video Art,print,520982,3,"[""Arts \u0026 Photography"",""Other Media"",""Film \u0026 Video Art""]",42,25,2026-11-05T03:21:04Z,https://profitable.app/kdp?category=8622819011&insight=hidden-gems
+4439,,200,Puzzles,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Puzzles""]",357,25,2026-11-05T03:21:15Z,https://profitable.app/kdp?category=4439
+4439,new-trending,200,Puzzles,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Puzzles""]",27,25,2026-11-05T03:21:25Z,https://profitable.app/kdp?category=4439&insight=new-trending
+4439,top-kdp,200,Puzzles,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Puzzles""]",152,25,2026-11-05T03:21:35Z,https://profitable.app/kdp?category=4439&insight=top-kdp
+4439,hidden-gems,200,Puzzles,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Puzzles""]",32,25,2026-11-05T03:21:47Z,https://profitable.app/kdp?category=4439&insight=hidden-gems
+156388011,,200,Crosswords,kindle,156376011,3,"[""Humor \u0026 Entertainment"",""Activities, Puzzles \u0026 Games"",""Crosswords""]",135,25,2026-11-05T03:21:58Z,https://profitable.app/kdp?category=156388011
+156388011,new-trending,200,Crosswords,kindle,156376011,3,"[""Humor \u0026 Entertainment"",""Activities, Puzzles \u0026 Games"",""Crosswords""]",1,1,2026-11-05T03:22:08Z,https://profitable.app/kdp?category=156388011&insight=new-trending
+156388011,top-kdp,200,Crosswords,kindle,156376011,3,"[""Humor \u0026 Entertainment"",""Activities, Puzzles \u0026 Games"",""Crosswords""]",73,25,2026-11-05T03:22:18Z,https://profitable.app/kdp?category=156388011&insight=top-kdp
+156388011,hidden-gems,200,Crosswords,kindle,156376011,3,"[""Humor \u0026 Entertainment"",""Activities, Puzzles \u0026 Games"",""Crosswords""]",11,11,2026-11-05T03:22:28Z,https://profitable.app/kdp?category=156388011&insight=hidden-gems
+713036011,,200,History,print,1064,3,"[""Arts \u0026 Photography"",""History \u0026 Criticism"",""History""]",662,25,2026-11-05T03:22:40Z,https://profitable.app/kdp?category=713036011
+713036011,new-trending,200,History,print,1064,3,"[""Arts \u0026 Photography"",""History \u0026 Criticism"",""History""]",22,22,2026-11-05T03:22:50Z,https://profitable.app/kdp?category=713036011&insight=new-trending
+713036011,top-kdp,200,History,print,1064,3,"[""Arts \u0026 Photography"",""History \u0026 Criticism"",""History""]",25,25,2026-11-05T03:23:01Z,https://profitable.app/kdp?category=713036011&insight=top-kdp
+713036011,hidden-gems,200,History,print,1064,3,"[""Arts \u0026 Photography"",""History \u0026 Criticism"",""History""]",100,25,2026-11-05T03:23:11Z,https://profitable.app/kdp?category=713036011&insight=hidden-gems
+5175,,200,Seasonal,print,5126,3,"[""Crafts, Hobbies \u0026 Home"",""Crafts \u0026 Hobbies"",""Seasonal""]",240,25,2026-11-05T03:23:22Z,https://profitable.app/kdp?category=5175
+5175,new-trending,200,Seasonal,print,5126,3,"[""Crafts, Hobbies \u0026 Home"",""Crafts \u0026 Hobbies"",""Seasonal""]",19,19,2026-11-05T03:23:34Z,https://profitable.app/kdp?category=5175&insight=new-trending
+5175,top-kdp,200,Seasonal,print,5126,3,"[""Crafts, Hobbies \u0026 Home"",""Crafts \u0026 Hobbies"",""Seasonal""]",89,25,2026-11-05T03:23:45Z,https://profitable.app/kdp?category=5175&insight=top-kdp
+5175,hidden-gems,200,Seasonal,print,5126,3,"[""Crafts, Hobbies \u0026 Home"",""Crafts \u0026 Hobbies"",""Seasonal""]",28,25,2026-11-05T03:23:56Z,https://profitable.app/kdp?category=5175&insight=hidden-gems
+10367805011,,200,Games & Activities,print,10367802011,3,"[""Teens"",""Hobbies \u0026 Games"",""Games \u0026 Activities""]",597,25,2026-11-05T03:24:08Z,https://profitable.app/kdp?category=10367805011
+10367805011,new-trending,200,Games & Activities,print,10367802011,3,"[""Teens"",""Hobbies \u0026 Games"",""Games \u0026 Activities""]",51,25,2026-11-05T03:24:20Z,https://profitable.app/kdp?category=10367805011&insight=new-trending
+10367805011,top-kdp,200,Games & Activities,print,10367802011,3,"[""Teens"",""Hobbies \u0026 Games"",""Games \u0026 Activities""]",403,25,2026-11-05T03:24:30Z,https://profitable.app/kdp?category=10367805011&insight=top-kdp
+10367805011,hidden-gems,200,Games & Activities,print,10367802011,3,"[""Teens"",""Hobbies \u0026 Games"",""Games \u0026 Activities""]",97,25,2026-11-05T03:24:41Z,https://profitable.app/kdp?category=10367805011&insight=hidden-gems
+7421464011,,200,Anthologies,print,4390,3,"[""Comics \u0026 Graphic Novels"",""Graphic Novels"",""Anthologies""]",256,25,2026-11-05T03:24:53Z,https://profitable.app/kdp?category=7421464011
+7421464011,new-trending,200,Anthologies,print,4390,3,"[""Comics \u0026 Graphic Novels"",""Graphic Novels"",""Anthologies""]",10,10,2026-11-05T03:25:05Z,https://profitable.app/kdp?category=7421464011&insight=new-trending
+7421464011,top-kdp,200,Anthologies,print,4390,3,"[""Comics \u0026 Graphic Novels"",""Graphic Novels"",""Anthologies""]",33,25,2026-11-05T03:25:16Z,https://profitable.app/kdp?category=7421464011&insight=top-kdp
+7421464011,hidden-gems,200,Anthologies,print,4390,3,"[""Comics \u0026 Graphic Novels"",""Graphic Novels"",""Anthologies""]",24,24,2026-11-05T03:25:28Z,https://profitable.app/kdp?category=7421464011&insight=hidden-gems
+4744,,200,Motivational,print,4736,2,"[""Self-Help"",""Motivational""]",782,25,2026-11-05T03:25:40Z,https://profitable.app/kdp?category=4744
+4744,new-trending,200,Motivational,print,4736,2,"[""Self-Help"",""Motivational""]",70,25,2026-11-05T03:25:50Z,https://profitable.app/kdp?category=4744&insight=new-trending
+4744,top-kdp,200,Motivational,print,4736,2,"[""Self-Help"",""Motivational""]",103,25,2026-11-05T03:26:02Z,https://profitable.app/kdp?category=4744&insight=top-kdp
+4744,hidden-gems,200,Motivational,print,4736,2,"[""Self-Help"",""Motivational""]",93,25,2026-11-05T03:26:12Z,https://profitable.app/kdp?category=4744&insight=hidden-gems
+4436,,200,Logic & Brain Teasers,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Logic \u0026 Brain Teasers""]",397,25,2026-11-05T03:26:22Z,https://profitable.app/kdp?category=4436
+4436,new-trending,200,Logic & Brain Teasers,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Logic \u0026 Brain Teasers""]",49,25,2026-11-05T03:26:33Z,https://profitable.app/kdp?category=4436&insight=new-trending
+4436,top-kdp,200,Logic & Brain Teasers,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Logic \u0026 Brain Teasers""]",190,25,2026-11-05T03:26:45Z,https://profitable.app/kdp?category=4436&insight=top-kdp
+4436,hidden-gems,200,Logic & Brain Teasers,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Logic \u0026 Brain Teasers""]",40,25,2026-11-05T03:26:56Z,https://profitable.app/kdp?category=4436&insight=hidden-gems
+7588911011,,200,Humor & Satire,kindle,157051011,3,"[""Literature \u0026 Fiction"",""Humor \u0026 Satire"",""Humor \u0026 Satire""]",142,25,2026-11-05T03:27:06Z,https://profitable.app/kdp?category=7588911011
+7588911011,new-trending,200,Humor & Satire,kindle,157051011,3,"[""Literature \u0026 Fiction"",""Humor \u0026 Satire"",""Humor \u0026 Satire""]",25,25,2026-11-05T03:27:17Z,https://profitable.app/kdp?category=7588911011&insight=new-trending
+7588911011,top-kdp,200,Humor & Satire,kindle,157051011,3,"[""Literature \u0026 Fiction"",""Humor \u0026 Satire"",""Humor \u0026 Satire""]",32,25,2026-11-05T03:27:28Z,https://profitable.app/kdp?category=7588911011&insight=top-kdp
+7588911011,hidden-gems,200,Humor & Satire,kindle,157051011,3,"[""Literature \u0026 Fiction"",""Humor \u0026 Satire"",""Humor \u0026 Satire""]",5,5,2026-11-05T03:27:37Z,https://profitable.app/kdp?category=7588911011&insight=hidden-gems
+11764665011,,200,Light Novels,print,17443,3,"[""Teens"",""Literature \u0026 Fiction"",""Light Novels""]",183,25,2026-11-05T03:27:47Z,https://profitable.app/kdp?category=11764665011
+11764665011,new-trending,200,Light Novels,print,17443,3,"[""Teens"",""Literature \u0026 Fiction"",""Light Novels""]",26,25,2026-11-05T03:27:59Z,https://profitable.app/kdp?category=11764665011&insight=new-trending
+11764665011,top-kdp,200,Light Novels,print,17443,3,"[""Teens"",""Literature \u0026 Fiction"",""Light Novels""]",63,25,2026-11-05T03:28:11Z,https://profitable.app/kdp?category=11764665011&insight=top-kdp
+11764665011,hidden-gems,200,Light Novels,print,17443,3,"[""Teens"",""Literature \u0026 Fiction"",""Light Novels""]",7,7,2026-11-05T03:28:21Z,https://profitable.app/kdp?category=11764665011&insight=hidden-gems
+16004731,,200,Humor,print,9822,3,"[""Literature \u0026 Fiction"",""United States"",""Humor""]",255,25,2026-11-05T03:28:33Z,https://profitable.app/kdp?category=16004731
+16004731,new-trending,200,Humor,print,9822,3,"[""Literature \u0026 Fiction"",""United States"",""Humor""]",15,15,2026-11-05T03:28:44Z,https://profitable.app/kdp?category=16004731&insight=new-trending
+16004731,top-kdp,200,Humor,print,9822,3,"[""Literature \u0026 Fiction"",""United States"",""Humor""]",41,25,2026-11-05T03:28:56Z,https://profitable.app/kdp?category=16004731&insight=top-kdp
+16004731,hidden-gems,200,Humor,print,9822,3,"[""Literature \u0026 Fiction"",""United States"",""Humor""]",3,3,2026-11-05T03:29:06Z,https://profitable.app/kdp?category=16004731&insight=hidden-gems
+16926962011,,200,Science Fiction & Fantasy,print,194810011,4,"[""Humor \u0026 Entertainment"",""Movies"",""Genre Films"",""Science Fiction \u0026 Fantasy""]",260,25,2026-11-05T03:29:17Z,https://profitable.app/kdp?category=16926962011
+16926962011,new-trending,200,Science Fiction & Fantasy,print,194810011,4,"[""Humor \u0026 Entertainment"",""Movies"",""Genre Films"",""Science Fiction \u0026 Fantasy""]",19,19,2026-11-05T03:29:27Z,https://profitable.app/kdp?category=16926962011&insight=new-trending
+16926962011,top-kdp,200,Science Fiction & Fantasy,print,194810011,4,"[""Humor \u0026 Entertainment"",""Movies"",""Genre Films"",""Science Fiction \u0026 Fantasy""]",8,8,2026-11-05T03:29:37Z,https://profitable.app/kdp?category=16926962011&insight=top-kdp
+16926962011,hidden-gems,200,Science Fiction & Fantasy,print,194810011,4,"[""Humor \u0026 Entertainment"",""Movies"",""Genre Films"",""Science Fiction \u0026 Fantasy""]",28,25,2026-11-05T03:29:48Z,https://profitable.app/kdp?category=16926962011&insight=hidden-gems
+4441,,200,Reference,print,4402,3,"[""Humor \u0026 Entertainment"",""Puzzles \u0026 Games"",""Reference""]",261,25,2026-11-05T03:29:59Z,https://profitable.app/kdp?category=4441

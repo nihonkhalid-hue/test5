@@ -1,0 +1,521 @@
+shelf,rank,title,author,avg_rating,ratings,published_year,fetched_at,source_url,fetch_route
+romantasy,1,"Fourth Wing (The Empyrean, #1)",Rebecca Yarros,4.56,4049727,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,2,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas,4.14,4676822,2015,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,3,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,4.63,3545214,2016,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,4,"Iron Flame (The Empyrean, #2)",Rebecca Yarros,4.36,2951148,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,5,"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas,4.46,3005239,2017,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,6,"A ​Court of Silver Flames (A Court of Thorns and Roses, #5)",Sarah J. Maas,4.45,2352758,2021,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,7,"A Court of Frost and Starlight (A Court of Thorns and Roses, #4)",Sarah J. Maas,3.70,2395222,2018,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,8,"Onyx Storm (The Empyrean, #3)",Rebecca Yarros,4.22,1993406,2025,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,9,"Quicksilver (Fae & Alchemy, #1)",Callie Hart,4.29,1033126,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,10,"The Serpent and the Wings of Night (Crowns of Nyaxia, #1)",Carissa Broadbent,4.25,831223,2022,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,11,"Powerless (The Powerless Trilogy, #1)",Lauren Roberts,4.12,1119481,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,12,"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas,4.18,2748347,2012,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,13,"From Blood and Ash (Blood and Ash, #1)",Jennifer L. Armentrout,4.21,915321,2020,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,14,"House of Earth and Blood (Crescent City, #1)",Sarah J. Maas,4.45,1386556,2020,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,15,"Once Upon a Broken Heart (Once Upon a Broken Heart, #1)",Stephanie Garber,4.06,791589,2021,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,16,"One Dark Window (The Shepherd King, #1)",Rachel Gillig,4.25,791429,2022,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,17,"The Cruel Prince (The Folk of the Air, #1)",Holly Black,4.00,1894697,2018,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,18,"When the Moon Hatched (Moonfall, #1)",Sarah A. Parker,4.01,381502,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,19,"Divine Rivals (Letters of Enchantment, #1)",Rebecca Ross,4.14,810016,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,20,"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas,4.36,2032494,2013,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,21,"Heartless Hunter (The Crimson Moth, #1)",Kristen Ciccarelli,4.16,469570,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,22,"Shield of Sparrows (Shield of Sparrows, #1)",Devney Perry,4.36,444888,2025,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,23,"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas,4.44,1812194,2014,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,24,"House of Sky and Breath (Crescent City, #2)",Sarah J. Maas,4.41,1020374,2022,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,25,"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas,4.62,1642179,2015,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,26,"Bride (Bride, #1)",Ali Hazelwood,3.99,796533,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,27,"Spark of the Everflame (Kindred's Curse, #1)",Penn Cole,4.17,343437,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,28,"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas,4.63,1444032,2016,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,29,"The Knight and the Moth (The Stonewater Kingdom, #1)",Rachel Gillig,4.22,323761,2025,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,30,"House of Flame and Shadow (Crescent City, #3)",Sarah J. Maas,4.27,876087,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,31,"Reckless (The Powerless Trilogy, #2)",Lauren Roberts,4.06,705850,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,32,"The Ashes & the Star-Cursed King (Crowns of Nyaxia, #2)",Carissa Broadbent,4.05,528247,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,33,"The Book of Azrael (Gods & Monsters, #1)",Amber V. Nicole,4.12,244413,2022,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,34,"Gild (The Plated Prisoner, #1)",Raven Kennedy,3.62,433452,2020,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,35,"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas,4.71,1292448,2018,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,36,"Tower of Dawn (Throne of Glass, #6)",Sarah J. Maas,4.28,1261264,2017,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,37,"Phantasma (Wicked Games, #1)",Kaylie Smith,4.04,379340,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,38,"Daughter of No Worlds (The War of Lost Hearts, #1)",Carissa Broadbent,4.02,250768,2020,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,39,"Caraval (Caraval, #1)",Stephanie Garber,3.97,996247,2016,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,40,"The Bridge Kingdom (The Bridge Kingdom, #1)",Danielle L. Jensen,4.04,257249,2018,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,41,"The Ballad of Never After (Once Upon a Broken Heart, #2)",Stephanie Garber,4.48,568494,2022,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,42,"The Awakening (Zodiac Academy, #1)",Caroline Peckham,3.82,496977,2019,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,43,"A Fate Inked in Blood (Saga of the Unfated, #1)",Danielle L. Jensen,3.89,209908,2024,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,44,"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas,4.20,1394985,2014,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,45,"A Kingdom of Flesh and Fire (Blood and Ash, #2)",Jennifer L. Armentrout,4.31,636252,2020,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,46,"A Curse for True Love (Once Upon a Broken Heart, #3)",Stephanie Garber,4.18,498821,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,47,"Dire Bound (The Wolves of Ruin, #1)",Sable Sorensen,4.30,273117,2025,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,48,"Assistant to the Villain (Assistant to the Villain, #1)",Hannah Nicole Maehrer,3.93,410430,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,49,"The Wicked King (The Folk of the Air, #2)",Holly Black,4.27,1174113,2019,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,50,"Two Twisted Crowns (The Shepherd King, #2)",Rachel Gillig,4.37,607621,2023,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+romantasy,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:00Z,https://www.goodreads.com/shelf/show/romantasy,curl
+dark-romance,1,"Haunting Adeline (Cat and Mouse, #1)",H.D. Carlton,3.93,996301,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,2,"Lights Out (Into Darkness, #1)",Navessa Allen,4.06,781410,2024,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,3,"Hunting Adeline (Cat and Mouse, #2)",H.D. Carlton,4.06,674725,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,4,"Butcher & Blackbird (The Ruinous Love Trilogy, #1)",Brynne Weaver,4.00,708698,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,5,"Corrupt (Devil's Night, #1)",Penelope Douglas,3.77,464050,2015,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,6,"God of Malice (Legacy of Gods, #1)",Rina Kent,3.90,335821,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,7,"The Ritual (L.O.R.D.S., #1)",Shantel Tessier,4.04,393873,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,8,"Hooked (Never After, #1)",Emily McIntire,3.76,544104,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,9,"The Sweetest Oblivion (Made, #1)",Danielle Lori,4.00,412173,2018,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,10,Does It Hurt? (Kindle Edition),H.D. Carlton,3.88,292468,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,11,"Little Stranger (The Web of Silence Duet, #1)",Leigh Rivers,3.74,225676,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,12,"The Predator (Dark Verse, #1)",RuNyx,3.97,156774,2020,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,13,"Insatiable (The Edge of Darkness, #1)",Leigh Rivers,4.21,231333,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,14,"God of Wrath (Legacy of Gods, #3)",Rina Kent,4.16,209749,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,15,"Kill Switch (Devil's Night, #3)",Penelope Douglas,4.28,201721,2019,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,16,"God of Pain (Legacy of Gods, #2)",Rina Kent,3.85,207296,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,17,"Hideaway (Devil's Night, #2)",Penelope Douglas,3.99,233007,2017,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,18,"The Risk (Mindf*ck, #1)",S.T. Abby,4.24,452407,2016,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,19,"Her Soul to Take (Souls Trilogy, #1)",Harley Laroux,4.02,171563,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,20,"God of Fury (Legacy of Gods, #5)",Rina Kent,4.48,196669,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,21,"Leather & Lark (The Ruinous Love Trilogy, #2)",Brynne Weaver,4.00,351364,2024,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,22,"God of Ruin (Legacy of Gods, #4)",Rina Kent,4.11,164549,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,23,"The Maddest Obsession (Made, #2)",Danielle Lori,4.24,264110,2019,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,24,"There Are No Saints (Sinners, #1)",Sophie Lark,3.78,124538,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,25,Still Beating (ebook),Jennifer Hartmann,4.18,276987,2020,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,26,Den of Vipers (Kindle Edition),K.A. Knight,3.65,254136,2020,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,27,"Caught Up (Into Darkness, #2)",Navessa Allen,3.79,289730,2025,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,28,Credence (Paperback),Penelope Douglas,3.67,655806,2020,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,29,"The Sinner (L.O.R.D.S., #2)",Shantel Tessier,4.02,188596,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,30,"Nightfall (Devil's Night, #4)",Penelope Douglas,4.26,150415,2020,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,31,"The Darkest Temptation (Made, #3)",Danielle Lori,4.03,192244,2020,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,32,"Scarred (Never After, #2)",Emily McIntire,3.84,227787,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,33,"Nocticadia (Nocticadia, #1)",Keri Lake,4.18,223702,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,34,"Deviant King (Royal Elite, #1)",Rina Kent,3.89,149883,2019,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,35,"The Never King (Vicious Lost Boys, #1)",Nikki St. Crowe,3.66,237522,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,36,"The Sacrifice (L.O.R.D.S., #3)",Shantel Tessier,4.31,156699,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,37,"God of War (Legacy of Gods, #6)",Rina Kent,4.09,132557,2024,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,38,"Scythe & Sparrow (The Ruinous Love Trilogy, #3)",Brynne Weaver,4.07,234774,2025,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,39,"Sidetracked (Mindf*ck, #2)",S.T. Abby,4.35,394691,2016,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,40,"Sinners Anonymous (Sinners Anonymous, #1)",Somme Sketcher,3.81,122974,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,41,"Scarlet Angel (Mindf*ck, #3)",S.T. Abby,4.37,373625,2016,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,42,"Paint It All Red (Mindf*ck, #5)",S.T. Abby,4.54,367177,2016,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,43,"Brutal Prince (Brutal Birthright, #1)",Sophie Lark,3.72,206431,2020,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,44,"All the Lies (Mindf*ck, #4)",S.T. Abby,4.50,357029,2016,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,45,"Twisted Love (Twisted, #1)",Ana Huang,3.70,1809224,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,46,That Sik Luv (Kindle Edition),Jescie Hall,3.96,71713,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,47,"Wretched (Never After, #3)",Emily McIntire,3.82,160635,2022,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,48,"Where's Molly (Cat and Mouse, #2.5)",H.D. Carlton,4.15,161365,2024,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,49,"Satan's Affair (Cat and Mouse, #0.5)",H.D. Carlton,3.71,171316,2021,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,50,"Blood of My Monster (Monster Trilogy, #1)",Rina Kent,4.16,100246,2023,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+dark-romance,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:11Z,https://www.goodreads.com/shelf/show/dark-romance,curl
+cozy-mystery,1,"Vera Wong's Unsolicited Advice for Murderers (Vera Wong, #1)",Jesse Q. Sutanto,4.01,244140,2023,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,2,"Chocolate Chip Cookie Murder (Hannah Swensen, #1)",Joanne Fluke,3.68,75034,2000,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,3,"The Thursday Murder Club (Thursday Murder Club, #1)",Richard Osman,3.85,878701,2020,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,4,"Arsenic and Adobo (Tita Rosie's Kitchen Mystery, #1)",Mia P. Manansala,3.54,83379,2021,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,5,"The Secret, Book & Scone Society (Secret, Book, & Scone Society, #1)",Ellery Adams,3.77,39875,2017,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,6,"The Quiche of Death (Agatha Raisin, #1)",M.C. Beaton,3.72,48171,1992,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,7,"On What Grounds (Coffeehouse Mystery, #1)",Cleo Coyle,3.65,21268,2003,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,8,Books Can Be Deceiving (Library Lover's Mystery #1),Jenn McKinlay,3.84,13502,2011,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,9,Murder is Binding (Booktown Mystery #1),Lorna Barrett,3.68,15115,2008,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,10,"Death by Dumpling (Noodle Shop Mystery, #1)",Vivien Chien,3.64,15387,2018,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,11,"Strawberry Shortcake Murder (Hannah Swensen, #2)",Joanne Fluke,3.85,32984,2001,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,12,"Her Royal Spyness (Her Royal Spyness Mysteries, #1)",Rhys Bowen,3.83,43054,2007,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,13,"Brownies and Broomsticks (A Magical Bakery Mystery, #1)",Bailey Cates,3.78,12481,2012,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,14,"The Marlow Murder Club (Marlow Murder Club, #1)",Robert Thorogood,3.80,91763,2021,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,15,"The Man Who Died Twice (Thursday Murder Club, #2)",Richard Osman,4.34,391802,2021,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,16,Sprinkle with Murder (Cupcake Bakery Mystery #1),Jenn McKinlay,3.85,12032,2010,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,17,Homicide in Hardcover (Bibliophile Mystery #1),Kate Carlisle,3.76,13248,2009,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,18,"How to Solve Your Own Murder (Castle Knoll Files, #1)",Kristen Perrin,3.79,143730,2024,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,19,"Blueberry Muffin Murder (Hannah Swensen, #3)",Joanne Fluke,3.90,29565,2001,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,20,"Vera Wong's Guide to Snooping [On a Dead Man] (Vera Wong, #2)",Jesse Q. Sutanto,4.15,84848,2025,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,21,"Murder in the Mystery Suite (Book Retreat Mysteries, #1)",Ellery Adams,3.79,10602,2014,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,22,"The Diva Runs Out of Thyme (A Domestic Diva Mystery, #1)",Krista Davis,3.89,9137,2008,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,23,"Murder in an Irish Village (An Irish Village Mystery, #1)",Carlene O'Connor,3.83,29406,2016,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,24,"Shady Hollow (Shady Hollow, #1)",Juneau Black,3.73,40060,2015,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,25,"Death by Darjeeling (A Tea Shop Mystery, #1)",Laura Childs,3.75,13310,2001,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,26,"Meet Your Baker (A Bakeshop Mystery, #1)",Ellie Alexander,3.90,7947,2014,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,27,"The Maid (Molly the Maid, #1)",Nita Prose,3.74,745351,2022,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,28,By Book or By Crook (Lighthouse Library Mystery #1),Eva Gates,3.72,8659,2015,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,29,Murder Past Due (Cat in the Stacks #1),Miranda James,3.78,13031,2010,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,30,"Finlay Donovan Is Killing It (Finlay Donovan, #1)",Elle Cosimano,3.98,265005,2021,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,31,Curiosity Thrilled the Cat (Magical Cats Mystery #1),Sofie Kelly,3.93,8206,2011,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,32,"Lemon Meringue Pie Murder (Hannah Swensen, #4)",Joanne Fluke,3.86,25336,2003,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,33,"The Bullet That Missed (Thursday Murder Club, #3)",Richard Osman,4.34,308444,2022,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,34,"Murder with Peacocks (Meg Langslow, #1)",Donna Andrews,3.89,14708,1997,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,35,"Real Murders (Aurora Teagarden, #1)",Charlaine Harris,3.69,38444,1990,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,36,"Louisiana Longshot (Miss Fortune Mystery, #1)",Jana Deleon,4.23,41803,2012,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,37,"Beaches, Bungalows & Burglaries (Camper & Criminals, #1)",Tonya Kappes,3.54,19868,2018,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,38,"The Last Devil to Die (Thursday Murder Club, #4)",Richard Osman,4.45,263653,2023,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,39,"Crime and Poetry (Magical Bookshop, #1)",Amanda Flower,3.95,7218,2016,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,40,"Sugar Cookie Murder (Hannah Swensen, #6)",Joanne Fluke,3.73,22877,2004,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,41,"Fudge Cupcake Murder (Hannah Swensen, #5)",Joanne Fluke,3.91,25326,2004,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,42,"In the Company of Witches (Evenfall Witches B&B, #1)",Auralee Wallace,3.86,24110,2021,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,43,"Crocodile on the Sandbank (Amelia Peabody, #1)",Elizabeth Peters,4.00,81652,1975,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,44,"Murder by the Book (Beyond the Page Bookstore Mystery, #1)",Lauren Elliott,3.67,15489,2018,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,45,The Cracked Spine (Scottish Bookshop Mystery #1),Paige Shelton,3.50,9520,2016,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,46,"Secondhand Spirits (Witchcraft Mystery, #1)",Juliet Blackwell,3.90,13642,2009,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,47,"Lending a Paw (Bookmobile Cat Mystery, #1)",Laurie Cass,3.85,5558,2013,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,48,Due or Die (Library Lover's Mystery #2),Jenn McKinlay,3.96,8913,2012,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,49,"Still Life (Chief Inspector Armand Gamache, #1)",Louise Penny,3.89,299352,2005,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,50,"The Vicious Vet (Agatha Raisin, #2)",M.C. Beaton,3.73,28517,1993,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+cozy-mystery,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:24Z,https://www.goodreads.com/shelf/show/cozy-mystery,curl
+self-published,1,The Sword of Kaigen (Kindle Edition),M.L. Wang,4.41,116938,2019,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,2,Never Die (The Mortal Techniques),Rob J. Hayes,3.87,4887,2019,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,3,"Sufficiently Advanced Magic (Arcane Ascension, #1)",Andrew Rowe,4.10,28449,2017,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,4,"Unsouled (Cradle, #1)",Will Wight,4.13,64578,2016,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,5,"Along the Razor's Edge (The War Eternal, #1)",Rob J. Hayes,3.83,3676,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,6,"Orconomics (The Dark Profit Saga, #1)",J. Zachary Pike,4.26,11138,2014,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,7,"Of Blood and Fire (The Bound and the Broken, #1)",Ryan Cahill,4.05,28258,2021,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,8,"Voice of War (Threadlight, #1)",Zack Argyle,3.78,2156,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,9,"Wool Omnibus (Silo, #1)",Hugh Howey,4.22,297841,2012,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,10,"Rise of Gods (The Paternus Trilogy, #1)",Dyrk Ashton,3.95,2843,2016,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,11,"The Thief Who Pulled on Trouble's Braids (Amra Thetys, #1)",Michael McClung,3.98,3495,2012,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,12,"Angelfall (Penryn & the End of Days, #1)",Susan Ee,4.09,201161,2011,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,13,"Dreams of the Dying (The Twelfth World, #1)",Nicolas Lietzau,4.19,1868,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,14,"Dragon Mage (Rivenworld, #1)",M.L. Spencer,4.32,6241,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,15,"The Lost War (Eidyn, #1)",Justin Lee Anderson,4.17,3489,2019,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,16,"Black Stone Heart (The Obsidian Path, #1)",Michael R. Fletcher,3.96,3067,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,17,"Aching God (Iconoclasts, #1)",Mike Shel,4.15,4147,2018,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,18,"Nice Dragons Finish Last (Heartstrikers, #1)",Rachel Aaron,4.11,14642,2014,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,19,"Illborn (The Illborn Saga, #1)",Daniel T. Jackson,4.10,3210,2021,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,20,"Rise of the Ranger (The Echoes Saga, #1)",Philip C. Quaintrell,4.18,14328,2017,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,21,"Gunmetal Gods (Gunmetal Gods, #1)",Zamil Akhtar,3.90,4126,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,22,Pawn's Gambit (The Mortal Techniques),Rob J. Hayes,4.17,1495,2021,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,23,"Kings of Paradise (Ash and Sand, #1)",Richard Nell,4.15,4527,2017,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,24,"The Crimson Queen (The Raveling, #1)",Alec Hutson,4.12,5091,2016,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,25,"Legends & Lattes (Legends & Lattes, #1)",Travis Baldree,4.02,364295,2022,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,26,"The Grey Bastards (The Lot Lands, #1)",Jonathan French,4.05,9280,2015,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,27,"Radiance (Wraith Kings, #1)",Grace Draven,3.98,70906,2015,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,28,"The Emperor's Edge (The Emperor's Edge, #1)",Lindsay Buroker,4.05,16327,2010,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,29,"Reign & Ruin (Mages of the Wheel, #1)",J.D. Evans,4.16,18887,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,30,"The Atlas Six (The Atlas, #1)",Olivie Blake,3.53,291461,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,31,"Shadow of a Dead God (Mennik Thorn, #1)",Patrick Samphire,4.04,775,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,32,"Soulsmith (Cradle, #2)",Will Wight,4.31,46768,2016,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,33,"They Mostly Come Out at Night (Yarnsworld, #1)",Benedict Patrick,3.67,2187,2016,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,34,"Murder at Spindle Manor (The Lamplight Murder Mysteries, #1)",Morgan Stang,3.93,3807,2022,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,35,"Dungeon Crawler Carl (Dungeon Crawler Carl, #1)",Matt Dinniman,4.41,713006,2020,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,36,"Breach of Peace (Lawful Times, #1)",Daniel B. Greene,3.50,9571,2021,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,37,"Skysworn (Cradle, #4)",Will Wight,4.37,40369,2017,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,38,"Fortune's Fool (Eterean Empire, #1)",Angela Boord,4.03,353,2019,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,39,The Martian (Hardcover),Andy Weir,4.42,1394093,2011,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,40,"Uncrowned (Cradle, #7)",Will Wight,4.57,37081,2019,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,41,"Blackflame (Cradle, #3)",Will Wight,4.50,42990,2017,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,42,"Where Loyalties Lie (Best Laid Plans, #1)",Rob J. Hayes,3.97,1124,2017,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,43,"The Path of Flames (Chronicles of the Black Gate, #1)",Phil Tucker,4.02,3457,2016,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,44,"Senlin Ascends (The Books of Babel, #1)",Josiah Bancroft,4.10,35437,2013,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,45,"Blade's Edge (Chronicles of Gensokai, #1)",Virginia McClain,3.95,280,2015,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,46,"Easy (Contours of the Heart, #1)",Tammara Webber,4.07,229929,2012,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,47,"By Blood, by Salt (Land of Exile, #1)",J.L. Odom,4.20,896,2024,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,48,"The Wickwire Watch (The Riverfall Chronicles, #1)",Jacquelyn Hagen,3.94,712,2022,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,49,Mother of Learning: ARC 1 (Kindle Edition),Domagoj Kurmaić,4.46,18671,2021,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,50,"The Thirteenth Hour (The Cruel Gods, #1)",Trudie Skies,4.10,576,2021,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+self-published,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:34Z,https://www.goodreads.com/shelf/show/self-published,curl
+kindle-unlimited,1,"The Serpent and the Wings of Night (Crowns of Nyaxia, #1)",Carissa Broadbent,4.25,831223,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,2,"The Awakening (Zodiac Academy, #1)",Caroline Peckham,3.82,496977,2019,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,3,"The Housemaid (The Housemaid, #1)",Freida McFadden,4.26,4048808,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,4,"Things We Never Got Over (Knockemout, #1)",Lucy Score,4.12,1127398,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,5,"Twisted Love (Twisted, #1)",Ana Huang,3.70,1809224,2021,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,6,"Gild (The Plated Prisoner, #1)",Raven Kennedy,3.62,433452,2020,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,7,"Mile High (Windy City, #1)",Liz Tomforde,4.00,704045,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,8,"Daughter of No Worlds (The War of Lost Hearts, #1)",Carissa Broadbent,4.02,250768,2020,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,9,"Haunting Adeline (Cat and Mouse, #1)",H.D. Carlton,3.93,996301,2021,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,10,"Flawless (Chestnut Springs, #1)",Elsie Silver,4.00,776444,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,11,"Hooked (Never After, #1)",Emily McIntire,3.76,544104,2021,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,12,"The Fine Print (Dreamland Billionaires, #1)",Lauren Asher,3.79,695835,2021,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,13,"Quicksilver (Fae & Alchemy, #1)",Callie Hart,4.29,1033126,2024,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,14,"Spark of the Everflame (Kindred's Curse, #1)",Penn Cole,4.17,343437,2023,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,15,"The Butterfly Garden (The Collector, #1)",Dot Hutchison,4.08,328860,2016,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,16,Birthday Girl (ebook),Penelope Douglas,3.91,540029,2018,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,17,"Stillhouse Lake (Stillhouse Lake, #1)",Rachel Caine,4.10,207087,2017,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,18,"The Risk (Mindf*ck, #1)",S.T. Abby,4.24,452407,2016,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,19,"Divine Rivals (Letters of Enchantment, #1)",Rebecca Ross,4.14,810016,2023,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,20,"Rhapsodic (The Bargainer, #1)",Laura Thalassa,3.89,206312,2016,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,21,Beneath a Scarlet Sky (Paperback),Mark T. Sullivan,4.44,413726,2017,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,22,Credence (Paperback),Penelope Douglas,3.67,655806,2020,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,23,"Pestilence (The Four Horsemen, #1)",Laura Thalassa,3.85,136772,2018,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,24,"Angelfall (Penryn & the End of Days, #1)",Susan Ee,4.09,201161,2011,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,25,"The Book of Azrael (Gods & Monsters, #1)",Amber V. Nicole,4.12,244413,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,26,From Lukov with Love (Paperback),Mariana Zapata,4.18,296343,2018,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,27,Never Lie (Kindle Edition),Freida McFadden,4.07,1814171,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,28,The V Girl: A Coming of Age Story (Kindle Edition),Mya Robarts,3.94,17097,2015,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,29,"Phantasma (Wicked Games, #1)",Kaylie Smith,4.04,379340,2024,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,30,"The Right Move (Windy City, #2)",Liz Tomforde,4.37,599681,2023,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,31,"The Sweetest Oblivion (Made, #1)",Danielle Lori,4.00,412173,2018,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,32,Where the Forest Meets the Stars (Hardcover),Glendy Vanderah,4.13,247381,2019,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,33,"Twisted Games (Twisted, #2)",Ana Huang,4.07,1174179,2021,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,34,"Broken Bonds (The Bonds that Tie, #1)",J. Bree,4.12,172499,2021,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,35,"Air Awakens (Air Awakens, #1)",Elise Kova,3.97,63950,2015,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,36,"Ice Planet Barbarians (Ice Planet Barbarians, #1)",Ruby Dixon,3.61,225150,2015,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,37,"My Sister's Grave (Tracy Crosswhite, #1)",Robert Dugoni,4.10,173888,2014,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,38,"The Paper Magician (The Paper Magician, #1)",Charlie N. Holmberg,3.69,92036,2014,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,39,The Wall of Winnipeg and Me (Kindle Edition),Mariana Zapata,4.14,317826,2016,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,40,"Heartless (Chestnut Springs, #2)",Elsie Silver,4.35,655630,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,41,"Flock (The Ravenhood, #1)",Kate Stewart,4.08,315007,2020,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,42,"Wool Omnibus (Silo, #1)",Hugh Howey,4.22,297841,2012,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,43,"Corrupt (Devil's Night, #1)",Penelope Douglas,3.77,464050,2015,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,44,Reminders of Him (Paperback),Colleen Hoover,4.32,1870333,2022,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,45,Punk 57 (Kindle Edition),Penelope Douglas,3.76,524709,2016,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,46,When We Believed in Mermaids (Kindle Edition),Barbara O'Neal,4.17,251015,2019,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,47,Den of Vipers (Kindle Edition),K.A. Knight,3.65,254136,2020,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,48,"The Ashes & the Star-Cursed King (Crowns of Nyaxia, #2)",Carissa Broadbent,4.05,528247,2023,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,49,Regretting You (Kindle Edition),Colleen Hoover,4.09,1011540,2019,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,50,"The Housemaid's Secret (The Housemaid, #2)",Freida McFadden,4.14,2034406,2023,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+kindle-unlimited,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:46Z,https://www.goodreads.com/shelf/show/kindle-unlimited,curl
+self-help,1,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones (Kindle Edition),James Clear,4.30,1443223,2018,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,2,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Paperback),Mark Manson,3.85,1500517,2016,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,3,How to Win Friends & Influence People (Paperback),Dale Carnegie,4.21,1203151,1936,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,4,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change (Paperback),Stephen R. Covey,4.16,848659,1989,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,5,The Power of Habit: Why We Do What We Do in Life and Business (Hardcover),Charles Duhigg,4.13,580385,2012,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,6,The Four Agreements: A Practical Guide to Personal Freedom (Hardcover),Miguel Ruiz,4.19,555916,1997,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,7,The Power of Now: A Guide to Spiritual Enlightenment (Paperback),Eckhart Tolle,4.15,478670,NOT SHOWN,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,8,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing (Hardcover),Marie Kondō,3.88,401244,2010,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,9,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life (Paperback),Jen Sincero,3.95,298152,2013,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,10,Deep Work: Rules for Focused Success in a Distracted World (Hardcover),Cal Newport,4.15,201211,2016,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,11,The Gifts of Imperfection (Paperback),Brené Brown,4.24,232074,2010,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,12,Quiet: The Power of Introverts in a World That Can't Stop Talking (Hardcover),Susan Cain,4.07,487769,2012,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,13,"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma (Hardcover)",Bessel van der Kolk,4.33,314735,2014,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,14,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead (Hardcover)",Brené Brown,4.29,250857,2012,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,15,"Thinking, Fast and Slow (Hardcover)",Daniel Kahneman,4.16,621938,2011,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,16,"The Courage to Be Disliked: How to Free Yourself, Change Your Life and Achieve Real Happiness (Paperback)",Ichiro Kishimi,3.90,165677,2013,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,17,The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery (Kindle Edition),Brianna Wiest,4.03,137594,2020,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,18,Man's Search for Meaning (Paperback),Viktor E. Frankl,4.36,950119,1946,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,19,Think and Grow Rich (Paperback),Napoleon Hill,4.16,397771,1937,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,20,12 Rules for Life: An Antidote to Chaos (Hardcover),Jordan B. Peterson,3.90,279260,2018,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,21,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money—That the Poor and Middle Class Do Not! (Paperback),Robert T. Kiyosaki,4.08,769104,1997,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,22,The 5 Love Languages: The Secret to Love That Lasts (Kindle Edition),Gary Chapman,4.27,494645,1990,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,23,Who Moved My Cheese? (Hardcover),Spencer Johnson,3.87,523516,1998,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,24,Mindset: The New Psychology of Success (Hardcover),Carol S. Dweck,4.09,183779,2006,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,25,The Let Them Theory (Kindle Edition),Mel Robbins,3.98,364984,2024,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,26,The 48 Laws of Power (Paperback),Robert Greene,4.07,248297,1999,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,27,"The Secret (The Secret, #1)",Rhonda Byrne,3.74,550254,2006,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,28,The 4-Hour Workweek (ebook),Timothy Ferriss,3.90,345901,2007,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,29,The Alchemist (Paperback),Paulo Coelho,3.92,3784829,1988,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,30,Can't Hurt Me: Master Your Mind and Defy the Odds (Kindle Edition),David Goggins,4.30,337943,2018,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,31,Essentialism: The Disciplined Pursuit of Less (Kindle Edition),Greg McKeown,4.05,137796,2011,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,32,Four Thousand Weeks: Time Management for Mortals (Hardcover),Oliver Burkeman,4.16,143668,2021,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,33,Outliers: The Story of Success (Hardcover),Malcolm Gladwell,4.19,894858,2008,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,34,"The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness (Paperback)",Morgan Housel,4.27,373169,2020,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,35,Big Magic: Creative Living Beyond Fear (Hardcover),Elizabeth Gilbert,3.96,242906,2015,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,36,The Untethered Soul: The Journey Beyond Yourself (Paperback),Michael A. Singer,4.20,156408,2007,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,37,"Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents (Paperback)",Lindsay C. Gibson,4.34,105730,2015,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,38,Getting Things Done: The Art of Stress-Free Productivity (Paperback),David Allen,4.00,170997,2001,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,39,The Happiness Project (Hardcover),Gretchen Rubin,3.65,184159,2009,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,40,How to Stop Worrying and Start Living: Time-Tested Methods for Conquering Worry (Paperback),Dale Carnegie,4.16,118426,1944,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,41,Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love (Hardcover),Amir Levine,4.12,135226,2010,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,42,101 Essays That Will Change The Way You Think (Kindle Edition),Brianna Wiest,3.72,80144,2016,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,43,Grit: The Power of Passion and Perseverance (Hardcover),Angela Duckworth,4.08,149012,2016,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,44,Digital Minimalism: Choosing a Focused Life in a Noisy World (Kindle Edition),Cal Newport,4.05,99849,2019,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,45,Maybe You Should Talk to Someone (Hardcover),Lori Gottlieb,4.36,429126,2019,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,46,Never Split the Difference: Negotiating as if Your Life Depended on It (Paperback),Chris Voss,4.33,231378,2016,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,47,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World (Audible Audio),William H. McRaven,4.01,167168,2017,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,48,Girl Wash your Face (Hardcover),Rachel Hollis,3.57,276398,2018,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,49,The Power of Your Subconscious Mind (Mass Market Paperback),Joseph Murphy,4.06,92536,1963,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,50,A New Earth: Awakening to Your Life's Purpose (Paperback),Eckhart Tolle,4.17,226748,2005,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+self-help,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:48:58Z,https://www.goodreads.com/shelf/show/self-help,curl
+cozy-fantasy,1,"Legends & Lattes (Legends & Lattes, #1)",Travis Baldree,4.02,364295,2022,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,2,The Spellshop (Paperback),Sarah Beth Durst,3.99,191650,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,3,The Very Secret Society of Irregular Witches (Paperback),Sangu Mandanna,4.02,440334,2022,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,4,"Emily Wilde's Encyclopaedia of Faeries (Emily Wilde, #1)",Heather Fawcett,3.95,243539,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,5,"Bookshops & Bonedust (Legends & Lattes, #0)",Travis Baldree,4.10,128845,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,6,"The House in the Cerulean Sea (Cerulean Chronicles, #1)",T.J. Klune,4.34,1123973,2020,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,7,"Can't Spell Treason Without Tea (Tomes & Tea, #1)",Rebecca Thorne,3.70,37925,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,8,A Witch's Guide to Magical Innkeeping (ebook),Sangu Mandanna,3.92,135898,2025,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,9,"The Enchanted Greenhouse (Spellshop, #2)",Sarah Beth Durst,4.09,63031,2025,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,10,The Teller of Small Fortunes (Paperback),Julie Leong,3.80,41527,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,11,"The House Witch (The House Witch, #1)",Delemhach,4.09,40285,2022,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,12,"Half a Soul (Regency Faerie Tales, #1)",Olivia Atwater,4.03,90272,2020,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,13,"Howl's Moving Castle (Howl's Moving Castle, #1)",Diana Wynne Jones,4.28,479499,1986,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,14,A Wizard’s Guide to Defensive Baking (Paperback),T. Kingfisher,4.04,76456,2020,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,15,"Emily Wilde’s Map of the Otherlands (Emily Wilde, #2)",Heather Fawcett,4.23,119709,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,16,Agnes Aubert's Mystical Cat Shelter (Hardcover),Heather Fawcett,3.86,43767,2026,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,17,"Brigands & Breadknives (Legends & Lattes, #2)",Travis Baldree,4.02,42062,2025,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,18,"A Fellowship of Bakers & Magic (Adenashire, #1)",J. Penner,3.85,17483,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,19,"A Psalm for the Wild-Built (Monk & Robot, #1)",Becky Chambers,4.19,212687,2021,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,20,"Emily Wilde's Compendium of Lost Tales (Emily Wilde, #3)",Heather Fawcett,4.07,69889,2025,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,21,"That Time I Got Drunk and Saved a Demon (Mead Mishaps, #1)",Kimberly Lemming,3.84,67732,2021,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,22,Under the Whispering Door (Hardcover),T.J. Klune,4.10,345558,2021,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,23,"Tress of the Emerald Sea (Hoid's Travails, #1)",Brandon Sanderson,4.30,340454,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,24,"The Tea Dragon Society (Tea Dragon, #1)",K. O'Neill,4.33,72757,2017,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,25,The Faraway Inn (Paperback),Sarah Beth Durst,4.12,25964,2026,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,26,"Sea of Charms (Spellshop, #3)",Sarah Beth Durst,4.24,19115,2026,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,27,"Swordheart (Swordheart, #1)",T. Kingfisher,4.05,61063,2018,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,28,Violet Thistlewaite Is Not a Villain Anymore (Paperback),Emily Krempholtz,3.78,29215,2025,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,29,The Honey Witch (Paperback),Sydney J. Shields,3.53,32162,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,30,"Cursed Cocktails (Tales of Aedrea, #1)",S.L. Rowland,4.13,7014,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,31,"Somewhere Beyond the Sea (Cerulean Chronicles, #2)",T.J. Klune,4.09,248388,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,32,"Keeper of Enchanted Rooms (Whimbrel House, #1)",Charlie N. Holmberg,4.11,60482,2022,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,33,"Rewitched (Selcouth, #1)",Lucy Jane Wood,3.72,36629,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,34,"Assistant to the Villain (Assistant to the Villain, #1)",Hannah Nicole Maehrer,3.93,410430,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,35,"A Pirate's Life for Tea (Tomes & Tea, #2)",Rebecca Thorne,4.06,12090,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,36,"The Undertaking of Hart and Mercy (Hart and Mercy, #1)",Megan Bannen,4.03,53100,2022,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,37,The Keeper of Magical Things (Paperback),Julie Leong,4.13,9275,2025,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,38,Stay for a Spell (Hardcover),Amy Coombe,3.98,5836,2026,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,39,"Paladin's Grace (The Saint of Steel, #1)",T. Kingfisher,4.02,67702,2020,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,40,"The Baby Dragon Café (The Baby Dragon, #1)",Aamna Qureshi,3.23,25467,2025,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,41,The Phoenix Keeper (Paperback),S.A. MacLean,3.80,11709,2024,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,42,"In the Company of Witches (Evenfall Witches B&B, #1)",Auralee Wallace,3.86,24110,2021,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,43,Flowerheart (Hardcover),Catherine Bakewell,3.44,10602,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,44,The Bookshop and the Barbarian (Kindle Edition),Morgan Stang,3.52,3848,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,45,Nettle & Bone (Hardcover),T. Kingfisher,4.06,162540,2022,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,46,"Garlic and the Vampire (Garlic, #1)",Bree Paulsen,4.28,24703,2021,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,47,"The Reimagining of Thornwood House (The Magic of Iskendra, #1)",Jaleigh Johnson,4.12,4692,2026,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,48,"A Coup of Tea (Tea Princess Chronicles, #1)",Casey Blair,4.17,5524,2017,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,49,"Forged by Magic (Falling for Fables, #1)",Jenna Wolfhart,3.82,8851,2023,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,50,How to Lose a Goblin in Ten Days (Paperback),Jessie Sylva,3.58,6720,2026,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+cozy-fantasy,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:09Z,https://www.goodreads.com/shelf/show/cozy-fantasy,curl
+manga,1,"Death Note, Vol. 1: Boredom (Death Note, #1)",Tsugumi Ohba,4.47,385528,2004,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,2,"Attack on Titan, Vol. 1 (Paperback)",Hajime Isayama,4.48,316797,2010,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,3,SPY×FAMILY 1 (Kindle Edition),Tatsuya Endo,4.43,203408,2019,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,4,"Tokyo Ghoul, Tome 1 (Tokyo Ghoul, #1)",Sui Ishida,4.40,179867,2012,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,5,"Fruits Basket, Vol. 1 (Paperback)",Natsuki Takaya,4.29,215592,1999,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,6,"Fullmetal Alchemist, Vol. 1 (Paperback)",Hiromu Arakawa,4.54,199548,2002,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,7,"One Piece, Volume 1: Romance Dawn (Paperback)",Eiichiro Oda,4.49,195410,1997,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,8,"Naruto, Vol. 1: Uzumaki Naruto (Naruto, #1)",Masashi Kishimoto,4.41,252908,2000,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,9,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club, #1)",Bisco Hatori,4.38,201486,2003,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,10,呪術廻戦 1 [Jujutsu Kaisen 1] (Paperback),Gege Akutami,4.49,74336,2018,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,11,"Chainsaw Man, Vol. 1: Dog and Chainsaw (Kindle Edition)",Tatsuki Fujimoto,4.35,136094,2019,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,12,"Death Note, Vol. 2: Confluence (Death Note, #2)",Tsugumi Ohba,4.48,59116,2004,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,13,"Bleach, Vol. 1 (Paperback)",Tite Kubo,4.27,203809,2002,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,14,"Black Butler I (Black Butler, #1)",Yana Toboso,4.35,147659,2007,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,15,鬼滅の刃 1 [Kimetsu no Yaiba 1] (Kindle Edition),Koyoharu Gotouge,4.45,152239,2016,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,16,"My Hero Academia, Vol. 1 (Paperback)",Kohei Horikoshi,4.28,160011,2014,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,17,SPY×FAMILY 2 (Paperback),Tatsuya Endo,4.52,59097,2019,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,18,Uzumaki (Hardcover),Junji Ito,4.45,96510,1998,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,19,"Vampire Knight, Vol. 1 (Vampire Knight, #1)",Matsuri Hino,4.05,140548,2005,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,20,"Death Note, Vol. 3: Hard Run (Death Note, #3)",Tsugumi Ohba,4.46,43824,2004,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,21,"Witch Hat Atelier, Vol. 1 (Paperback)",Kamome Shirahama,4.46,51457,2017,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,22,"Attack on Titan, Vol. 2 (Paperback)",Hajime Isayama,4.52,62899,2010,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,23,"Death Note, Vol. 4: Love (Death Note, #4)",Tsugumi Ohba,4.42,43669,2004,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,24,"Berserk, Vol. 1 (Berserk, #1)",Kentaro Miura,4.49,75697,1990,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,25,SPY×FAMILY 3 (Paperback),Tatsuya Endo,4.50,47733,2020,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,26,約束のネバーランド 1 [Yakusoku no Neverland 1] (Paperback),Kaiu Shirai,4.40,85362,2016,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,27,"Death Note, Vol. 5: Whiteout (Death Note, #5)",Tsugumi Ohba,4.31,33961,2005,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,28,"Nana, Vol. 1 (Paperback)",Ai Yazawa,4.40,83147,2000,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,29,チェンソーマン 2 [Chainsaw Man 2] (Paperback),Tatsuki Fujimoto,4.29,41503,2019,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,30,"Attack on Titan, Vol. 3 (Paperback)",Hajime Isayama,4.46,40781,2010,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,31,呪術廻戦 0 東京都立呪術高等専門学校 [Jujutsu Kaisen 0 Tōkyō Toritsu Jujutsu Kōtō Senmon Gakkō] (Paperback),Gege Akutami,4.48,105945,2018,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,32,SPY×FAMILY 4 (Paperback),Tatsuya Endo,4.53,40533,2020,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,33,呪術廻戦 2 [Jujutsu Kaisen 2] (Paperback),Gege Akutami,4.46,39077,2018,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,34,"東京喰種トーキョーグール 2 (Tokyo Ghoul, #2)",Sui Ishida,4.41,43304,2012,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,35,"Death Note, Vol. 6: Give-and-Take (Death Note, #6)",Tsugumi Ohba,4.39,31305,2005,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,36,"Fairy Tail, Vol. 01 (Paperback)",Hiro Mashima,4.32,133821,2006,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,37,"Attack on Titan, Vol. 4 (Paperback)",Hajime Isayama,4.43,33816,2011,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,38,チェンソーマン 3 [Chainsaw Man 3] (Paperback),Tatsuki Fujimoto,4.33,32810,2019,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,39,"Death Note, Vol. 7: Zero (Death Note, #7)",Tsugumi Ohba,4.44,31709,2005,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,40,SPY×FAMILY 5 (Paperback),Tatsuya Endo,4.41,35024,2020,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,41,"Death Note, Vol. 8: Target (Death Note, #8)",Tsugumi Ohba,4.22,27830,2005,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,42,呪術廻戦 3 [Jujutsu Kaisen 3] (Paperback),Gege Akutami,4.44,33020,2018,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,43,チェンソーマン 4 [Chainsaw Man 4] (Paperback),Tatsuki Fujimoto,4.40,29707,2019,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,44,"Attack on Titan, Vol. 5 (進撃の巨人 [Shingeki no Kyojin] #5)",Hajime Isayama,4.49,28704,2011,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,45,"東京喰種トーキョーグール 3 (Tokyo Ghoul, #3)",Sui Ishida,4.39,27397,2012,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,46,チェンソーマン 5 [Chainsaw Man 5] (Paperback),Tatsuki Fujimoto,4.39,27688,2020,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,47,"One Piece, Volume 2: Buggy the Clown (Paperback)",Eiichiro Oda,4.36,35269,1998,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,48,"Death Note, Vol. 9: Contact (Death Note, #9)",Tsugumi Ohba,4.19,23113,2005,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,49,SPY×FAMILY 6 (Paperback),Tatsuya Endo,4.39,30473,2020,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,50,"Attack on Titan, Vol. 6 (Paperback)",Hajime Isayama,4.52,26558,2011,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+manga,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:20Z,https://www.goodreads.com/shelf/show/manga,curl
+litrpg,1,"Dungeon Crawler Carl (Dungeon Crawler Carl, #1)",Matt Dinniman,4.41,713006,2020,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,2,"Carl's Doomsday Scenario (Dungeon Crawler Carl, #2)",Matt Dinniman,4.46,474944,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,3,"The Dungeon Anarchist's Cookbook (Dungeon Crawler Carl, #3)",Matt Dinniman,4.36,388880,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,4,"The Gate of the Feral Gods (Dungeon Crawler Carl, #4)",Matt Dinniman,4.52,320271,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,5,"He Who Fights with Monsters 1 (He Who Fights with Monsters, #1)",Shirtaloon,4.32,56154,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,6,"The Butcher's Masquerade (Dungeon Crawler Carl, #5)",Matt Dinniman,4.67,275357,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,7,"The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)",Matt Dinniman,4.62,235057,2023,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,8,"The Land: Founding (Chaos Seeds, #1)",Aleron Kong,4.16,26258,2015,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,9,"This Inevitable Ruin (Dungeon Crawler Carl, #7)",Matt Dinniman,4.65,193796,2024,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,10,"The Primal Hunter (The Primal Hunter, #1)",Zogarth,4.23,26074,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,11,"Catharsis (Awaken Online, #1)",Travis Bagwell,4.37,17563,2016,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,12,"He Who Fights with Monsters 2 (He Who Fights with Monsters, #2)",Shirtaloon,4.50,37103,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,13,"Defiance of the Fall (Defiance of the Fall, #1)",TheFirstDefier,4.34,17525,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,14,"He Who Fights with Monsters 3 (He Who Fights with Monsters, #3)",Shirtaloon,4.46,32220,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,15,"Ritualist (The Completionist Chronicles, #1)",Dakota Krout,4.30,16384,2018,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,16,"A Parade of Horribles (Dungeon Crawler Carl, #8)",Matt Dinniman,4.59,142425,2026,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,17,"The Land: Forging (Chaos Seeds, #2)",Aleron Kong,4.31,16202,NOT SHOWN,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,18,"Survival Quest (The Way of the Shaman, #1)",Vasily Mahanenko,4.15,11380,2012,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,19,"He Who Fights with Monsters 4 (He Who Fights with Monsters, #4)",Shirtaloon,4.48,29551,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,20,"The Land: Alliances (Chaos Seeds, #3)",Aleron Kong,4.32,14499,2016,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,21,"Dungeon Born (The Divine Dungeon, #1)",Dakota Krout,4.20,14491,2016,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,22,"Ascend Online (Ascend Online, #1)",Luke Chmilenko,4.19,9009,2016,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,23,"The Wandering Inn (The Wandering Inn, #1)",Pirateaba,4.20,17495,2018,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,24,"He Who Fights with Monsters 5 (He Who Fights with Monsters, #5)",Shirtaloon,4.44,27647,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,25,"The Land: Catacombs (Chaos Seeds, #4)",Aleron Kong,4.31,13401,2016,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,26,"Life Reset (New Era Online, #1)",Shemer Kuznits,4.28,9146,NOT SHOWN,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,27,"The Land: Swarm (Chaos Seeds, #5)",Aleron Kong,4.33,12666,2016,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,28,"He Who Fights with Monsters 6 (He Who Fights with Monsters, #6)",Shirtaloon,4.45,25202,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,29,"The Mayor of Noobtown (Noobtown, #1)",Ryan Rimmel,4.00,9671,2019,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,30,"He Who Fights With Monsters 7 (He Who Fights with Monsters, #7)",Shirtaloon,4.53,24618,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,31,"The Primal Hunter 2 (The Primal Hunter, #2)",Zogarth,4.45,17585,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,32,"The Land: Raiders (Chaos Seeds, #6)",Aleron Kong,4.41,12868,2017,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,33,"He Who Fights With Monsters 8 (He Who Fights with Monsters, #8)",Shirtaloon,4.47,22474,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,34,"Regicide (The Completionist Chronicles, #2)",Dakota Krout,4.43,12014,2018,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,35,"Azarinth Healer: Book One (Azarinth Healer, #1)",Rhaegar,4.43,11223,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,36,"The Primal Hunter 3 (The Primal Hunter, #3)",Zogarth,4.50,16092,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,37,"Precipice (Awaken Online, #2)",Travis Bagwell,4.42,11560,2017,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,38,"He Who Fights with Monsters 9 (He Who Fights with Monsters, #9)",Shirtaloon,4.50,20693,2023,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,39,"All the Skills (All the Skills, #1)",Honour Rae,4.50,11719,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,40,Cataclysm (Viridian Gate Online #1),James A. Hunter,4.11,6243,2016,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,41,"Defiance of the Fall 2 (Defiance of the Fall, #2)",TheFirstDefier,4.51,13301,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,42,"One More Last Time (The Good Guys, #1)",Eric Ugland,4.27,7048,2018,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,43,"The Land: Predators (Chaos Seeds, #7)",Aleron Kong,4.47,12230,2018,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,44,The Kartoss Gambit (The Way of the Shaman #2),Vasily Mahanenko,4.26,8164,2013,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,45,"The Primal Hunter 4 (The Primal Hunter, #4)",Zogarth,4.51,15314,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,46,"The Two Week Curse (Ten Realms, #1)",Michael Chatfield,4.31,9881,2018,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,47,"Defiance of the Fall 3 (Defiance of the Fall, #3)",TheFirstDefier,4.48,12246,2021,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,48,"Sufficiently Advanced Magic (Arcane Ascension, #1)",Andrew Rowe,4.10,28449,2017,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,49,System Change (System Universe #1),SunriseCV,4.38,11016,2022,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,50,Life in the North (The System Apocalypse #1),Tao Wong,4.10,6009,2017,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+litrpg,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:30Z,https://www.goodreads.com/shelf/show/litrpg,curl
+reverse-harem,1,"Broken Bonds (The Bonds that Tie, #1)",J. Bree,4.12,172499,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,2,Den of Vipers (Kindle Edition),K.A. Knight,3.65,254136,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,3,"Four Psychos (The Dark Side, #1)",Kristy Cunning,4.07,49602,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,4,"Hate (Madison Kate, #1)",Tate James,4.16,69292,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,5,"Savage Bonds (The Bonds that Tie, #2)",J. Bree,4.24,149003,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,6,"Trickery (Curse of the Gods, #1)",Jaymin Eve,4.13,44855,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,7,"Blood Bonds (The Bonds that Tie, #3)",J. Bree,4.19,134227,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,8,"The Never King (Vicious Lost Boys, #1)",Nikki St. Crowe,3.66,237522,2022,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,9,"Lords of Pain (Royals of Forsyth University, #1)",Angel Lawson,4.00,51132,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,10,"Find Me (WITSEC, #1)",Ashley N. Rostek,4.29,45867,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,11,"Three Trials (The Dark Side, #2)",Kristy Cunning,4.13,38488,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,12,"Psycho Shifters (Cruel Shifterverse, #1)",Jasmine Mas,3.79,105662,2022,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,13,Faking with Benefits (Paperback),Lily Gold,3.84,84001,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,14,"Pucking Around (Jacksonville Rays, #1)",Emily Rath,3.72,239290,2023,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,15,"Forced Bonds (The Bonds That Tie, #4)",J. Bree,4.19,117556,2022,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,16,"Dark Fae (Ruthless Boys of the Zodiac, #1)",Caroline Peckham,4.03,129000,2019,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,17,"Gypsy Blood (All The Pretty Monsters, #1)",Kristy Cunning,4.22,27198,2018,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,18,"Signs of Cupidity (Heart Hassle, #1)",Raven Kennedy,4.06,29294,2018,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,19,"Lola & the Millionaires: Part One (Sweetverse, #2)",Kathryn Moon,4.25,31489,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,20,Lilac (Kindle Edition),B.B. Reid,3.71,48621,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,21,"Havoc at Prescott High (The Havoc Boys, #1)",C.M. Stunich,4.13,30210,2019,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,22,"Liar (Madison Kate, #2)",Tate James,4.32,59284,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,23,"Tragic Bonds (The Bonds That Tie, #5)",J. Bree,4.18,105798,2022,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,24,"The Vixen's Lead (Kit Davenport, #1)",Tate James,4.13,17120,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,25,"Fake (Madison Kate, #3)",Tate James,4.34,55138,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,26,"Power of Five (Power of Five, #1)",Alex Lidell,3.98,21401,2018,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,27,"Two Kingdoms (The Dark Side, #3)",Kristy Cunning,3.98,28450,2018,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,28,"Pack Darling: Part One (Pack Darling, #1)",Lola Rock,4.18,22104,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,29,"Persuasion (Curse of the Gods, #2)",Jaymin Eve,4.25,31150,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,30,"Kate (Madison Kate, #4)",Tate James,4.34,51620,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,31,"Kings of Quarantine (Brutal Boys of Everlake Prep, #1)",Caroline Peckham,4.14,35753,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,32,"Unbroken Bonds (The Bonds That Tie, #6)",J. Bree,3.98,92022,2022,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,33,"The Lost and the Chosen (The Lost Sentinel, #1)",Ivy Asher,4.27,25918,2018,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,34,"7th Circle (Hades, #1)",Tate James,4.32,38776,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,35,"Just Drop Out (Hannaford Prep, #1)",J. Bree,4.25,24678,2019,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,36,"A Lady of Rooksgrave Manor (Tempting Monsters, #1)",Kathryn Moon,3.88,29459,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,37,"Groupie (Rock-Hard Beautiful, #1)",C.M. Stunich,4.05,17311,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,38,"Bonded by Thorns (Beasts of the Briar, #1)",Elizabeth Helen,3.92,84273,2023,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,39,"Blood Oath (Cursed Legacies, #1)",Morgan B. Lee,4.16,41623,2024,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,40,"Baby & the Late Night Howlers (Sweetverse, #1)",Kathryn Moon,3.92,22031,2019,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,41,Nanny for the Neighbors (Kindle Edition),Lily Gold,3.95,52124,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,42,"Seduction (Curse of the Gods, #3)",Jaymin Eve,4.27,26220,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,43,Triple-Duty Bodyguards (Kindle Edition),Lily Gold,3.85,48005,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,44,Credence (Paperback),Penelope Douglas,3.67,655806,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,45,Three Swedish Mountain Men (Paperback),Lily Gold,3.86,43441,2021,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,46,"Losers: Part I (Losers, #1)",Harley Laroux,4.19,60783,2022,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,47,"Lola & the Millionaires: Part Two (Sweetverse, #3)",Kathryn Moon,4.28,27369,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,48,"The Dark One (Vicious Lost Boys, #2)",Nikki St. Crowe,3.94,156640,2022,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,49,"Resurrection (The Sainthood - Boys of Lowell High, #1)",Siobhan Davis,4.19,19987,2020,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,50,"Allison's Adventures in Underland (Harem of Hearts, #1)",C.M. Stunich,3.94,18118,2017,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,51,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl
+reverse-harem,52,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,NOT SHOWN,2026-11-05T02:49:42Z,https://www.goodreads.com/shelf/show/reverse-harem,curl

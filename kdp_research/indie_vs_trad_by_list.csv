@@ -1,0 +1,35 @@
+list,n,share_indie,share_independently_published_exact
+profitable:ROOT[top-kdp],25,1.0,0.0
+profitable:Humor & Entertainment[top-kdp],25,1.0,0.4
+"profitable:Crafts, Hobbies & Home[top-kdp]",25,1.0,0.92
+profitable:Coloring Books for Grown-Ups[top-kdp],25,1.0,0.92
+profitable:Self-Help[top-kdp],25,1.0,0.56
+profitable:Children's Books[top-kdp],25,1.0,0.8
+profitable:Coloring Books for Grown-Ups[new-trending],25,0.36,0.36
+bestsellers:Coloring Books for Grown-Ups,50,0.3,0.3
+profitable:Coloring Books for Grown-Ups[hidden-gems],25,0.28,0.28
+profitable:Romance[new-trending],25,0.2,0.0
+profitable:ROOT[hidden-gems],25,0.2,0.0
+profitable:Children's Books[new-trending],25,0.2,0.16
+profitable:Humor & Entertainment[new-trending],25,0.2,0.0
+profitable:Humor & Entertainment[hidden-gems],25,0.16,0.04
+profitable:Coloring Books for Grown-Ups[all],25,0.16,0.16
+profitable:ROOT[all],25,0.12,0.0
+profitable:ROOT[new-trending],25,0.12,0.0
+profitable:Romance[all],25,0.12,0.0
+profitable:Humor & Entertainment[all],25,0.12,0.0
+profitable:Children's Books[all],25,0.08,0.08
+profitable:ROOT[ku-goldmines],25,0.08,0.0
+profitable:Children's Books[hidden-gems],25,0.08,0.04
+profitable:Self-Help[hidden-gems],25,0.08,0.04
+"profitable:Crafts, Hobbies & Home[all]",25,0.08,0.08
+profitable:Self-Help[all],25,0.04,0.04
+bestsellers:Books,50,0.04,0.04
+"profitable:Crafts, Hobbies & Home[new-trending]",25,0.04,0.04
+"profitable:Crafts, Hobbies & Home[hidden-gems]",25,0.04,0.04
+profitable:Self-Help[new-trending],25,0.0,0.0
+bestsellers:Books (root),50,0.0,0.0
+asinsight:adult coloring book flowers,10,0.0,0.0
+asinsight:anti anxiety coloring book,10,0.0,0.0
+asinsight:gratitude journal,10,0.0,0.0
+asinsight:prayer journal,10,0.0,0.0

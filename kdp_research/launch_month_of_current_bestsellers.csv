@@ -1,0 +1,16 @@
+segment,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,n
+activity-kids,0,0,0,0,0,0,0,0,1,0,0,0,1
+art-instruction,0,0,1,1,0,0,1,0,0,0,1,1,5
+coloring,2,3,5,1,7,7,14,9,9,7,2,0,66
+cookbook,0,0,0,0,0,0,0,0,0,1,0,0,1
+fiction-other,1,1,1,5,4,7,2,2,14,19,2,2,60
+fiction-romance,2,0,1,2,3,0,3,5,20,23,1,0,60
+journal,0,0,0,0,0,0,0,1,1,3,1,0,6
+logbook,0,0,0,0,0,0,0,1,0,0,0,0,1
+nonfiction-selfhelp,2,2,2,1,2,3,4,1,14,17,5,2,55
+notebook,1,0,0,0,0,0,0,0,0,0,0,0,1
+other,0,1,1,0,0,2,4,9,9,4,2,0,32
+picture-book,0,1,1,0,0,3,2,3,6,4,1,0,21
+planner,0,1,0,2,1,5,5,4,3,2,0,0,23
+puzzle,1,1,0,0,1,0,4,5,3,2,0,0,17
+workbook-education,0,0,2,2,4,3,3,2,5,4,0,0,25

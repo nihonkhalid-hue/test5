@@ -1,0 +1,131 @@
+scope,kind,term,count
+top300_velocity_all,word,coloring,33
+top300_velocity_all,word,novel,25
+top300_velocity_all,word,kids,25
+top300_velocity_all,word,how,21
+top300_velocity_all,word,adults,19
+top300_velocity_all,word,guide,18
+top300_velocity_all,word,relaxation,18
+top300_velocity_all,word,romance,17
+top300_velocity_all,word,mystery,16
+top300_velocity_all,word,100,16
+top300_velocity_all,word,cozy,15
+top300_velocity_all,word,life,14
+top300_velocity_all,word,ages,14
+top300_velocity_all,word,animals,13
+top300_velocity_all,word,cute,12
+top300_velocity_all,word,one,11
+top300_velocity_all,word,12,11
+top300_velocity_all,word,new,11
+top300_velocity_all,word,featuring,11
+top300_velocity_all,word,color,11
+top300_velocity_all,word,little,10
+top300_velocity_all,word,big,10
+top300_velocity_all,word,easy,10
+top300_velocity_all,word,teens,10
+top300_velocity_all,word,fun,10
+top300_velocity_all,word,club,9
+top300_velocity_all,word,dark,9
+top300_velocity_all,word,simple,9
+top300_velocity_all,word,about,8
+top300_velocity_all,word,things,8
+top300_velocity_all,word,designs,8
+top300_velocity_all,word,more,8
+top300_velocity_all,word,amazing,8
+top300_velocity_all,word,000,8
+top300_velocity_all,word,set,8
+top300_velocity_all,word,illustrated,8
+top300_velocity_all,word,complete,8
+top300_velocity_all,word,cat,7
+top300_velocity_all,word,step,7
+top300_velocity_all,word,litrpg,7
+top300_velocity_all,bigram,coloring adults,16
+top300_velocity_all,bigram,adults teens,10
+top300_velocity_all,bigram,teens featuring,7
+top300_velocity_all,bigram,100 000,7
+top300_velocity_all,bigram,000 whys,7
+top300_velocity_all,bigram,step step,6
+top300_velocity_all,bigram,graphic novel,6
+top300_velocity_all,bigram,kids ages,5
+top300_velocity_all,bigram,how draw,5
+top300_velocity_all,bigram,human body,5
+top300_velocity_all,bigram,color number,5
+top300_velocity_all,bigram,kindred's curse,4
+top300_velocity_all,bigram,everflame kindred's,4
+top300_velocity_all,bigram,curse saga,4
+top300_velocity_all,bigram,crawler carl,4
+top300_velocity_all,bigram,dungeon crawler,4
+top300_velocity_all,bigram,murder mystery,4
+top300_velocity_all,bigram,designs relaxation,4
+top300_velocity_all,bigram,relaxation cozy,4
+top300_velocity_all,bigram,cozy hygge,4
+top300_velocity_all,bigram,litrpg adventure,4
+top300_velocity_all,bigram,bold easy,4
+top300_velocity_all,bigram,moments relaxation,4
+top300_velocity_all,bigram,creatures cozy,4
+top300_velocity_all,bigram,creepy creatures,4
+top300_velocity_low_medium_content,word,coloring,60
+top300_velocity_low_medium_content,word,adults,32
+top300_velocity_low_medium_content,word,cozy,22
+top300_velocity_low_medium_content,word,relaxation,22
+top300_velocity_low_medium_content,word,kids,20
+top300_velocity_low_medium_content,word,calendar,19
+top300_velocity_low_medium_content,word,2027,19
+top300_velocity_low_medium_content,word,guide,18
+top300_velocity_low_medium_content,word,cute,15
+top300_velocity_low_medium_content,word,easy,15
+top300_velocity_low_medium_content,word,designs,14
+top300_velocity_low_medium_content,word,featuring,14
+top300_velocity_low_medium_content,word,how,13
+top300_velocity_low_medium_content,word,teens,13
+top300_velocity_low_medium_content,word,ages,13
+top300_velocity_low_medium_content,word,100,13
+top300_velocity_low_medium_content,word,color,13
+top300_velocity_low_medium_content,word,day,12
+top300_velocity_low_medium_content,word,animals,12
+top300_velocity_low_medium_content,word,fun,11
+top300_velocity_low_medium_content,word,12,11
+top300_velocity_low_medium_content,word,mystery,10
+top300_velocity_low_medium_content,word,simple,10
+top300_velocity_low_medium_content,word,one,10
+top300_velocity_low_medium_content,word,illustrations,10
+top300_velocity_low_medium_content,word,brain,9
+top300_velocity_low_medium_content,word,big,9
+top300_velocity_low_medium_content,word,spooky,9
+top300_velocity_low_medium_content,word,pages,9
+top300_velocity_low_medium_content,word,number,9
+top300_velocity_low_medium_content,word,gift,9
+top300_velocity_low_medium_content,word,sticker,9
+top300_velocity_low_medium_content,word,bold,8
+top300_velocity_low_medium_content,word,stress,8
+top300_velocity_low_medium_content,word,draw,8
+top300_velocity_low_medium_content,word,hygge,7
+top300_velocity_low_medium_content,word,moments,7
+top300_velocity_low_medium_content,word,collection,7
+top300_velocity_low_medium_content,word,relief,7
+top300_velocity_low_medium_content,word,patterns,7
+top300_velocity_low_medium_content,bigram,coloring adults,21
+top300_velocity_low_medium_content,bigram,adults teens,13
+top300_velocity_low_medium_content,bigram,teens featuring,8
+top300_velocity_low_medium_content,bigram,day calendar,8
+top300_velocity_low_medium_content,bigram,bold easy,8
+top300_velocity_low_medium_content,bigram,stress relief,6
+top300_velocity_low_medium_content,bigram,anatomy coloring,6
+top300_velocity_low_medium_content,bigram,day day,6
+top300_velocity_low_medium_content,bigram,murder mystery,5
+top300_velocity_low_medium_content,bigram,designs relaxation,5
+top300_velocity_low_medium_content,bigram,adults kids,5
+top300_velocity_low_medium_content,bigram,how draw,5
+top300_velocity_low_medium_content,bigram,coloring pages,5
+top300_velocity_low_medium_content,bigram,step step,5
+top300_velocity_low_medium_content,bigram,easy coloring,5
+top300_velocity_low_medium_content,bigram,color number,5
+top300_velocity_low_medium_content,bigram,study guide,5
+top300_velocity_low_medium_content,bigram,brain games,5
+top300_velocity_low_medium_content,bigram,2027 day,5
+top300_velocity_low_medium_content,bigram,relaxation cozy,4
+top300_velocity_low_medium_content,bigram,cozy hygge,4
+top300_velocity_low_medium_content,bigram,spaces coloring,4
+top300_velocity_low_medium_content,bigram,cozy spaces,4
+top300_velocity_low_medium_content,bigram,featuring cute,4
+top300_velocity_low_medium_content,bigram,page day,4

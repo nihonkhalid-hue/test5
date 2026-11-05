@@ -1,0 +1,21 @@
+tested_at,group,site,url,http_or_block,bytes,note
+2026-11-05T02:40:20Z,A amazon direct,amazon.com,https://www.amazon.com/gp/bestsellers/books/11357541011,200,704218,OK
+2026-11-05T02:40:21Z,A amazon direct,amazon.co.uk,https://www.amazon.co.uk/gp/bestsellers/books/,200,493586,OK
+2026-11-05T02:40:21Z,A amazon direct,amazon.de,https://www.amazon.de/gp/bestsellers/books/,BLOCKED,3817,amazon.de 200 None https://www.amazon.de/gp/bestsellers/books/
+2026-11-05T02:40:22Z,A amazon direct,amazon.ca,https://www.amazon.ca/gp/bestsellers/books/,BLOCKED,3781,amazon.ca 200 None https://www.amazon.ca/gp/bestsellers/books/
+2026-11-05T02:40:23Z,B asinsight,asinsight.com,https://www.asinsight.com/report/US/word-search-books-for-adults,404,143329,OK
+2026-11-05T02:40:24Z,C enrichment,openlibrary.org,https://openlibrary.org/search.json?q=word+search+large+print&limit=5,200,1513,OK
+2026-11-05T02:40:24Z,C enrichment,googleapis.com,https://www.googleapis.com/books/v1/volumes?q=intitle:gratitude+journal,BLOCKED,1306,googleapis.com 429 None https://www.googleapis.com/books/v1/volumes?q=intitle:gratitude+journal
+2026-11-05T02:40:25Z,D third party,kindlepreneur.com,https://kindlepreneur.com/amazon-kdp-sales-rank-calculator/,200,213834,OK
+2026-11-05T02:40:25Z,D third party,tckpublishing.com,https://www.tckpublishing.com/amazon-book-sales-calculator/,200,268860,OK
+2026-11-05T02:40:26Z,D third party,camelcamelcamel.com,https://camelcamelcamel.com/product/B09VCYS41G,BLOCKED,5751,camelcamelcamel.com 403 Just a moment... https://camelcamelcamel.com/product/B09VCYS41G
+2026-11-05T02:40:26Z,D third party,keepa.com,https://keepa.com/,200,9619,OK
+2026-11-05T02:40:26Z,D third party,goodreads.com,https://www.goodreads.com/list/show/1.Best_Books_Ever,200,786188,OK
+2026-11-05T02:40:27Z,D third party,bookbub.com,https://www.bookbub.com/blog,BLOCKED,5684,bookbub.com 403 Just a moment... https://www.bookbub.com/blog
+2026-11-05T02:40:27Z,D third party,bookbolt.io,https://bookbolt.io/,BLOCKED,4547,bookbolt.io 403 None https://bookbolt.io/
+2026-11-05T02:40:28Z,D third party,kdspy.com,https://www.kdspy.com/,200,244491,OK
+2026-11-05T02:40:28Z,E demand,reddit.com,https://www.reddit.com/r/selfpublish/search.rss?q=low+content&restrict_sr=on&sort=top&t=year,200,88268,OK
+2026-11-05T02:40:29Z,F comparison,gumroad.com,https://gumroad.com/products/search?query=journal&from=0,200,10354,OK
+2026-11-05T02:40:30Z,F comparison,teacherspayteachers.com,https://www.teacherspayteachers.com/browse?search=handwriting%20practice,200,1090900,OK
+2026-11-05T02:40:30Z,F comparison,rankhero.com,https://www.rankhero.com/keywords/printable-planner,200,264229,OK
+2026-11-05T02:40:30Z,royalty constants,kdp.amazon.com,https://kdp.amazon.com/en_US/help/topic/G201834340,200,212015,OK

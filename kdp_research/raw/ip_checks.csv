@@ -1,0 +1,54 @@
+checked_at,reason,ip,country,org
+2026-11-05T02:39:51Z,pilot start,160.79.106.130,US,AS396982 Google LLC
+2026-11-05T02:40:19Z,new site amazon.com,160.79.106.235,US,AS396982 Google LLC
+2026-11-05T02:40:20Z,new site amazon.co.uk,160.79.106.23,US,AS396982 Google LLC
+2026-11-05T02:40:21Z,new site amazon.de,160.79.106.235,US,AS396982 Google LLC
+2026-11-05T02:40:21Z,new site amazon.ca,160.79.106.137,US,AS396982 Google LLC
+2026-11-05T02:40:22Z,new site asinsight.com,160.79.106.235,US,AS396982 Google LLC
+2026-11-05T02:40:23Z,new site openlibrary.org,160.79.106.137,US,AS396982 Google LLC
+2026-11-05T02:40:24Z,new site googleapis.com,160.79.106.29,US,AS396982 Google LLC
+2026-11-05T02:40:24Z,new site kindlepreneur.com,160.79.106.137,US,AS396982 Google LLC
+2026-11-05T02:40:25Z,new site tckpublishing.com,160.79.106.244,US,AS396982 Google LLC
+2026-11-05T02:40:25Z,new site camelcamelcamel.com,160.79.106.235,US,AS396982 Google LLC
+2026-11-05T02:40:26Z,new site keepa.com,160.79.106.235,US,AS396982 Google LLC
+2026-11-05T02:40:26Z,new site goodreads.com,160.79.106.26,US,AS396982 Google LLC
+2026-11-05T02:40:26Z,new site bookbub.com,160.79.106.23,US,AS396982 Google LLC
+2026-11-05T02:40:27Z,new site bookbolt.io,160.79.106.23,US,AS396982 Google LLC
+2026-11-05T02:40:27Z,new site kdspy.com,160.79.106.244,US,AS396982 Google LLC
+2026-11-05T02:40:28Z,new site reddit.com,160.79.106.23,US,AS396982 Google LLC
+2026-11-05T02:40:28Z,new site gumroad.com,160.79.106.29,US,AS396982 Google LLC
+2026-11-05T02:40:29Z,new site teacherspayteachers.com,160.79.106.235,US,AS396982 Google LLC
+2026-11-05T02:40:30Z,new site rankhero.com,160.79.106.137,US,AS396982 Google LLC
+2026-11-05T02:40:30Z,new site kdp.amazon.com,160.79.106.29,US,AS396982 Google LLC
+2026-11-05T02:41:47Z,new site amazon.co.uk,160.79.106.128,US,AS396982 Google LLC
+2026-11-05T02:41:47Z,new site amazon.com,160.79.106.20,US,AS396982 Google LLC
+2026-11-05T02:42:35Z,new site asinsight.com,160.79.106.132,US,AS396982 Google LLC
+2026-11-05T02:42:43Z,new site asinsight.com,160.79.106.139,US,AS396982 Google LLC
+2026-11-05T02:42:59Z,new site asinsight.com,160.79.106.130,US,AS396982 Google LLC
+2026-11-05T02:43:06Z,new site asinsight.com,160.79.106.30,US,AS396982 Google LLC
+2026-11-05T02:46:46Z,new site asinsight.com,160.79.106.128,US,AS396982 Google LLC
+2026-11-05T02:47:59Z,new site teacherspayteachers.com,160.79.106.133,US,AS396982 Google LLC
+2026-11-05T02:47:59Z,new site gumroad.com,160.79.106.23,US,AS396982 Google LLC
+2026-11-05T02:47:59Z,new site rankhero.com,160.79.106.134,US,AS396982 Google LLC
+2026-11-05T02:47:59Z,new site reddit.com,160.79.106.132,US,AS396982 Google LLC
+2026-11-05T02:47:59Z,new site goodreads.com,160.79.106.138,US,AS396982 Google LLC
+2026-11-05T02:49:18Z,new site trends.google.com,160.79.106.138,US,AS396982 Google LLC
+2026-11-05T02:49:49Z,new site tckpublishing.com,160.79.106.129,US,AS396982 Google LLC
+2026-11-05T02:49:57Z,new site kdp.amazon.com,160.79.106.23,US,AS396982 Google LLC
+2026-11-05T02:51:05Z,new site openlibrary.org,160.79.106.140,US,AS396982 Google LLC
+2026-11-05T02:51:39Z,new site profitable.app,160.79.106.27,US,AS396982 Google LLC
+2026-11-05T02:51:55Z,new site profitable.app,160.79.106.21,US,AS396982 Google LLC
+2026-11-05T02:52:25Z,new site profitable.app,160.79.106.137,US,AS396982 Google LLC
+2026-11-05T02:53:00Z,new site profitable.app,160.79.106.17,US,AS396982 Google LLC
+2026-11-05T02:53:34Z,new site profitable.app,160.79.106.137,US,AS396982 Google LLC
+2026-11-05T02:54:29Z,new site profitable.app,160.79.106.23,US,AS396982 Google LLC
+2026-11-05T02:57:27Z,new site kdp.amazon.com,160.79.106.128,US,AS396982 Google LLC
+2026-11-05T02:59:53Z,new site rankhero.com,160.79.106.136,US,AS396982 Google LLC
+2026-11-05T03:02:22Z,new site openlibrary.org,160.79.106.130,US,AS396982 Google LLC
+2026-11-05T03:16:03Z,new site amazon.co.uk,160.79.106.132,US,AS396982 Google LLC
+2026-11-05T03:16:03Z,new site amazon.ca,160.79.106.29,US,AS396982 Google LLC
+2026-11-05T03:16:03Z,new site amazon.de,160.79.106.26,US,AS396982 Google LLC
+2026-11-05T03:16:03Z,new site amazon.com,160.79.106.141,US,AS396982 Google LLC
+2026-11-05T03:16:54Z,30-min check,160.79.106.244,US,AS396982 Google LLC
+2026-11-05T03:24:30Z,30-min check,160.79.106.135,US,AS396982 Google LLC
+2026-11-05T03:29:55Z,new site openlibrary.org,160.79.106.20,US,AS396982 Google LLC
