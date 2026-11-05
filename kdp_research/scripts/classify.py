@@ -4,33 +4,34 @@ import re
 
 SEGMENTS = [
     ("coloring", r"colou?ring|color by number|colour by number|color-by-number"),
-    ("puzzle", r"word ?search|word find|sudoku|crossword|cryptogram|kakuro|logic puzzle|brain ?teaser|brain games|puzzle book|puzzles? for|mazes? for adults|word puzzles|riddles?|trivia|dot[- ]to[- ]dot for adults|mad libs|word scramble|search[- ]a[- ]word|puzzle(s)?\b|would you rather|joke book|jokes for kids|this or that"),
-    ("activity-kids", r"activity book|activity pad|sticker book|stickers? (book|activity)|mazes?|dot[- ]to[- ]dot|connect the dots|seek and find|hidden pictures|look and find|scissor skills|cut and paste|search and find|i spy|games? for kids|activities for kids"),
-    ("art-instruction", r"how to draw|learn to draw|drawing (book|guide|for)|draw (anime|manga|cute|kawaii)|sketchbook|sketch book|drawing pad|manga drawing|anime drawing|calligraphy|lettering|watercolor (book|for beginners)|art (book|techniques)|zentangle"),
-    ("workbook-education", r"workbook|handwriting|tracing|trace letters|letter tracing|cursive|phonics|preschool|pre-k|kindergarten|first grade|1st grade|2nd grade|math (practice|workbook)|multiplication|sight words|alphabet|abc|learn(ing)? to (read|write)|homeschool|test prep|study guide|practice (book|test)|flash cards|summer brain|spectrum|brain quest"),
+    ("puzzle", r"word ?search|word find|sudoku|crossword|cryptogram|kakuro|logic puzzle|brain ?teaser|brain games|puzzle book|puzzles? for|mazes? for adults|word puzzles|\briddles?\b|\btrivia\b|dot[- ]to[- ]dot for adults|mad libs|word scramble|search[- ]a[- ]word|puzzle(s)?\b|would you rather|joke book|jokes for kids|this or that"),
+    ("activity-kids", r"activity book|activity pad|sticker book|stickers? (book|activity)|\bmazes?\b|dot[- ]to[- ]dot|connect the dots|seek and find|hidden pictures|look and find|scissor skills|cut and paste|search and find|i spy|games? for kids|activities for kids"),
+    ("art-instruction", r"how to draw|learn to draw|drawing (book|guide|for)|draw (anime|manga|cute|kawaii)|sketchbook|sketch book|drawing pad|manga drawing|anime drawing|calligraphy|lettering|watercolor (book|for beginners)|\bart (book|techniques)|zentangle"),
+    ("workbook-education", r"workbook|handwriting|tracing|trace letters|letter tracing|cursive|phonics|preschool|pre-k|kindergarten|first grade|1st grade|2nd grade|math (practice|workbook)|multiplication|sight words|alphabet|\babc\b|learn(ing)? to (read|write)|homeschool|test prep|study guide|practice (book|test)|flash cards|summer brain|spectrum|brain quest"),
     ("planner", r"planner|agenda|organizer|calendar|academic year|weekly (and|&) monthly|monthly planner|budget (book|planner)|bill (tracker|organizer)|meal planner|wedding planner"),
     ("logbook", r"log ?book|password (book|keeper|log|organizer)|internet address|record book|ledger|address book|guest book|tracker|blood (pressure|sugar)|mileage|reading log|recipe (book|journal|keeper) to write|blank recipe|maintenance log|inventory log|sign[- ]in"),
-    ("journal", r"journal|diary|prompts|gratitude|devotional journal|prayer journal|guided|shadow work|affirmations? (book|journal)|5 minute|five minute|memory book|baby book|one line a day|q&a a day|question a day"),
+    ("journal", r"\bjournal|\bdiary\b|\bdiaries\b|prompts|gratitude|devotional journal|prayer journal|guided|shadow work|affirmations? (book|journal)|5 minute|five minute|memory book|baby book|one line a day|q&a a day|question a day"),
     ("notebook", r"notebook|composition|college ruled|wide ruled|lined paper|graph paper|dot grid|blank book|blank pages|notepad|manuscript paper|staff paper|sheet music"),
-    ("cookbook", r"cookbook|recipes?\b|cooking|baking|air fryer|instant pot|slow cooker|meal prep|crock ?pot|keto|mediterranean diet|anti[- ]inflammatory|vegan|smoothie|kitchen"),
+    ("cookbook", r"cookbook|\brecipes?\b|cooking|baking|air fryer|instant pot|slow cooker|meal prep|crock ?pot|keto|mediterranean diet|anti[- ]inflammatory|vegan|smoothie|kitchen"),
     ("picture-book", r"picture book|board book|bedtime stor|little golden book|lift[- ]the[- ]flap|touch and feel|baby (touch|first)|read[- ]aloud|ages 0|ages 1-|ages 2-|ages 3-|toddlers? book|children's book about|kids book about|first words|pete the cat|dr\. seuss|eric carle"),
-    ("fiction-romance", r"romance|romantasy|romantic|love story|billionaire|bratva|mafia|enemies to lovers|friends to lovers|fake dating|second chance|why choose|reverse harem|rom-?com|dark romance|smut|spicy|omegaverse|alpha|shifter|fae (romance|king)|court of|duke|earl|regency|hockey (romance)?|small town|cowboy|vampire romance|erotica|monster romance"),
-    ("fiction-other", r"\bnovel\b|thriller|mystery|suspense|detective|murder|fantasy|science fiction|sci-fi|dystopian|horror|litrpg|gamelit|cultivation|progression|epic|saga|trilogy|book \d|series|volume \d|vol\. ?\d|\(.* book \d+\)|\bmanga\b|graphic novel|light novel|stories|tales|fiction|cozy mystery|chronicles"),
+    ("fiction-romance", r"romance|romantasy|romantic|love story|billionaire|bratva|mafia|enemies to lovers|friends to lovers|fake dating|second chance|why choose|reverse harem|rom-?com|dark romance|smut|spicy|omegaverse|\balpha\b|shifter|fae (romance|king)|court of|\bduke\b|\bearl\b|regency|hockey (romance)?|small town|cowboy|vampire romance|erotica|monster romance"),
+    ("fiction-other", r"\bnovel\b|thriller|mystery|suspense|detective|murder|fantasy|science fiction|sci-fi|dystopian|horror|litrpg|gamelit|cultivation|progression|\bepic\b|saga|trilogy|book \d|series|volume \d|vol\. ?\d|\(.* book \d+\)|\bmanga\b|graphic novel|light novel|stories|tales|fiction|cozy mystery|chronicles"),
     ("nonfiction-selfhelp", r"self[- ]help|habits?|mindset|anxiety|healing|trauma|confidence|happiness|motivation|productivity|success|stoic|psychology|relationships?|boundaries|overthinking|therapy|mental health|personal growth|attachment|narcissis|manifest|law of attraction|adhd|self[- ]care|self[- ]love|wellness|meditation|mindfulness|burnout|parenting|leadership|money|finance|investing|business|marketing"),
 ]
 SEG_RE = [(s, re.compile(p, re.I)) for s, p in SEGMENTS]
-CAT_HINTS = [("coloring", r"coloring books"), ("puzzle", r"puzzles|word search|sudoku|crossword|games & activities|puzzles & games"),
+CAT_HINTS = [("fiction-romance", r"romance|romantasy"), ("cookbook", r"cookbooks|cooking|food & wine|baking"), ("coloring", r"coloring books"), ("puzzle", r"puzzles|word search|sudoku|crossword|games & activities|puzzles & games"),
              ("activity-kids", r"activity books|children's activity|children's games"), ("art-instruction", r"drawing|art instruction|study & teaching"),
-             ("workbook-education", r"education|early learning|reference|study aids|test prep"), ("planner", r"calendars|time management|planners"),
-             ("journal", r"journal writing|journaling|diaries"), ("cookbook", r"cookbooks|cooking|food & wine"),
-             ("picture-book", r"children's books|picture books|baby|toddler"),
-             ("fiction-romance", r"romance|romantasy"), ("fiction-other", r"fiction|fantasy|mystery|thriller|science fiction|horror|comics|manga|graphic novels|teen"),
+             ("planner", r"calendars|time management|planners"), ("journal", r"journal writing|journaling"),
+             ("fiction-other", r"fiction|fantasy|mystery|thriller|science fiction|horror|comics|manga|graphic novels|literature|novels|teen & young adult|short stories|classics"),
+             ("picture-book", r"picture books|baby|toddler|board books|children's .*(?:books|stories)"),
+             ("workbook-education", r"education & teaching|early learning|study aids|test prep|workbooks|homeschool"),
              ("nonfiction-selfhelp", r"self-help|personal|psychology|health|business|parenting|religion|spirituality|christian|bible|biograph|history|sports|politics")]
 CAT_RE = [(s, re.compile(p, re.I)) for s, p in CAT_HINTS]
 
 
 def segment(title, cat=""):
     t = title or ""
+    if re.search(r"diary of a|wimpy kid|dork diaries|princess diaries|murderbot diaries|apothecary diaries|\(manga\)|\(light novel\)", t, re.I): return "fiction-other"
     # fiction romance titles often only carry the series in parentheses; check category first for fiction
     for s, rx in SEG_RE:
         if rx.search(t):
@@ -38,8 +39,9 @@ def segment(title, cat=""):
                 for s2, rx2 in CAT_RE:
                     if rx2.search(cat) and s2 in ("fiction-romance",): return s2
             return s
-    for s, rx in CAT_RE:
-        if cat and rx.search(cat): return s
+    for part in (cat or "").split(" || "):
+        for s, rx in CAT_RE:
+            if part and rx.search(part): return s
     return "other"
 
 

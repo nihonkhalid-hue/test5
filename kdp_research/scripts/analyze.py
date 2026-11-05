@@ -68,7 +68,9 @@ for p in TREND_FILES:
     if len(s) < 110: continue
     last = statistics.mean(v for _, v in s[-52:]); prev = statistics.mean(v for _, v in s[-104:-52])
     first = statistics.mean(v for _, v in s[:52])
+    l13 = statistics.mean(v for _, v in s[-13:]); p13 = statistics.mean(v for _, v in s[-65:-52])
     TREND[(term.replace("_", " "), geo)] = {"yoy_pct": round(100 * (last - prev) / prev, 1) if prev else None,
+                                            "last13w_vs_year_ago_pct": round(100 * (l13 - p13) / p13, 1) if p13 else None,
                                             "vs_5y_ago_pct": round(100 * (last - first) / first, 1) if first else None, "series": s}
 SEG_TREND = {"coloring": "coloring book", "puzzle": "word search", "journal": "gratitude journal", "planner": "planner", "activity-kids": "activity book",
              "fiction-romance": "romantasy", "nonfiction-selfhelp": "self help books", "cookbook": "cookbook", "art-instruction": "how to draw anime",
@@ -232,7 +234,7 @@ for (term, geo), d in sorted(TREND.items()):
     idx = {m: round(100 * avg[m] / mean, 1) for m in avg}
     peak = max(idx, key=idx.get)
     row = {"term": term, "source": "google_trends_" + geo, "peak_month": MON[peak - 1], "peak_index": idx[peak],
-           "publish_by": f"{MON[(peak - 3) % 12]} 15 (6-8 weeks before {MON[peak - 1]})", "yoy_pct": d["yoy_pct"], "vs_5y_ago_pct": d["vs_5y_ago_pct"]}
+           "publish_by": f"{MON[(peak - 3) % 12]} 15 (6-8 weeks before {MON[peak - 1]})", "yoy_pct": d["yoy_pct"], "last13w_vs_year_ago_pct": d["last13w_vs_year_ago_pct"], "vs_5y_ago_pct": d["vs_5y_ago_pct"]}
     row.update({MON[m - 1]: idx.get(m) for m in range(1, 13)}); seas.append(row)
 for r in csv.DictReader(open(os.path.join(REPO, "raw", "etsy_rankhero_keywords_parsed.csv"))):
     s = json.loads(r["monthly_series"])
@@ -245,7 +247,7 @@ for r in csv.DictReader(open(os.path.join(REPO, "raw", "etsy_rankhero_keywords_p
     row = {"term": r["keyword"], "source": "rankhero_etsy_monthly_searches(Oct2025-Sep2026)", "peak_month": MON[peak - 1], "peak_index": idx[peak],
            "publish_by": f"{MON[(peak - 3) % 12]} 15 (6-8 weeks before {MON[peak - 1]})", "yoy_pct": "", "vs_5y_ago_pct": ""}
     row.update({MON[m - 1]: idx.get(m) for m in range(1, 13)}); seas.append(row)
-w("seasonality.csv", seas, ["term", "source", "peak_month", "peak_index", "publish_by", "yoy_pct", "vs_5y_ago_pct"] + MON)
+w("seasonality.csv", seas, ["term", "source", "peak_month", "peak_index", "publish_by", "yoy_pct", "last13w_vs_year_ago_pct", "vs_5y_ago_pct"] + MON)
 # publication month of current bestsellers (when did today's sellers launch?)
 pm = collections.defaultdict(collections.Counter)
 for r in AMZ:

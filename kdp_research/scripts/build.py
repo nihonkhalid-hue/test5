@@ -100,9 +100,11 @@ def trim_from_dims(d):
 
 
 def fmt_norm(f):
-    f = (f or "").lower()
+    if f in (None, "", NS): return NS
+    f = f.lower()
     if "kindle" in f or "ebook" in f: return "kindle"
-    if "hardcover" in f or "board" in f: return "hardcover"
+    if "board" in f: return "board-book"
+    if "hardcover" in f: return "hardcover"
     if "spiral" in f: return "spiral"
     if "paperback" in f: return "paperback"
     if "audible" in f or "audio" in f: return "audiobook"
@@ -113,6 +115,8 @@ def classify(r, cat_text=""):
     t = r["title"] if r["title"] != NS else ""
     seg = C.segment(t, cat_text)
     r["segment"] = seg; r["niche"] = C.niche(seg, t)
+    if seg == "planner" and re.search(r"calendar|\(hanging\)|wall", t + " " + (cat_text or "").split(" || ")[0], re.I):
+        r["niche"] = "planner-wall-desk-calendar"
     r["interior"] = C.interior(seg, t) if r.get("is_book", "yes") != "no" else "n/a"
     r["audience"] = C.audience(t, cat_text)
     full = t + " " + cat_text
@@ -185,7 +189,7 @@ def main():
         o = ol.get(b["asin"])
         if o and r["trim_size"] == NS and o["physical_dimensions"] != NS:
             r["trim_size"] = o["physical_dimensions"] + " (openlibrary)"
-        classify(r, (b["view_node_name"] or "") + " " + r["category_ranks"])
+        classify(r, ((b["view_node_name"] or "") if b["view_node_name"] != "ROOT" else "") + " || " + r["category_ranks"])
         finish(r, pages, trim_large)
         master[key] = r
     # ---------- Amazon direct lists ----------

@@ -1,131 +1,131 @@
 scope,kind,term,count
-top300_velocity_all,word,novel,37
-top300_velocity_all,word,romance,21
-top300_velocity_all,word,dark,14
-top300_velocity_all,word,thriller,12
-top300_velocity_all,word,fantasy,11
-top300_velocity_all,word,club,9
+top300_velocity_all,word,novel,52
+top300_velocity_all,word,romance,30
+top300_velocity_all,word,thriller,21
+top300_velocity_all,word,club,16
+top300_velocity_all,word,psychological,13
+top300_velocity_all,word,love,12
+top300_velocity_all,word,dark,11
+top300_velocity_all,word,me,9
 top300_velocity_all,word,new,8
-top300_velocity_all,word,love,8
-top300_velocity_all,word,life,8
-top300_velocity_all,word,coloring,8
-top300_velocity_all,word,me,7
-top300_velocity_all,word,psychological,7
-top300_velocity_all,word,blood,7
-top300_velocity_all,word,good,7
-top300_velocity_all,word,cozy,7
-top300_velocity_all,word,memoir,6
-top300_velocity_all,word,dungeon,6
-top300_velocity_all,word,shadow,6
-top300_velocity_all,word,fallen,6
+top300_velocity_all,word,fantasy,8
+top300_velocity_all,word,twisted,8
+top300_velocity_all,word,throne,8
+top300_velocity_all,word,glass,8
+top300_velocity_all,word,one,7
+top300_velocity_all,word,dungeon,7
+top300_velocity_all,word,small,7
+top300_velocity_all,word,pick,6
+top300_velocity_all,word,gripping,6
+top300_velocity_all,word,about,6
+top300_velocity_all,word,roses,6
+top300_velocity_all,word,bestselling,6
+top300_velocity_all,word,thorns,6
 top300_velocity_all,word,court,6
-top300_velocity_all,word,up,6
-top300_velocity_all,word,mystery,6
-top300_velocity_all,word,how,6
-top300_velocity_all,word,people,6
-top300_velocity_all,word,guide,6
-top300_velocity_all,word,recipes,6
-top300_velocity_all,word,litrpg,6
-top300_velocity_all,word,adventure,6
+top300_velocity_all,word,crowns,6
+top300_velocity_all,word,secrets,6
+top300_velocity_all,word,boys,6
 top300_velocity_all,word,empyrean,5
 top300_velocity_all,word,saga,5
-top300_velocity_all,word,deluxe,5
-top300_velocity_all,word,crown,5
-top300_velocity_all,word,one,5
 top300_velocity_all,word,heart,5
-top300_velocity_all,word,will,5
-top300_velocity_all,word,curse,5
-top300_velocity_all,word,ruin,5
-top300_velocity_all,word,house,5
-top300_velocity_all,word,city,5
 top300_velocity_all,word,friends,5
-top300_velocity_all,bigram,psychological thriller,7
+top300_velocity_all,word,carl,5
+top300_velocity_all,word,crawler,5
+top300_velocity_all,word,york,5
+top300_velocity_all,word,ruin,5
+top300_velocity_all,word,lies,5
+top300_velocity_all,word,house,5
+top300_velocity_all,word,up,5
+top300_velocity_all,word,cookbook,5
+top300_velocity_all,word,king,5
+top300_velocity_all,word,two,5
+top300_velocity_all,bigram,psychological thriller,13
+top300_velocity_all,bigram,throne glass,8
 top300_velocity_all,bigram,fantasy romance,7
-top300_velocity_all,bigram,court thorns,5
-top300_velocity_all,bigram,thorns roses,5
-top300_velocity_all,bigram,throne glass,5
-top300_velocity_all,bigram,harry potter,5
-top300_velocity_all,bigram,litrpg adventure,5
-top300_velocity_all,bigram,claim fallen,5
+top300_velocity_all,bigram,court thorns,6
+top300_velocity_all,bigram,thorns roses,6
+top300_velocity_all,bigram,pick novel,5
+top300_velocity_all,bigram,crawler carl,5
+top300_velocity_all,bigram,dungeon crawler,5
+top300_velocity_all,bigram,new york,5
+top300_velocity_all,bigram,crowns nyaxia,5
+top300_velocity_all,bigram,boys tommen,5
+top300_velocity_all,bigram,club pick,4
+top300_velocity_all,bigram,club novel,4
+top300_velocity_all,bigram,gripping psychological,4
+top300_velocity_all,bigram,everflame kindred's,4
 top300_velocity_all,bigram,kindred's curse,4
 top300_velocity_all,bigram,curse saga,4
-top300_velocity_all,bigram,everflame kindred's,4
-top300_velocity_all,bigram,dungeon crawler,4
-top300_velocity_all,bigram,crawler carl,4
-top300_velocity_all,bigram,new york,4
-top300_velocity_all,bigram,coloring adults,4
-top300_velocity_all,bigram,adults teens,4
+top300_velocity_all,bigram,york times,4
+top300_velocity_all,bigram,mafia romance,4
+top300_velocity_all,bigram,small town,4
+top300_velocity_all,bigram,plated prisoner,4
 top300_velocity_all,bigram,golden novel,3
 top300_velocity_all,bigram,theo golden,3
-top300_velocity_all,bigram,club novel,3
-top300_velocity_all,bigram,crescent city,3
-top300_velocity_all,bigram,romance society,3
-top300_velocity_all,bigram,society villains,3
-top300_velocity_all,bigram,murder mystery,3
-top300_velocity_all,bigram,bonds bonds,3
-top300_velocity_all,bigram,bonds tie,3
-top300_velocity_low_medium_content,word,coloring,81
-top300_velocity_low_medium_content,word,adults,58
-top300_velocity_low_medium_content,word,teens,34
-top300_velocity_low_medium_content,word,guide,32
-top300_velocity_low_medium_content,word,relaxation,31
-top300_velocity_low_medium_content,word,kids,30
-top300_velocity_low_medium_content,word,cozy,26
-top300_velocity_low_medium_content,word,easy,25
-top300_velocity_low_medium_content,word,how,24
-top300_velocity_low_medium_content,word,featuring,24
-top300_velocity_low_medium_content,word,puzzles,22
-top300_velocity_low_medium_content,word,more,21
-top300_velocity_low_medium_content,word,cute,21
-top300_velocity_low_medium_content,word,color,20
-top300_velocity_low_medium_content,word,practice,19
-top300_velocity_low_medium_content,word,workbook,18
-top300_velocity_low_medium_content,word,2027,18
-top300_velocity_low_medium_content,word,complete,18
-top300_velocity_low_medium_content,word,step,18
-top300_velocity_low_medium_content,word,100,18
-top300_velocity_low_medium_content,word,designs,17
-top300_velocity_low_medium_content,word,day,17
-top300_velocity_low_medium_content,word,calendar,16
-top300_velocity_low_medium_content,word,mystery,15
-top300_velocity_low_medium_content,word,prep,14
-top300_velocity_low_medium_content,word,fun,14
-top300_velocity_low_medium_content,word,brain,14
-top300_velocity_low_medium_content,word,animals,14
-top300_velocity_low_medium_content,word,print,14
-top300_velocity_low_medium_content,word,puzzle,13
-top300_velocity_low_medium_content,word,study,13
-top300_velocity_low_medium_content,word,ages,13
-top300_velocity_low_medium_content,word,large,13
-top300_velocity_low_medium_content,word,000,13
-top300_velocity_low_medium_content,word,simple,12
-top300_velocity_low_medium_content,word,full,12
-top300_velocity_low_medium_content,word,adult,11
-top300_velocity_low_medium_content,word,tests,11
-top300_velocity_low_medium_content,word,test,11
-top300_velocity_low_medium_content,word,activity,11
-top300_velocity_low_medium_content,bigram,coloring adults,34
-top300_velocity_low_medium_content,bigram,adults teens,26
-top300_velocity_low_medium_content,bigram,step step,17
-top300_velocity_low_medium_content,bigram,teens featuring,14
-top300_velocity_low_medium_content,bigram,study guide,11
-top300_velocity_low_medium_content,bigram,practice tests,11
-top300_velocity_low_medium_content,bigram,calendar 2027,11
-top300_velocity_low_medium_content,bigram,test prep,10
-top300_velocity_low_medium_content,bigram,page day,10
-top300_velocity_low_medium_content,bigram,bold easy,10
+top300_velocity_all,bigram,sunrise reaping,3
+top300_velocity_all,bigram,hunger games,3
+top300_velocity_low_medium_content,word,coloring,91
+top300_velocity_low_medium_content,word,calendar,61
+top300_velocity_low_medium_content,word,adults,60
+top300_velocity_low_medium_content,word,2027,57
+top300_velocity_low_medium_content,word,kids,49
+top300_velocity_low_medium_content,word,teens,37
+top300_velocity_low_medium_content,word,easy,35
+top300_velocity_low_medium_content,word,wall,34
+top300_velocity_low_medium_content,word,relaxation,29
+top300_velocity_low_medium_content,word,cozy,28
+top300_velocity_low_medium_content,word,12,28
+top300_velocity_low_medium_content,word,puzzles,27
+top300_velocity_low_medium_content,word,more,27
+top300_velocity_low_medium_content,word,animals,26
+top300_velocity_low_medium_content,word,24,24
+top300_velocity_low_medium_content,word,monthly,24
+top300_velocity_low_medium_content,word,designs,24
+top300_velocity_low_medium_content,word,free,23
+top300_velocity_low_medium_content,word,cute,23
+top300_velocity_low_medium_content,word,featuring,23
+top300_velocity_low_medium_content,word,hanging,22
+top300_velocity_low_medium_content,word,inch,22
+top300_velocity_low_medium_content,word,browntrout,21
+top300_velocity_low_medium_content,word,guide,21
+top300_velocity_low_medium_content,word,color,21
+top300_velocity_low_medium_content,word,workbook,20
+top300_velocity_low_medium_content,word,day,20
+top300_velocity_low_medium_content,word,square,20
+top300_velocity_low_medium_content,word,plastic,20
+top300_velocity_low_medium_content,word,how,19
+top300_velocity_low_medium_content,word,activity,19
+top300_velocity_low_medium_content,word,fun,18
+top300_velocity_low_medium_content,word,adult,17
+top300_velocity_low_medium_content,word,bold,17
+top300_velocity_low_medium_content,word,stress,17
+top300_velocity_low_medium_content,word,big,17
+top300_velocity_low_medium_content,word,practice,16
+top300_velocity_low_medium_content,word,ages,16
+top300_velocity_low_medium_content,word,step,16
+top300_velocity_low_medium_content,word,simple,15
+top300_velocity_low_medium_content,bigram,coloring adults,37
+top300_velocity_low_medium_content,bigram,wall calendar,34
+top300_velocity_low_medium_content,bigram,adults teens,27
+top300_velocity_low_medium_content,bigram,calendar 2027,25
+top300_velocity_low_medium_content,bigram,hanging monthly,22
+top300_velocity_low_medium_content,bigram,inch hanging,22
+top300_velocity_low_medium_content,bigram,2027 12,20
+top300_velocity_low_medium_content,bigram,square wall,20
+top300_velocity_low_medium_content,bigram,12 24,20
+top300_velocity_low_medium_content,bigram,monthly square,20
+top300_velocity_low_medium_content,bigram,plastic free,20
+top300_velocity_low_medium_content,bigram,24 inch,20
+top300_velocity_low_medium_content,bigram,calendar plastic,19
+top300_velocity_low_medium_content,bigram,free browntrout,19
+top300_velocity_low_medium_content,bigram,step step,15
+top300_velocity_low_medium_content,bigram,adult coloring,15
+top300_velocity_low_medium_content,bigram,bold easy,14
+top300_velocity_low_medium_content,bigram,page day,13
+top300_velocity_low_medium_content,bigram,teens featuring,12
+top300_velocity_low_medium_content,bigram,easy coloring,11
+top300_velocity_low_medium_content,bigram,day calendar,10
 top300_velocity_low_medium_content,bigram,large print,10
-top300_velocity_low_medium_content,bigram,how draw,9
-top300_velocity_low_medium_content,bigram,adult coloring,9
-top300_velocity_low_medium_content,bigram,murder mystery,8
-top300_velocity_low_medium_content,bigram,relaxation cozy,8
-top300_velocity_low_medium_content,bigram,word search,8
-top300_velocity_low_medium_content,bigram,designs relaxation,7
-top300_velocity_low_medium_content,bigram,stress relief,7
-top300_velocity_low_medium_content,bigram,kids ages,7
-top300_velocity_low_medium_content,bigram,day calendar,7
-top300_velocity_low_medium_content,bigram,easy coloring,7
-top300_velocity_low_medium_content,bigram,harry potter,6
-top300_velocity_low_medium_content,bigram,ultimate guide,6
-top300_velocity_low_medium_content,bigram,featuring cute,6
-top300_velocity_low_medium_content,bigram,easy designs,6
+top300_velocity_low_medium_content,bigram,stress relief,10
+top300_velocity_low_medium_content,bigram,designs relaxation,10
+top300_velocity_low_medium_content,bigram,kids ages,9
