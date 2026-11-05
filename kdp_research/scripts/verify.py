@@ -57,13 +57,21 @@ def asi_lookup(fp, pid, url):
 
 def tpt_lookup(fp, url_prod):
     b = open(fp, encoding="utf-8", errors="ignore").read()
-    i = b.find(url_prod.replace("https://www.teacherspayteachers.com", ""))
-    if i < 0: return None
-    t = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", b[i:i + 6000])))
-    rv = re.search(r"based on ([0-9,]+) reviews?", t); ra = re.search(r"Rated ([0-9.]+) out of 5", t)
-    return {"review_count": rv.group(1).replace(",", "") if rv else NS, "rating": ra.group(1) if ra else NS}
+    path = url_prod.replace("https://www.teacherspayteachers.com", "")
+    for c in re.split(r'data-testid="ProductRow"', b)[1:]:
+        if path in c:
+            t = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", c)))
+            rv = re.search(r"based on ([0-9,]+) reviews?", t); ra = re.search(r"Rated ([0-9.]+) out of 5", t)
+            return {"review_count": rv.group(1).replace(",", "") if rv else NS, "rating": ra.group(1) if ra else NS}
+    return None
 
 
+RAWA = {}
+for x in csv.DictReader(open(os.path.join(REPO, "raw", "amazon_asinsight.csv"))):
+    RAWA.setdefault(x["asin"], x)          # first appearance = the row master took its source_url from
+RAWG = {}
+for x in csv.DictReader(open(os.path.join(REPO, "raw", "gumroad.csv"))):
+    RAWG.setdefault(x["product_id"], x)
 out = []
 done_fetch = {}
 for r in S:
@@ -76,12 +84,14 @@ for r in S:
         orig = os.path.join(BASE, "pages", "profitable", nid_ins + ".html"); lookup = lambda fp: prof_lookup(fp, r["product_id"]); site = "profitable.app"
     elif mk == "gumroad":
         # first appearance url is in query_or_category; use the saved search JSON
-        q = r["query_or_category"].split(" | ")[0]; qq, sort = q.rsplit("[", 1); sort = sort.rstrip("]")
-        url = "https://gumroad.com/products/search?" + __import__("urllib.parse").parse.urlencode({"query": qq, "from": 0} | ({"sort": sort} if sort != "default" else {}))
-        orig = os.path.join(BASE, "pages", "gumroad", re.sub(r"\W+", "_", f"{qq}_{sort}_0") + ".json"); fields = ["price", "review_count", "rating"]
+        g = RAWG.get(r["product_id"])
+        url = g["source_url"]; frm = re.search(r"from=(\d+)", url).group(1)
+        orig = os.path.join(BASE, "pages", "gumroad", re.sub(r"\W+", "_", f"{g['query']}_{g['sort']}_{frm}") + ".json"); fields = ["price", "review_count", "rating"]
+        r = dict(r); r["review_count"] = g["rating_count"] if g["rating_count"] not in ("", "None") else NS; r["rating"] = g["rating"] if g["rating"] not in ("", "None") else NS
         lookup = lambda fp: gum_lookup(fp, r["product_id"]); site = "gumroad.com"
     elif route == "third_party:asinsight":
-        url = r["source_url"]; slug = url.rstrip("/").split("/")[-1]
+        a0 = RAWA[r["product_id"]]; r = dict(r); r["monthly_sales_est_thirdparty"] = a0["monthly_sales_est_thirdparty"]; r["rating"] = a0["rating"]
+        url = a0["source_url"]; slug = url.rstrip("/").split("/")[-1]
         orig = os.path.join(BASE, "pages", "asinsight", slug[:150] + ".html"); fields = ["monthly_sales_est_thirdparty", "rating"]
         lookup = lambda fp: asi_lookup(fp, r["product_id"], url); site = "asinsight.com"
     elif mk == "teacherspayteachers":
@@ -102,8 +112,11 @@ for r in S:
     try:
         if url not in done_fetch:
             fp = os.path.join(VD, re.sub(r"\W+", "_", url)[-150:] + (".json" if site == "gumroad.com" else ".html"))
-            st, _ = fetch(site, url, fp, 7, 10, accept="application/json" if site == "gumroad.com" else None)
+            if not (os.path.exists(fp) and os.path.getsize(fp) > 1000):
+                st, _ = fetch(site, url, fp, 7, 10, accept="application/json" if site == "gumroad.com" else None)
             done_fetch[url] = fp
+        if not os.path.exists(done_fetch[url]):
+            raise FileNotFoundError(done_fetch[url])
         n = lookup(done_fetch[url])
         if n is None:
             res["live_status"] = "row no longer on page (rank drift)"
@@ -112,6 +125,8 @@ for r in S:
             res["live_status"] = "match" if not bad else "DRIFT " + ",".join(f"{k}:{r[k]}->{n.get(k)}" for k in bad)
     except SiteBlocked as e:
         res["live_status"] = "BLOCKED " + str(e)[:80]
+    except Exception as e:
+        res["live_status"] = "fetch failed (network/curl error): " + str(e)[:60]
     except StopMorocco as e:
         print("STOP MOROCCO", e); break
     res["verified_at"] = utcnow(); out.append(res)

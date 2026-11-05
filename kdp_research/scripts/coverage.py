@@ -93,3 +93,14 @@ EST = r"""
 | F. Comparison marketplaces | Gumroad search JSON (36 queries × 3 sorts), Teachers Pay Teachers (20 queries × 2 pages), Etsy via RankHero (66 keyword pages with monthly series + top listings). |
 """
 open(os.path.join(REPO, "COVERAGE_auto.md"), "a").write(EST)
+
+VB = """
+### Verifier bugs found and fixed (separated from real drift)
+
+First verifier run (stopped by a missing-file crash after 200 rows): 15 'MISMATCH' rows, all verifier bugs, none real data errors:
+- 11 ASINsight rows: master keeps the highest Units Sold/mo across all keywords a product appeared under (by design, noted per row), but the verifier compared it with the first keyword's page. Fixed: the verifier now compares against the raw row for that page.
+- 4 Teachers Pay Teachers rows: the verifier looked for the product URL in the first place it appeared in the HTML (a JSON blob) instead of the product card. Fixed: it now searches inside the matching ProductRow card.
+- Gumroad rows were looked up in the from=0 page even when collected from a later page. Fixed: the verifier uses each raw row's own source_url.
+- One ASINsight re-fetch failed with a network error (no file written), which crashed the run. Fixed: such rows are recorded as 'fetch failed' instead.
+"""
+open(os.path.join(REPO, "COVERAGE_auto.md"), "a").write(VB)
