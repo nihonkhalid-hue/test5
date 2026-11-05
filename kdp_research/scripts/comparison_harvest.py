@@ -127,11 +127,14 @@ def reddit():
             ("selfpublish", "coloring book"), ("selfpublish", "journal"), ("KDP", "niche"), ("KDP", "sales"),
             ("KDP", "low content"), ("kdp_lowcontent", "niche"), ("kdp_lowcontent", "sales"),
             ("coloringbooks", "favorite"), ("selfpublish", "romance"), ("KDP", "coloring"), ("KDP", "planner")]
-    rows = []
+    rows = list(csv.DictReader(open(os.path.join(RAWR, "demand_reddit_rss.csv")))) if os.path.exists(os.path.join(RAWR, "demand_reddit_rss.csv")) else []
+    done = {(r["subreddit"], r["term"]) for r in rows}
+    gap = (60, 90) if rows else (30, 40)
     for sub, term in plan:
+        if (sub, term) in done: continue
         url = f"https://www.reddit.com/r/{sub}/search.rss?q={urllib.parse.quote(term)}&restrict_sr=on&sort=top&t=year"
         fp = os.path.join(d, re.sub(r"\W+", "_", f"{sub}_{term}") + ".xml")
-        st, body = fetch("reddit.com", url, fp, 30, 40, accept="application/atom+xml")
+        st, body = fetch("reddit.com", url, fp, *gap, accept="application/atom+xml")
         entries = re.findall(r"<entry>(.*?)</entry>", body, re.S); ts = utcnow()
         for i, e in enumerate(entries, 1):
             g = lambda tag: html.unescape((re.search(f"<{tag}[^>]*>(.*?)</{tag}>", e, re.S) or [None, ""])[1])

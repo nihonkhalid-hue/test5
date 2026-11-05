@@ -4,7 +4,7 @@ import re
 
 SEGMENTS = [
     ("coloring", r"colou?ring|color by number|colour by number|color-by-number"),
-    ("puzzle", r"word ?search|word find|sudoku|crossword|cryptogram|kakuro|logic puzzle|brain ?teaser|brain games|puzzle book|puzzles? for|mazes? for adults|word puzzles|riddles?|trivia|dot[- ]to[- ]dot for adults|mad libs|word scramble|search[- ]a[- ]word|puzzle(s)?\b"),
+    ("puzzle", r"word ?search|word find|sudoku|crossword|cryptogram|kakuro|logic puzzle|brain ?teaser|brain games|puzzle book|puzzles? for|mazes? for adults|word puzzles|riddles?|trivia|dot[- ]to[- ]dot for adults|mad libs|word scramble|search[- ]a[- ]word|puzzle(s)?\b|would you rather|joke book|jokes for kids|this or that"),
     ("activity-kids", r"activity book|activity pad|sticker book|stickers? (book|activity)|mazes?|dot[- ]to[- ]dot|connect the dots|seek and find|hidden pictures|look and find|scissor skills|cut and paste|search and find|i spy|games? for kids|activities for kids"),
     ("art-instruction", r"how to draw|learn to draw|drawing (book|guide|for)|draw (anime|manga|cute|kawaii)|sketchbook|sketch book|drawing pad|manga drawing|anime drawing|calligraphy|lettering|watercolor (book|for beginners)|art (book|techniques)|zentangle"),
     ("workbook-education", r"workbook|handwriting|tracing|trace letters|letter tracing|cursive|phonics|preschool|pre-k|kindergarten|first grade|1st grade|2nd grade|math (practice|workbook)|multiplication|sight words|alphabet|abc|learn(ing)? to (read|write)|homeschool|test prep|study guide|practice (book|test)|flash cards|summer brain|spectrum|brain quest"),
@@ -86,6 +86,10 @@ NICHE_RULES = {
                             ("selfhelp-spiritual-manifest", r"manifest|spirit|law of attraction|god|bible|christian|faith"), ("selfhelp-other", r".")],
     "cookbook": [("cookbook-diet-health", r"keto|diet|anti[- ]inflammatory|diabet|mediterranean|vegan|gluten|low carb|heart"), ("cookbook-appliance", r"air fryer|instant pot|slow cooker|crock|ninja|bread machine"),
                  ("cookbook-baking", r"bak|bread|dessert"), ("cookbook-kids", r"kids"), ("cookbook-japanese-asian", r"japan|ramen|bento|sushi|korean|asian|anime"), ("cookbook-other", r".")],
+    "other": [("other-magazine", r"magazine|\| (january|february|march|april|may|june|july|august|september|october|november|december)|\b(19|20)\d\d\b.*issue|real simple|good housekeeping|better homes|woman's day|country living|hgtv|birds & blooms"),
+              ("other-crafts-hobby-howto", r"knit|crochet|sew|quilt|embroider|craft|woodwork|garden|home|house|decor|interior|survival|off-grid|diy|stencil|origami|paper"),
+              ("other-gift-humor-novelty", r"mini|kit|figure|gift|humor|funny|celebrating a special year|time traveling"),
+              ("other-reference-collectibles", r"guide|coin|encyclopedia|dictionary|atlas|handbook|manual|bible of"), ("other-general", r".")],
     "picture-book": [("picture-book-bedtime-emotions", r"bedtime|feel|emotion|love you|kind"), ("picture-book-baby-board", r"baby|board|touch|first words"), ("picture-book-holiday", r"christmas|halloween|easter|valentine"), ("picture-book-other", r".")],
 }
 

@@ -15,6 +15,8 @@ HOT = re.compile(r"colou?ring|puzzle|word search|sudoku|crossword|activit|journa
                  r"workbook|handwriting|education|teen|young adult|romance|romantasy|fantasy|cozy|mystery|self-help|"
                  r"happiness|motivation|mindful|cook|baking|recipe|christian|prayer|devotion|bible|humor|stickers?|"
                  r"art|calendar|reference|parenting|horror|paranormal|dark|erotica|litrpg|kawaii|japan", re.I)
+CORE = re.compile(r"colou?ring|puzzle|word|sudoku|crossword|logic|brain|activit|journal|diar|planner|notebook|writing|drawing|"
+                  r"manga|anime|workbook|handwriting|early learning|stickers?|games|craft|art|calendar|kawaii|japan", re.I)
 SEEDS = [("48", "Crafts, Hobbies & Home"), ("11357541011", "Coloring Books for Grown-Ups"), ("86", "Humor & Entertainment"),
          ("4", "Children's Books"), ("4736", "Self-Help"), ("23", "Romance"), ("6", "Cookbooks, Food & Wine"),
          ("28", "Teens"), ("12290", "Christian Books & Bibles"), ("21", "Reference"), ("1", "Arts & Photography"),
@@ -62,7 +64,7 @@ def main():
     def push(nid, name, base):
         if nid and nid not in seen:
             seen.add(nid); names[nid] = name
-            heapq.heappush(pq, (base - (5 if HOT.search(name or "") else 0), len(seen), nid))
+            heapq.heappush(pq, (base - (5 if HOT.search(name or "") else 0) - (4 if CORE.search(name or "") else 0), len(seen), nid))
     for k, (nid, nm) in enumerate(SEEDS): push(nid, nm, -10 + k * 0.01)
     views = [("ROOT", ins) for ins in INSIGHTS + ["ku-goldmines"]]
     n = 0
@@ -112,8 +114,8 @@ def main():
         if not data: continue
         for b in data:
             push(str(b.get("bestSubCategoryNodeId") or ""), b.get("bestSubCategoryName") or "", 0)
-        hot = HOT.search(names.get(nid, "")) is not None
-        for ins in (INSIGHTS[1:] if hot else INSIGHTS[1:2]):
+        core = CORE.search(names.get(nid, "")) is not None
+        for ins in (INSIGHTS[1:] if core else INSIGHTS[1:2]):
             do(nid, ins)
 
 

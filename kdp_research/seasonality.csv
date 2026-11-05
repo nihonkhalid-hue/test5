@@ -1,10 +1,26 @@
 term,source,peak_month,peak_index,publish_by,yoy_pct,vs_5y_ago_pct,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 activity book,google_trends_WW,Sep,127.5,Jul 15 (6-8 weeks before Sep),87.1,146.9,89.0,112.2,101.2,99.7,110.6,94.9,83.8,99.6,127.5,97.6,102.9,80.9
+bold and easy coloring,google_trends_WW,Dec,131.7,Oct 15 (6-8 weeks before Dec),0.4,,99.1,126.5,118.1,78.6,92.9,63.6,83.5,84.2,107.2,97.4,117.0,131.7
+coloring book,google_trends_US,Dec,132.8,Oct 15 (6-8 weeks before Dec),3.9,49.7,102.8,98.1,96.7,91.5,92.3,88.7,91.1,94.6,95.8,98.7,116.9,132.8
 coloring book,google_trends_WW,Dec,125.2,Oct 15 (6-8 weeks before Dec),12.6,97.2,100.4,104.4,95.6,90.9,92.7,88.0,89.5,100.5,102.9,98.1,111.8,125.2
+cookbook,google_trends_WW,Dec,140.1,Oct 15 (6-8 weeks before Dec),32.9,47.5,104.6,98.8,95.5,94.7,96.1,87.7,88.1,93.3,92.3,90.5,118.3,140.1
+cozy mystery,google_trends_WW,Aug,111.8,Jun 15 (6-8 weeks before Aug),77.0,263.3,102.1,102.2,93.5,109.0,97.4,93.8,98.3,111.8,110.8,99.0,89.9,92.2
+dark romance,google_trends_WW,Aug,115.1,Jun 15 (6-8 weeks before Aug),33.9,690.3,89.2,98.0,98.4,95.7,99.0,100.9,95.7,115.1,110.8,101.2,98.1,97.8
 gratitude journal,google_trends_WW,Feb,211.8,Dec 15 (6-8 weeks before Feb),386.8,455.0,92.4,211.8,65.4,72.9,79.8,92.4,98.4,148.8,113.8,52.2,72.6,99.6
+handwriting practice,google_trends_WW,Sep,123.8,Jul 15 (6-8 weeks before Sep),21.9,44.0,93.9,96.2,99.4,101.9,108.2,96.5,89.9,114.9,123.8,101.9,92.6,80.7
+how to draw anime,google_trends_WW,Feb,158.4,Dec 15 (6-8 weeks before Feb),215.1,95.4,89.2,158.4,83.4,93.4,101.9,97.2,99.9,126.3,105.3,73.8,84.2,87.2
+journal,google_trends_WW,May,106.1,Mar 15 (6-8 weeks before May),70.7,115.5,95.8,103.4,103.9,101.0,106.1,99.5,96.9,105.6,105.9,91.2,100.0,90.8
+kawaii,google_trends_WW,Feb,114.4,Dec 15 (6-8 weeks before Feb),3.4,-26.2,101.1,114.4,100.5,110.0,104.1,98.5,97.7,93.3,91.6,92.8,98.3,97.8
+low content books,google_trends_WW,May,132.9,Mar 15 (6-8 weeks before May),248.0,253.2,101.0,93.9,114.3,95.2,132.9,104.3,84.8,119.7,110.5,73.3,82.3,87.8
+password book,google_trends_WW,May,126.6,Mar 15 (6-8 weeks before May),136.5,298.8,91.5,106.3,95.8,99.1,126.6,114.0,95.2,105.3,112.5,84.0,82.4,87.2
 planner,google_trends_WW,Aug,109.5,Jun 15 (6-8 weeks before Aug),19.9,24.1,108.6,100.0,95.2,95.5,99.0,97.6,99.6,109.5,107.4,89.8,94.9,102.9
 puzzle book,google_trends_WW,May,126.5,Mar 15 (6-8 weeks before May),149.7,330.4,79.6,93.8,99.5,119.8,126.5,88.9,93.8,99.9,97.6,82.2,103.6,114.8
+romantasy,google_trends_WW,Aug,124.5,Jun 15 (6-8 weeks before Aug),72.4,17723.8,91.2,104.6,107.5,91.7,98.6,97.9,94.4,124.5,111.3,99.1,93.8,85.4
+self help books,google_trends_WW,Dec,123.3,Oct 15 (6-8 weeks before Dec),26.9,38.2,120.7,99.7,98.1,93.4,95.0,95.5,91.4,99.8,100.7,84.6,97.7,123.3
+sketchbook,google_trends_WW,Dec,108.0,Oct 15 (6-8 weeks before Dec),17.2,6.5,104.8,100.5,104.4,95.6,94.3,91.8,101.1,104.9,102.5,93.6,98.6,108.0
+sudoku book,google_trends_US,Dec,140.5,Oct 15 (6-8 weeks before Dec),74.3,195.4,98.0,107.5,90.6,103.8,103.5,93.2,76.3,92.7,88.0,101.9,104.1,140.5
 sudoku book,google_trends_WW,Dec,124.4,Oct 15 (6-8 weeks before Dec),98.7,249.0,84.8,104.5,88.7,87.7,99.4,97.1,88.0,112.6,109.7,100.0,103.0,124.4
+word search,google_trends_US,Apr,120.4,Feb 15 (6-8 weeks before Apr),-13.0,-3.0,99.1,113.0,112.2,120.4,114.7,71.3,64.1,88.6,104.8,109.8,102.6,99.4
 word search,google_trends_WW,May,113.5,Mar 15 (6-8 weeks before May),6.9,17.2,97.5,108.5,109.2,111.6,113.5,88.5,76.5,92.4,103.6,101.2,102.9,94.8
 2027 planner,rankhero_etsy_monthly_searches(Oct2025-Sep2026),Sep,518.0,Jul 15 (6-8 weeks before Sep),,,13.8,13.8,20.3,29.7,37.6,68.9,126.8,347.4,518.0,5.0,7.5,11.3
 activity book,rankhero_etsy_monthly_searches(Oct2025-Sep2026),Oct,127.0,Aug 15 (6-8 weeks before Oct),,,103.6,84.7,103.6,84.7,84.7,84.7,84.7,84.7,127.0,127.0,127.0,103.6

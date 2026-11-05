@@ -1,16 +1,16 @@
 rank,segment,opportunity_score,listings,median_price_usd,median_pages,median_reviews,median_monthly_sales_est,p75_monthly_sales_est,median_royalty_per_sale_est,median_monthly_royalty_est,share_indie,median_velocity,top3_sales_share_dominance,top3_names,books_under_12mo,newcomers_50rev_or_300sales,newcomer_rate,share_kindle_unlimited,japan_fit_share,trend_term,trend_direction_US_yoy,trend_yoy_pct
-1,fiction-romance,42.7,79,6.99,422.0,4112.0,16434.0,22521.5,4.19,76850.5,0.392,1073.55,0.262,Entangled: Red Tower Books; Grand Central Publishing; Montlake,50,49,0.98,0.684,0.0,romantasy,no series,
-2,fiction-other,37.9,89,14.99,348.5,2075.0,5259.0,17127.0,5.25,39692.0,0.191,153.39,0.299,Entangled: Red Tower Books; Dandy House; Doubleday,49,48,0.98,0.292,0.0,,no series,
-3,picture-book,35.2,32,18.98,88.0,92.5,1930.0,5451.75,3.49,5684.5,0.25,35.81,0.512,Clarion Books; Tundra Books; Wonder House Books,16,16,1.0,0.156,0.0,,no series,
-4,workbook-education,32.6,42,20.73,216.0,680.5,2772.5,6376.75,7.26,15072.0,0.167,52.34,0.382,Thomas Nelson; HarperCollins; Pottermore Publishing,22,18,0.818,0.071,0.0,handwriting practice,no series,
-5,art-instruction,30.7,9,10.9,110.0,2922.0,2466.0,10000.0,4.03,8578.5,0.667,107.88,0.866,Emma Greene; Patricia Rogers; Sophia Elizabeth,1,1,1.0,0.111,0.111,how to draw anime,no series,
-6,cookbook,22.8,6,26.23,280.0,112.0,4186.5,6248.75,7.69,50840.0,0.0,8.53,1.0,Harper Influence; Hardie Grant Books,1,1,1.0,0.0,0.0,cookbook,no series,
-7,journal,20.3,26,9.99,224.0,522.0,1000.0,2000.0,4.68,4550.0,0.077,39.47,0.954,"Amulet Books; Penguin Books; People, Inc.",5,5,1.0,0.115,0.0,gratitude journal,no series,
-8,puzzle,20.2,30,17.39,156.0,638.5,2086.0,4577.5,6.58,9396.0,0.2,17.63,0.805,"Puzzlewright Press; Little, Brown and Company; Guinness World Records",13,12,0.923,0.067,0.0,word search,no series,
-9,nonfiction-selfhelp,19.4,63,23.99,272.0,129.0,864.0,2436.0,7.71,6824.0,0.238,27.09,0.355,S&S/Simon Element; William Morrow; Thomas Nelson,44,38,0.864,0.159,0.016,self help books,no series,
-10,notebook,14.1,6,14.42,1664.0,6100.5,5350.0,17500.0,9.63,3900.0,0.0,3.37,1.0,Workman Kids,1,1,1.0,0.0,0.167,sketchbook,no series,
-11,other,13.6,107,14.99,200.0,268.0,994.0,2457.5,3.64,4632.0,0.084,16.77,0.521,RP Minis; Clarkson Potter; Stephen J. Ellis,24,19,0.792,0.121,0.0,,no series,
-12,activity-kids,12.6,10,10.99,64.0,1361.5,1500.0,4943.0,7.35,45063.0,0.1,28.35,0.859,Workman Publishing Company; Usborne; Boynton Bookworks,0,0,,0.2,0.0,activity book,no series,
-13,coloring,9.6,222,9.99,109.5,563.0,641.0,1268.5,3.15,3367.0,0.149,24.66,0.482,Coco Wyo; Jeanett Veronica; Random House Books for Young Readers,42,29,0.69,0.009,0.009,coloring book,no series,
-14,planner,8.8,24,17.98,640.0,38.0,779.5,1948.25,7.03,6695.5,0.042,8.93,0.776,Andrews McMeel Publishing; Golden Books; Workman Publishing Company,21,19,0.905,0.083,0.0,planner,no series,
-15,logbook,,1,29.99,224.0,156.0,727.0,727.0,9.66,7023.0,0.0,65.95,1.0,Revell,1,1,1.0,0.0,0.0,password book,no series,
+1,fiction-romance,45.5,302,5.99,384.0,1127.5,2533.0,11872.0,4.19,12105.0,0.368,254.51,0.274,Bloomsbury Publishing; Entangled: Red Tower Books; Montlake,167,156,0.934,0.603,0.007,romantasy,rising,72.4
+2,cookbook,43.0,143,29.99,272.0,223.0,769.5,2146.5,10.71,7757.0,0.196,27.99,0.443,Clarkson Potter; S&S/Simon Element; Simon and Schuster,70,57,0.814,0.112,0.014,cookbook,rising,32.9
+3,picture-book,37.1,71,19.95,96.0,338.0,1513.5,3170.0,3.63,4305.0,0.211,32.0,0.488,Clarion Books; Tundra Books; Wonder House Books,19,18,0.947,0.113,0.014,,no series,
+4,nonfiction-selfhelp,33.5,354,19.98,256.0,85.0,251.5,1009.0,7.88,2256.0,0.249,12.06,0.191,S&S/Simon Element; Avery; William Morrow,145,91,0.628,0.164,0.008,self help books,rising,26.9
+5,activity-kids,28.2,51,14.85,106.0,395.0,469.0,1238.0,5.68,1028.0,0.294,10.98,0.61,Workman Publishing Company; Usborne; Boynton Bookworks,13,8,0.615,0.078,0.0,activity book,rising,87.1
+6,planner,27.4,112,17.98,115.5,28.0,275.5,769.25,4.29,237.0,0.357,5.86,0.621,Andrews McMeel Publishing; Workman Publishing Company; Golden Books,71,51,0.718,0.027,0.009,planner,rising,19.9
+7,art-instruction,26.7,71,16.95,125.0,336.0,275.5,649.25,6.8,1719.0,0.479,10.86,0.547,Emma Greene; Patricia Rogers; Sophia Elizabeth,18,11,0.611,0.056,0.169,how to draw anime,rising,215.1
+8,coloring,26.5,576,9.99,104.0,202.0,300.0,700.0,3.15,568.0,0.417,7.23,0.337,Coco Wyo; Jeanett Veronica; Random House Books for Young Readers,153,67,0.438,0.003,0.028,coloring book,flat,3.9
+9,journal,25.1,127,13.86,163.5,165.0,296.0,900.0,4.89,551.0,0.449,6.55,0.619,Amulet Books; Second Sky; Penguin Books,31,16,0.516,0.118,0.024,gratitude journal,rising,386.8
+10,workbook-education,23.2,415,22.99,240.0,110.5,215.0,801.5,7.34,2190.0,0.34,10.21,0.239,Thomas Nelson; Pottermore Publishing; HarperCollins,159,97,0.61,0.152,0.007,handwriting practice,rising,21.9
+11,fiction-other,20.5,671,10.99,287.0,286.0,209.0,1696.75,5.25,1466.0,0.271,27.3,0.253,Hollywood Upstairs Press; Entangled: Red Tower Books; Dandy House,315,230,0.73,0.332,0.022,,no series,
+12,puzzle,19.7,316,12.03,130.5,65.0,220.0,607.75,4.34,613.0,0.5,7.57,0.517,"Puzzlewright Press; Publications International, Ltd.; Little, Brown and Company",125,63,0.504,0.104,0.003,word search,declining,-13.0
+13,notebook,14.1,19,9.99,110.0,1478.0,302.5,2563.25,2.12,124.5,0.368,1.32,0.881,Compendium; Workman Kids; VIVIBHA Studio,2,1,0.5,0.0,0.105,sketchbook,rising,17.2
+14,logbook,12.6,6,13.49,149.5,40.5,42.5,302.0,5.55,332.0,0.5,10.0,0.963,Revell; RideSecure Publishing; Evelyn Miller,3,1,0.333,0.0,0.0,password book,rising,136.5
+15,other,6.7,390,14.95,176.0,77.5,89.0,540.0,5.82,328.0,0.21,2.21,0.46,RP Minis; Clarkson Potter; Hearst Magazines,72,31,0.431,0.138,0.008,,no series,

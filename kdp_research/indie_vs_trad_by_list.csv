@@ -1,35 +1,196 @@
 list,n,share_indie,share_independently_published_exact
 profitable:ROOT[top-kdp],25,1.0,0.0
+profitable:Romance[top-kdp],26,1.0,0.0
+profitable:Science Fiction & Fantasy[top-kdp],33,1.0,0.212
+profitable:Romantasy[top-kdp],25,1.0,0.04
+"profitable:Mystery, Thriller & Suspense[top-kdp]",25,1.0,0.68
 profitable:Humor & Entertainment[top-kdp],25,1.0,0.4
+profitable:Humor & Satire[top-kdp],25,1.0,0.0
+profitable:Humor[top-kdp],25,1.0,0.0
 "profitable:Crafts, Hobbies & Home[top-kdp]",25,1.0,0.92
 profitable:Coloring Books for Grown-Ups[top-kdp],25,1.0,0.92
 profitable:Self-Help[top-kdp],25,1.0,0.56
+profitable:Humorous[top-kdp],25,1.0,1.0
+profitable:Teens[top-kdp],25,1.0,0.8
+"profitable:Art, Music & Photography[top-kdp]",25,1.0,1.0
+profitable:Art[top-kdp],25,1.0,1.0
+profitable:Seasonal[top-kdp],25,1.0,0.92
+profitable:Arts & Photography[top-kdp],25,1.0,0.92
+profitable:Science & Anatomy[top-kdp],25,1.0,1.0
 profitable:Children's Books[top-kdp],25,1.0,0.8
+profitable:Pen & Ink[top-kdp],25,1.0,0.96
+profitable:Reference[top-kdp],74,1.0,0.757
+profitable:Religious & Inspirational[top-kdp],25,1.0,1.0
+profitable:Light Novels[top-kdp],25,1.0,0.0
+profitable:Logic & Brain Teasers[top-kdp],25,1.0,0.76
+profitable:Parenting & Relationships[top-kdp],25,1.0,0.12
+profitable:Vocabulary & Spelling[top-kdp],25,1.0,0.96
+profitable:Education & Teaching[top-kdp],25,1.0,0.88
+profitable:Comics & Graphic Novels[top-kdp],25,1.0,0.56
+profitable:Motivational[top-kdp],25,1.0,0.84
+profitable:Journal Writing[top-kdp],25,1.0,0.8
+profitable:Christian Books & Bibles[top-kdp],25,1.0,0.52
+"profitable:Cookbooks, Food & Wine[top-kdp]",25,1.0,0.88
+profitable:Puzzles[top-kdp],25,1.0,1.0
+profitable:Calendars[top-kdp],25,1.0,1.0
+"profitable:Cats, Dogs & Animals[top-kdp]",25,1.0,0.92
+profitable:Travel Games[top-kdp],25,1.0,0.84
+profitable:Family Activities[top-kdp],25,1.0,0.84
+profitable:Performing Arts[top-kdp],25,1.0,0.68
+profitable:Film & Video Art[top-kdp],25,1.0,0.84
+profitable:Games & Activities[top-kdp],25,1.0,0.92
+profitable:Crosswords[top-kdp],25,1.0,0.0
+profitable:History[top-kdp],25,1.0,0.6
+profitable:Anthologies[top-kdp],25,1.0,0.04
+"profitable:Art, Music & Photography[new-trending]",25,0.88,0.8
+profitable:Art[new-trending],25,0.88,0.88
+profitable:Science & Anatomy[new-trending],25,0.84,0.84
+"profitable:Art, Music & Photography[hidden-gems]",25,0.84,0.84
+profitable:Art[hidden-gems],25,0.84,0.84
+profitable:Art[all],25,0.76,0.76
+profitable:Pen & Ink[new-trending],25,0.76,0.72
+profitable:Science & Anatomy[hidden-gems],25,0.76,0.76
+profitable:Games & Activities[hidden-gems],25,0.76,0.72
+profitable:Travel Games[new-trending],12,0.75,0.75
+profitable:Religious & Inspirational[hidden-gems],25,0.72,0.68
+profitable:Logic & Brain Teasers[hidden-gems],25,0.72,0.68
+"profitable:Art, Music & Photography[all]",25,0.68,0.68
+profitable:Crosswords[all],25,0.68,0.0
+profitable:Parenting & Relationships[new-trending],25,0.68,0.0
+profitable:Journal Writing[new-trending],15,0.667,0.6
+profitable:Humorous[hidden-gems],25,0.64,0.64
+profitable:Logic & Brain Teasers[new-trending],25,0.64,0.64
+profitable:Humorous[new-trending],23,0.609,0.609
+profitable:Games & Activities[new-trending],25,0.6,0.56
+profitable:Pen & Ink[hidden-gems],25,0.6,0.56
+profitable:Journal Writing[hidden-gems],25,0.6,0.4
+profitable:Puzzles[hidden-gems],25,0.6,0.6
+profitable:Vocabulary & Spelling[hidden-gems],25,0.6,0.6
+profitable:Puzzles[new-trending],25,0.56,0.56
+profitable:Romance[hidden-gems],30,0.533,0.0
+profitable:Humor[new-trending],15,0.533,0.0
+profitable:Travel Games[hidden-gems],25,0.52,0.52
+profitable:Light Novels[new-trending],25,0.44,0.0
+profitable:Seasonal[new-trending],19,0.421,0.421
+"profitable:Mystery, Thriller & Suspense[hidden-gems]",20,0.4,0.4
+profitable:Teens[hidden-gems],25,0.4,0.36
+profitable:Humorous[all],25,0.4,0.4
+profitable:Seasonal[hidden-gems],25,0.4,0.36
+profitable:Religious & Inspirational[new-trending],13,0.385,0.231
+bestsellers:Coloring Books for Grown-Ups,50,0.38,0.38
 profitable:Coloring Books for Grown-Ups[new-trending],25,0.36,0.36
-bestsellers:Coloring Books for Grown-Ups,50,0.3,0.3
+profitable:Games & Activities[all],25,0.36,0.28
+profitable:Light Novels[all],25,0.36,0.0
+profitable:Humor & Satire[all],25,0.32,0.0
+profitable:Humor & Satire[new-trending],25,0.32,0.0
+profitable:Family Activities[new-trending],17,0.294,0.294
+profitable:Teens[new-trending],25,0.28,0.16
+profitable:Science & Anatomy[all],25,0.28,0.28
 profitable:Coloring Books for Grown-Ups[hidden-gems],25,0.28,0.28
-profitable:Romance[new-trending],25,0.2,0.0
+profitable:Family Activities[hidden-gems],25,0.28,0.28
+profitable:Pen & Ink[all],25,0.24,0.24
 profitable:ROOT[hidden-gems],25,0.2,0.0
 profitable:Children's Books[new-trending],25,0.2,0.16
 profitable:Humor & Entertainment[new-trending],25,0.2,0.0
+profitable:Humor[all],25,0.2,0.0
+"bestsellers:Crafts, Hobbies & Home",50,0.2,0.2
+profitable:Parenting & Relationships[all],25,0.2,0.0
+profitable:Religious & Inspirational[all],25,0.2,0.2
+profitable:Education & Teaching[new-trending],25,0.2,0.16
+profitable:Reference[new-trending],57,0.193,0.193
+profitable:Romance[new-trending],26,0.192,0.0
+profitable:Romantasy[all],25,0.16,0.0
+profitable:Romantasy[new-trending],25,0.16,0.0
 profitable:Humor & Entertainment[hidden-gems],25,0.16,0.04
+profitable:Motivational[hidden-gems],25,0.16,0.16
 profitable:Coloring Books for Grown-Ups[all],25,0.16,0.16
+profitable:Education & Teaching[hidden-gems],25,0.16,0.16
+profitable:Literature & Fiction[new-trending],40,0.15,0.0
+profitable:History[new-trending],22,0.136,0.091
+profitable:Reference[hidden-gems],75,0.133,0.107
+profitable:Science Fiction & Fantasy[new-trending],57,0.123,0.0
 profitable:ROOT[all],25,0.12,0.0
 profitable:ROOT[new-trending],25,0.12,0.0
-profitable:Romance[all],25,0.12,0.0
 profitable:Humor & Entertainment[all],25,0.12,0.0
+profitable:Christian Books & Bibles[hidden-gems],25,0.12,0.04
+profitable:Seasonal[all],25,0.12,0.12
+profitable:Logic & Brain Teasers[all],25,0.12,0.08
+"profitable:Cats, Dogs & Animals[hidden-gems]",25,0.12,0.12
+profitable:Travel Games[all],25,0.12,0.12
+profitable:Parenting & Relationships[hidden-gems],25,0.12,0.12
+profitable:Romance[all],27,0.111,0.0
+bestsellers:Romance,50,0.1,0.0
+bestsellers:Arts & Photography,50,0.1,0.1
+profitable:Crosswords[hidden-gems],11,0.091,0.0
+profitable:Anthologies[hidden-gems],24,0.083,0.0
 profitable:Children's Books[all],25,0.08,0.08
 profitable:ROOT[ku-goldmines],25,0.08,0.0
 profitable:Children's Books[hidden-gems],25,0.08,0.04
+profitable:Christian Books & Bibles[new-trending],25,0.08,0.0
 profitable:Self-Help[hidden-gems],25,0.08,0.04
+profitable:Arts & Photography[all],25,0.08,0.08
+profitable:Arts & Photography[new-trending],25,0.08,0.08
+bestsellers:Humor & Entertainment,50,0.08,0.08
 "profitable:Crafts, Hobbies & Home[all]",25,0.08,0.08
+profitable:Vocabulary & Spelling[all],25,0.08,0.08
+profitable:Science Fiction & Fantasy[all],60,0.067,0.0
+bestsellers:Children's Books,50,0.06,0.06
+profitable:Science Fiction & Fantasy[hidden-gems],50,0.06,0.02
+"bestsellers:Cookbooks, Food & Wine",50,0.06,0.04
+profitable:Literature & Fiction[all],35,0.057,0.0
+profitable:Reference[all],74,0.054,0.054
+profitable:Performing Arts[hidden-gems],23,0.043,0.043
+"profitable:Mystery, Thriller & Suspense[all]",25,0.04,0.0
+"profitable:Cookbooks, Food & Wine[all]",25,0.04,0.0
+profitable:Religion & Spirituality[all],25,0.04,0.0
+profitable:Religion & Spirituality[new-trending],25,0.04,0.0
 profitable:Self-Help[all],25,0.04,0.04
+profitable:Arts & Photography[hidden-gems],25,0.04,0.04
+profitable:Motivational[all],25,0.04,0.0
+profitable:Motivational[new-trending],25,0.04,0.04
+bestsellers:Reference,50,0.04,0.04
+profitable:Teens[all],25,0.04,0.04
+bestsellers:Teens,50,0.04,0.04
+"profitable:Cats, Dogs & Animals[all]",25,0.04,0.04
 bestsellers:Books,50,0.04,0.04
 "profitable:Crafts, Hobbies & Home[new-trending]",25,0.04,0.04
+profitable:Performing Arts[all],25,0.04,0.04
 "profitable:Crafts, Hobbies & Home[hidden-gems]",25,0.04,0.04
+profitable:Family Activities[all],25,0.04,0.04
+profitable:Film & Video Art[hidden-gems],25,0.04,0.04
+bestsellers:Comics & Graphic Novels,50,0.02,0.02
+bestsellers:Self-Help,50,0.02,0.02
+"profitable:Mystery, Thriller & Suspense[new-trending]",25,0.0,0.0
+"profitable:Cookbooks, Food & Wine[new-trending]",25,0.0,0.0
+"profitable:Cookbooks, Food & Wine[hidden-gems]",25,0.0,0.0
+profitable:Comics & Graphic Novels[all],25,0.0,0.0
+profitable:Comics & Graphic Novels[new-trending],25,0.0,0.0
+profitable:Comics & Graphic Novels[hidden-gems],25,0.0,0.0
+profitable:Christian Books & Bibles[all],25,0.0,0.0
+bestsellers:Christian Books & Bibles,50,0.0,0.0
 profitable:Self-Help[new-trending],25,0.0,0.0
+"profitable:Health, Fitness & Dieting[all]",25,0.0,0.0
+"profitable:Health, Fitness & Dieting[new-trending]",25,0.0,0.0
+profitable:Journal Writing[all],25,0.0,0.0
+profitable:Calendars[all],25,0.0,0.0
+profitable:Calendars[new-trending],25,0.0,0.0
+profitable:Calendars[hidden-gems],25,0.0,0.0
+"profitable:Cats, Dogs & Animals[new-trending]",24,0.0,0.0
+profitable:Puzzles[all],25,0.0,0.0
+profitable:Film & Video Art[all],25,0.0,0.0
+profitable:History[all],25,0.0,0.0
+profitable:History[hidden-gems],25,0.0,0.0
+profitable:Anthologies[all],25,0.0,0.0
+profitable:Film & Video Art[new-trending],14,0.0,0.0
+profitable:Education & Teaching[all],25,0.0,0.0
+profitable:Anthologies[new-trending],10,0.0,0.0
+bestsellers:Books root,50,0.0,0.0
 bestsellers:Books (root),50,0.0,0.0
+asinsight:adult puzzle book,10,0.0,0.0
 asinsight:adult coloring book flowers,10,0.0,0.0
 asinsight:anti anxiety coloring book,10,0.0,0.0
+asinsight:simple adult coloring book,10,0.0,0.0
+asinsight:pattern coloring book,10,0.0,0.0
+asinsight:patterns coloring book,10,0.0,0.0
 asinsight:gratitude journal,10,0.0,0.0
 asinsight:prayer journal,10,0.0,0.0
