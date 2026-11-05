@@ -56,7 +56,7 @@ if V:
     L.append(f"Sample: {len(V)} rows. Step 1 (re-parse the saved page, tests the pipeline): {dict(c1)}; mismatch rate {round(100*sum(1 for x in rp if x['reparse_status'].startswith('MISMATCH'))/max(1,len(rp)),1)}% of {len(rp)} checkable rows.")
     L.append(f"Step 2 (live re-fetch now, tests real drift): {dict(c2)}; value drift {round(100*sum(1 for x in lv if x['live_status'].startswith('DRIFT'))/max(1,len(lv)),1)}% of {len(lv)} rows still on the page; rows that left the page = rank drift.")
     L.append("Per-row results: verification.csv.\n")
-open(os.path.join(REPO, "COVERAGE_auto.md"), "w").write("\n".join(L))
+open(os.path.join(REPO, "COVERAGE.md"), "w").write("\n".join(L))
 print("coverage written", nb, "blocked lines")
 
 EST = r"""
@@ -92,7 +92,7 @@ EST = r"""
 | E. Demand / trends | Google Trends: all 20 terms × worldwide + US (40 series, 5-year weekly), no 429. Reddit: 2 feeds, 429; one resume 50 min later got 3 more feeds then 429 → stopped for good (r/kdp_lowcontent and r/coloringbooks never reached). WebSearch summaries recorded in REPORT caveats and raw/demand_websearch_signals.tsv. |
 | F. Comparison marketplaces | Gumroad search JSON (36 queries × 3 sorts), Teachers Pay Teachers (20 queries × 2 pages), Etsy via RankHero (66 keyword pages with monthly series + top listings). |
 """
-open(os.path.join(REPO, "COVERAGE_auto.md"), "a").write(EST)
+open(os.path.join(REPO, "COVERAGE.md"), "a").write(EST)
 
 VB = """
 ### Verifier bugs found and fixed (separated from real drift)
@@ -103,4 +103,14 @@ First verifier run (stopped by a missing-file crash after 200 rows): 15 'MISMATC
 - Gumroad rows were looked up in the from=0 page even when collected from a later page. Fixed: the verifier uses each raw row's own source_url.
 - One ASINsight re-fetch failed with a network error (no file written), which crashed the run. Fixed: such rows are recorded as 'fetch failed' instead.
 """
-open(os.path.join(REPO, "COVERAGE_auto.md"), "a").write(VB)
+open(os.path.join(REPO, "COVERAGE.md"), "a").write(VB)
+
+NOTE = """
+### Verification result notes
+
+- Live drift is 0% for profitable.app rows because that dataset is a fixed snapshot (Updated Oct 9, 2026); a live re-fetch on the same day returns the same values. Amazon itself could not be re-fetched (blocked), so true Amazon drift since Oct 9 is unknown.
+- 'row' (31 rows): Teachers Pay Teachers rows collected from page 2; the verifier only re-checks page 1, so they could not be compared.
+- The rankhero.com line in the blocked table is a false positive: the page was a real "404 | Page not found" that contains Cloudflare's beacon script. Netlib was fixed to not flag such pages, and the one allowed resume after a 33-minute cooldown completed without incident.
+- 'not' (72 rows): sources the verifier cannot re-fetch: Amazon direct (blocked), Etsy (via RankHero listing cards, not re-parsed) and Goodreads.
+"""
+open(os.path.join(REPO, "COVERAGE.md"), "a").write(NOTE)
